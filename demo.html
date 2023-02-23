@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Add Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script type="text/javascript">
+        /**
+         * @license
+         * Copyright 2019 Google LLC. All Rights Reserved.
+         * SPDX-License-Identifier: Apache-2.0
+         */
+        // Initialize and add the map
+        let markers = [];
+
+        function clear() {
+            markers.forEach((marker) => {
+                marker.setMap(null);
+            });
+            markers = [];
+        }
+
+        function showD1(map) {
+            clear();
+            fetch("https://athletesafter.github.io/json/d1_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let m = new google.maps.Marker({
+                            position: latlng,
+                            map: map
+                        });
+                        let iw = new google.maps.InfoWindow({
+                            content: school['Name of School'],
+                        })
+                        m.addListener("mouseover", () => {
+                            iw.open({
+                                anchor: m,
+                                map
+                            })
+                        });
+                        m.addListener("mouseout", () => {
+                            iw.close();
+                        })
+                        markers.push(m);
+                    })
+                })
+        };
+
+        function showD2(map) {
+            clear();
+            fetch("https://athletesafter.github.io/json/d2_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let m = new google.maps.Marker({
+                            position: latlng,
+                            map: map
+                        });
+                        let iw = new google.maps.InfoWindow({
+                            content: school['Name of School'],
+                        })
+                        m.addListener("mouseover", () => {
+                            iw.open({
+                                anchor: m,
+                                map
+                            })
+                        });
+                        m.addListener("mouseout", () => {
+                            iw.close();
+                        })
+                        markers.push(m);
+                    })
+                })
+        };
+
+        function showD3(map) {
+            clear();
+            fetch("https://athletesafter.github.io/json/d3_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let m = new google.maps.Marker({
+                            position: latlng,
+                            map: map
+                        });
+                        let iw = new google.maps.InfoWindow({
+                            content: school['School'],
+                        })
+                        m.addListener("mouseover", () => {
+                            iw.open({
+                                anchor: m,
+                                map
+                            })
+                        });
+                        m.addListener("mouseout", () => {
+                            iw.close();
+                        })
+                        markers.push(m);
+                    })
+                })
+        };
+
+        function initMap() {
+            // The location of Uluru
+            const center_us = {
+                lat: 37.0902,
+                lng: -95.7129
+            };
+            // The map, centered at Uluru
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 4,
+                center: center_us,
+                styles: [{
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.icon",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.stroke",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#bdbdbd"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "labels.text",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.business",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#ffffff"
+                        }]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "labels.icon",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.arterial",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.arterial",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#dadada"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "transit",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.line",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.station",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#c9c9c9"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    }
+                ]
+            });
+            document.getElementById('button-d1').onclick = () => {
+                showD1(map);
+            }
+            document.getElementById('button-d2').onclick = () => {
+                showD2(map);
+            }
+            document.getElementById('button-d3').onclick = () => {
+                showD3(map);
+            }
+            console.log("Getting location!");
+            navigator.geolocation.getCurrentPosition(
+                (position) => {
+                    const pos = {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude,
+                    };
+                    console.log(pos);
+                    map.setCenter(pos);
+                    map.setZoom(8);
+                }, console.log
+            );
+            // The marker, positioned at Uluru,
+
+
+        }
+
+        window.initMap = initMap;
+    </script>
+    <!-- jsFiddle will insert css and js -->
+</head>
+
+<body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <input id="button-d1" type="button" value="D1" />
+    <input id="button-d2" type="button" value="D2" />
+    <input id="button-d3" type="button" value="D3" />
+    <div id="map"></div>
+
+
+    <!--  -->
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
+        defer></script>
+</body>
+
+<style>
+    /**
+ * @license
+ * Copyright 2019 Google LLC. All Rights Reserved.
+ * SPDX-License-Identifier: Apache-2.0
+ */
+/* Set the size of the div element that contains the map */
+#map {
+    height: 90vh; /* The height is 400 pixels */
+    width: 100%; /* The width is the width of the web page */
+  }
+  input[type=button]{
+    all: unset;
+    background-color: #444;
+    color: #EEE;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-family: sans-serif;
+    border: 1px solid black;
+  }
+  input[type=button]:hover{
+    background-color: #222;
+  }
+</style>
+
+</html>
