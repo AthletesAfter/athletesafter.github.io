@@ -35,17 +35,31 @@
                             position: latlng,
                             map: map
                         });
-                        let iw = new google.maps.InfoWindow({
-                            content: school['Name of School'],
+                        let infoWindow = new google.maps.InfoWindow({
+                            content: `<strong>${school['Name of School']}</strong>`,
+                        })
+                        let detailWindow = new google.maps.InfoWindow({
+                            content: `<h3>${school['Name of School']}</h3><br/>
+                            <strong>2023 Ranking:</strong>${school['Rank 2022']}<br/>
+                            <strong> FCS / FBS:</strong>${school['FCS/FBC']}<br/>
+                            <strong> Head Coach: </strong>${school['Head Coach']}<br/>
+                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])} target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`
                         })
                         m.addListener("mouseover", () => {
-                            iw.open({
+                            infoWindow.open({
                                 anchor: m,
                                 map
                             })
                         });
+                        m.addListener("click", () => {
+                            detailWindow.open({
+                                anchor: m,
+                                map
+                            })
+                        })
                         m.addListener("mouseout", () => {
-                            iw.close();
+                            infoWindow.close();
                         })
                         markers.push(m);
                     })
