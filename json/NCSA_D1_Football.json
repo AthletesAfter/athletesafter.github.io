@@ -1,0 +1,11711 @@
+[
+ {
+   "B": "FCS/FBS",
+   "C": "Name of School",
+   "D": "Conference",
+   "E": "Private/Public",
+   "F": "Camp link",
+   "G": "Website",
+   "H": "Adress"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Abilene Christian University",
+   "D": "Southland Conference",
+   "E": "Private",
+   "F": "https://www.acufootballcamps.com/",
+   "G": "https://acu.edu/",
+   "H": "Abilene, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Alabama A&M University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://aamusports.com/news/2022/5/26/alabama-am-football-set-to-host-2022-individual-camps.aspx",
+   "G": "https://www.aamu.edu/",
+   "H": "Normal, Alabama"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Alabama State University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.eddierobinsonjrfootballcamps.com/",
+   "G": "https://www.alasu.edu/",
+   "H": "Montgomery, Alabama"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Alcorn State University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://alcornsports.com/news/2019/4/16/fred-mcnair-football-camp-set-for-june-8.aspx",
+   "G": "https://www.alcorn.edu/",
+   "H": "Alcorn State, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Appalachian State University",
+   "D": "Southern Conference",
+   "E": "Public",
+   "F": "https://www.shawnclarkfootballcamps.com/",
+   "G": "https://www.appstate.edu/",
+   "H": "Boone, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Arizona State University",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://maroonandgoldfootballcamp.totalcamps.com/About%20Us",
+   "G": "https://www.asu.edu/",
+   "H": "Tempe, Arizona"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Arkansas State University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://www.astatefootball.com/",
+   "G": "https://www.astate.edu/",
+   "H": "Jonesboro, Arkansas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Auburn University",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://www.auburnfootballcamps.com/",
+   "G": "https://www.auburn.edu/",
+   "H": "Auburn, Alabama"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Austin Peay State University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://www.scottywaldenfootballcamps.com/",
+   "G": "https://www.apsu.edu/",
+   "H": "Clarksville, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Ball State University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://ballstatefootballcamps.totalcamps.com/About%20Us",
+   "G": "https://bsu.edu/",
+   "H": "Muncie, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Baylor University",
+   "D": "Big 12 Conference",
+   "E": "Private",
+   "F": "https://baylorbears.com/feature/footballcamps",
+   "G": "https://www.baylor.edu/",
+   "H": "Waco, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Bethune-Cookman University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Private",
+   "F": "https://bcuathletics.com/news/2017/6/8/bcu-football-hosts-elite-prospect-camp",
+   "G": "https://www.cookman.edu/",
+   "H": "Daytona Beach, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Boise State University",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://athleticscamp.boisestate.edu/Auth/Index/?ReturnUrl=%2F",
+   "G": "https://www.boisestate.edu/",
+   "H": "Boise, Idaho"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Boston College",
+   "D": "Atlantic Coast Conference",
+   "E": "Private",
+   "F": "https://bostoncollegefootball.totalcamps.com/About%20Us",
+   "G": "https://www.bc.edu/",
+   "H": "Chestnut Hill, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Bowling Green State University",
+   "D": "Central Collegiate Hocke",
+   "E": "Public",
+   "F": "https://www.falconfootballcamps.com/",
+   "G": "https://www.bgsu.edu/",
+   "H": "Bowling Green, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Brigham Young University",
+   "D": "West Coast Conference",
+   "E": "Private",
+   "F": "https://www.byusportscamps.com/football-camps",
+   "G": "https://www.byu.edu/",
+   "H": "Provo, Utah"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Brown University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://brownbears.com/sports/football",
+   "G": "https://www.brown.edu/",
+   "H": "Providence, Rhode Island"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Bryant University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://www.bryantbulldogs.com/information/Camps/Football_Camp",
+   "G": "https://www.bryant.edu/",
+   "H": "Smithfield, Rhode Island"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Bucknell University",
+   "D": "Collegiate Water Polo Association",
+   "E": "Private",
+   "F": "https://bucknellfootball.totalcamps.com/About%20Us",
+   "G": "https://www.bucknell.edu/",
+   "H": "Lewisburg, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Butler University",
+   "D": "Pioneer Football League",
+   "E": "Private",
+   "F": "https://www.butlerfootballcamps.com/",
+   "G": "https://www.butler.edu/",
+   "H": "Indianapolis, Indiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "California Polytechnic State University – San Luis Obispo",
+   "D": "Big West Conference",
+   "E": "Public",
+   "F": "https://gopoly.com/sports/2020/6/4/insideathletics-camps",
+   "G": "https://www.calpoly.edu/",
+   "H": "San Luis Obispo, California"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "California State University – Fresno",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "http://www.dogwireddudes.com/About%20Us",
+   "G": "https://www.csufresno.edu/",
+   "H": "Fresno, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "California State University – Sacramento",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/csusfb",
+   "G": "https://www.csus.edu/",
+   "H": "Sacramento, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Campbell University",
+   "D": "Pioneer Football League",
+   "E": "Private",
+   "F": "https://gocamels.com/sports/2017/7/18/campbell-football-camps",
+   "G": "https://www.campbell.edu/",
+   "H": "Buies Creek, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Central Connecticut State University",
+   "D": "Northeast Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/CCSU",
+   "G": "https://www2.ccsu.edu/",
+   "H": "New Britain, Connecticut"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Central Michigan University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://cmufootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.cmich.edu/",
+   "H": "Mount Pleasant, Michigan"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Charleston Southern University",
+   "D": "Big South Conference",
+   "E": "Private",
+   "F": "https://charlestonsouthernfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.charlestonsouthern.edu/",
+   "H": "Charleston, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Clemson University",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://clemsontigers.com/camps/",
+   "G": "https://www.clemson.edu/",
+   "H": "Clemson, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Coastal Carolina University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://georgeglennfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.coastal.edu/index.php",
+   "H": "Conway, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Colgate University",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "http://www.colgatefootballcamps.com/About%20Us",
+   "G": "https://www.colgate.edu/",
+   "H": "Hamilton, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "College of the Holy Cross",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "https://bobchesneyfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.holycross.edu/?utm_source=niche&utm_medium=page&",
+   "H": "Worcester, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Colorado State University",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://www.csuramfootballcamps.com/",
+   "G": "https://www.colostate.edu/",
+   "H": "Fort Collins, Colorado"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Columbia University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "http://www.columbialionsfootballcamp.com/About%20Us",
+   "G": "https://www.columbia.edu/",
+   "H": "New York, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Cornell University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://www.archercoachingcamp.com/",
+   "G": "https://www.cornell.edu/",
+   "H": "Ithaca, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Dartmouth College",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://www.buddyteevensfootballcamps.com/",
+   "G": "https://home.dartmouth.edu/",
+   "H": "Hanover, New Hampshire"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Davidson College",
+   "D": "Pioneer Football League",
+   "E": "Private",
+   "F": "https://davidsonfootballcamp.com/",
+   "G": "https://www.davidson.edu/",
+   "H": "Davidson, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Delaware State University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://delawarestatefootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.desu.edu/",
+   "H": "Dover, Delaware"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Drake University",
+   "D": "Pioneer Football League",
+   "E": "Private",
+   "F": "https://www.drakefootballcamps.com/",
+   "G": "https://www.drake.edu/",
+   "H": "Des Moines, Iowa"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Duke University",
+   "D": "Atlantic Coast Conference",
+   "E": "Private",
+   "F": "https://www.dukefootballcamps.com/",
+   "G": "https://duke.edu/",
+   "H": "Durham, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Duquesne University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://camps.jumpforward.com/duquesnefootballcamps",
+   "G": "https://www.duq.edu/",
+   "H": "Pittsburgh, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "East Carolina University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.mikehoustonfootballcampsllc.com/",
+   "G": "https://www.ecu.edu/",
+   "H": "Greenville, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "East Tennessee State University",
+   "D": "Atlantic Sun Conference",
+   "E": "Public",
+   "F": "https://etsufootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.etsu.edu/ehome/",
+   "H": "Johnson City, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Eastern Illinois University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://eiupanthers.com/sports/2008/9/17/sidebar_sportscamps.aspx",
+   "G": "https://www.eiu.edu/",
+   "H": "Charleston, Illinois"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Eastern Kentucky University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://www.ekufootballcamps.com/",
+   "G": "https://www.eku.edu/",
+   "H": "Richmond, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Eastern Michigan University",
+   "D": "Mid-America Conference",
+   "E": "Public",
+   "F": "https://emufootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.emich.edu/",
+   "H": "Ypsilanti, Michigan"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Eastern Washington University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://ewufootball.totalcamps.com/About%20Us",
+   "G": "https://www.ewu.edu/",
+   "H": "Cheney, Washington"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Elon University",
+   "D": "Colonial Athletic Association",
+   "E": "Private",
+   "F": "https://elonfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.elon.edu/",
+   "H": "Elon, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Florida A&M University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/famufootball",
+   "G": "https://www.famu.edu/",
+   "H": "Tallahassee, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Florida Atlantic University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.willietaggartfootballcamps.com/fau-mega-camp.cfm",
+   "G": "https://www.fau.edu/",
+   "H": "Boca Raton, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Florida International University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/mikemacfbcamps",
+   "G": "https://www.fiu.edu/",
+   "H": "Miami, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Florida State University",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://www.coachnorvellcamps.com/camps.html",
+   "G": "https://www.fsu.edu/",
+   "H": "Tallahassee, Florida"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Fordham University",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "https://www.joeconlinfootballcamps.com/summer-camps.cfm",
+   "G": "https://www.fordham.edu/",
+   "H": "Bronx, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Furman University",
+   "D": "Southern Conference",
+   "E": "Private",
+   "F": "http://www.furmanfootballcamp.com/About%20Us",
+   "G": "https://www.furman.edu/",
+   "H": "Greenville, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Gardner-Webb University",
+   "D": "Big South Conference",
+   "E": "Private",
+   "F": "https://trelambfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://gardner-webb.edu/",
+   "H": "Boiling Springs, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Georgetown University",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "http://www.hoyafootballcamp.com/About%20Us",
+   "G": "https://www.georgetown.edu/",
+   "H": "Washington, District Of Columbia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Georgia Southern University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://georgiasouthernfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.georgiasouthern.edu/",
+   "H": "Statesboro, Georgia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Georgia State University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://georgiastatesports.com/news/2023/2/7/football-2023-shawn-elliott-showcase.aspx",
+   "G": "https://www.gsu.edu/",
+   "H": "Atlanta, Georgia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Georgia Tech",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://ramblinwreck.com/football-camp/",
+   "G": "https://www.gatech.edu/",
+   "H": "Atlanta, Georgia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Grambling State University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.huejacksonfootballcamps.com/skill-camp.cfm",
+   "G": "https://www.gram.edu/",
+   "H": "Grambling, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Hampton University",
+   "D": "Big South Conference",
+   "E": "Private",
+   "F": "https://hamptonpirates.com/sports/2010/3/26/FB_0326104431",
+   "G": "https://home.hamptonu.edu/",
+   "H": "Hampton, Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Harvard University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://crimsonfootballcamps.totalcamps.com/shop/product/169290",
+   "G": "https://www.harvard.edu/",
+   "H": "Cambridge, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Houston Baptist University",
+   "D": "Southland Conference",
+   "E": "Private",
+   "F": "https://www.huskyfbcamps.com/",
+   "G": "https://hc.edu/",
+   "H": "Houston, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Howard University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Private",
+   "F": "https://ronprincefootballcamps.totalcamps.com/Facilities",
+   "G": "https://howard.edu/",
+   "H": "Washington, District Of Columbia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Idaho State University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://isubengals.com/sports/2011/4/28/FB_0428112309.aspx?id=56",
+   "G": "https://www.isu.edu/",
+   "H": "Pocatello, Idaho"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Illinois State University",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://www.spackfootballcamps.com/",
+   "G": "https://illinoisstate.edu/",
+   "H": "Normal, Illinois"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Indiana State University",
+   "D": "Missouri Valley Football Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/sycamorespotlight",
+   "G": "https://www.indstate.edu/",
+   "H": "Terre Haute, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Indiana University",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://www.indianashowcase.com/",
+   "G": "https://www.indiana.edu/",
+   "H": "Bloomington, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Iowa State University",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://www.iowastatefootballcamps.com/",
+   "G": "https://www.iastate.edu/",
+   "H": "Ames, Iowa"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Jackson State University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://eliteunderclassmencamp.leagueapps.com/events/2306620-deion-sanders-football-camp",
+   "G": "https://www.jsums.edu/",
+   "H": "Jackson, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Jacksonville State University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://www.richrodriguezfootballcamps.com/",
+   "G": "https://www.jsu.edu/",
+   "H": "Jacksonville, Alabama"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "James Madison University",
+   "D": "Colonial Athletic Association",
+   "E": "Public",
+   "F": "https://www.curtcignettifootballcamps.com/2023-elite-prospect-camps.cfm",
+   "G": "https://www.jmu.edu/index.shtml",
+   "H": "Harrisonburg, Virginia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Kansas State University",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://www.kstatefootballcamps.com/",
+   "G": "https://www.k-state.edu/",
+   "H": "Manhattan, Kansas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Kennesaw State University",
+   "D": "Atlantic Sun Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/brianbohannonfootballcamps",
+   "G": "https://www.kennesaw.edu/",
+   "H": "Kennesaw, Georgia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Kent State University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://www.kentstatefootballcamps.com/",
+   "G": "https://www.kent.edu/",
+   "H": "Kent, Ohio"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Lafayette College",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "https://lafayettefootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.lafayette.edu/",
+   "H": "Easton, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Lamar University",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://lamarcardinals.com/sb_output.aspx?form=1059&path=football",
+   "G": "https://www.lamar.edu/",
+   "H": "Beaumont, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Lehigh University",
+   "D": "Patriot League",
+   "E": "Private",
+   "F": "https://lehighsports.com/sports/2013/6/4/GEN_0604134835.aspx",
+   "G": "https://www1.lehigh.edu/home",
+   "H": "Bethlehem, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Liberty University",
+   "D": "Atlantic Sun Conference",
+   "E": "Private",
+   "F": "https://www.liberty.edu/flames/camps/",
+   "G": "https://www.liberty.edu/",
+   "H": "Lynchburg, Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Lindenwood University",
+   "D": "GLVC",
+   "E": "Private",
+   "F": "https://football.lindenwoodlionscamps.com/",
+   "G": "https://www.lindenwood.edu/",
+   "H": "Saint Charles, Missouri"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Long Island University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://www.roncooperliufootballcamps.com/",
+   "G": "https://liu.edu/brooklyn",
+   "H": "Long Island, New York"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Louisiana State University (LSU)",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://lsusports.net/footballcamps/",
+   "G": "https://www.lsu.edu/",
+   "H": "Baton Rouge, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Louisiana Tech University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.sonnycumbiefootballcamps.com/",
+   "G": "https://www.latech.edu/",
+   "H": "Ruston, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Marist College",
+   "D": "Metro Atlantic Athletic Conference",
+   "E": "Private",
+   "F": "https://maristfootball.totalcamps.com/About%20Us",
+   "G": "https://www.marist.edu/",
+   "H": "Poughkeepsie, New York"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Marshall University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://epay.marshall.edu/secure/cgi/mfootballcampssto.cgi",
+   "G": "https://www.marshall.edu/",
+   "H": "Huntington, West Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "McNeese State University",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://www.garygofffootballcamps.com/",
+   "G": "https://www.mcneese.edu/",
+   "H": "Lake Charles, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Mercer University",
+   "D": "Southern Conference",
+   "E": "Private",
+   "F": "https://www.drewcronicfootballcamps.com/",
+   "G": "https://www.ncsasports.org/athletic-scholarships/football/georgia/mercer-university",
+   "H": "Macon, Georgia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Merrimack College",
+   "D": "Northeast-10 Conference",
+   "E": "Private",
+   "F": "https://merrimackfootballclinics.totalcamps.com/About%20Us",
+   "G": "https://www.merrimack.edu/",
+   "H": "North Andover, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Miami University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/miamifootball",
+   "G": "http://miamioh.edu/",
+   "H": "Oxford, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Michigan State University",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://spartanyouth.msu.edu/Resource.aspx?ResourceID=102",
+   "G": "https://msu.edu/",
+   "H": "East Lansing, Michigan"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Middle Tennessee State University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.coachstockstillcamps.com/camps.cfm",
+   "G": "https://www.mtsu.edu/",
+   "H": "Murfreesboro, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Mississippi State University",
+   "D": "NCAA (Division I)",
+   "E": "Public",
+   "F": "https://www.hailstatecamps.com/football/",
+   "G": "https://www.msstate.edu/",
+   "H": "Mississippi State, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Mississippi Valley State University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.mvsu.edu/MVSU-Vincent-Dancy-Football-Camp-Welcome",
+   "G": "https://www.mvsu.edu/",
+   "H": "Itta Bena, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Missouri State University",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/msufootball",
+   "G": "https://www.missouristate.edu/",
+   "H": "Springfield, Missouri"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Monmouth University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://footballcamps.monmouthhawks.com/",
+   "G": "https://www.monmouth.edu/",
+   "H": "West Long Branch, New Jersey"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Montana State University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://msubobcats.com/sports/2015/2/11/FB_0211155847.aspx",
+   "G": "https://www.montana.edu/",
+   "H": "Bozeman, Montana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Morehead State University",
+   "D": "Pioneer Football League",
+   "E": "Public",
+   "F": "https://msueagles.com/sports/2021/5/13/summer-camps.aspx",
+   "G": "https://moreheadstate.edu/",
+   "H": "Morehead, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Morgan State University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://morganstatebears.com/news/2022/8/2/morgan-state-football-opens-camp-this-week.aspx",
+   "G": "https://www.morgan.edu/",
+   "H": "Baltimore, Maryland"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Murray State University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://www.deanhoodfootballcamps.com/",
+   "G": "https://www.murraystate.edu/",
+   "H": "Murray, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "New Mexico State University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://newmexicofootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.nmsu.edu/",
+   "H": "Las Cruces, New Mexico"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Nicholls State University",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://geauxcolonels.com/sports/2013/8/14/GEN_0814135258.aspx",
+   "G": "https://www.nicholls.edu/",
+   "H": "Thibodaux, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Norfolk State University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/nsufootball",
+   "G": "https://www.nsu.edu/",
+   "H": "Norfolk, Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "North Carolina A&T State University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "http://www.samwashingtonfootballcamps.com/About%20Us",
+   "G": "https://www.ncat.edu/",
+   "H": "Greensboro, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "North Carolina Central University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://nccueaglepride.com/news/2022/7/1/trei-oliver-football-camp-july-23",
+   "G": "https://www.nccu.edu/",
+   "H": "Durham, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "North Carolina State University",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://davedoerenfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.ncsu.edu/",
+   "H": "Raleigh, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "North Dakota State University",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://www.ndsufootballcamps.com/",
+   "G": "https://www.ndsu.edu/",
+   "H": "Fargo, North Dakota"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Northern Arizona University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://chrisballfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://nau.edu/",
+   "H": "Flagstaff, Arizona"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Northern Illinois University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/niufootballcamps",
+   "G": "https://www.niu.edu/index.shtml",
+   "H": "DeKalb, Illinois"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Northwestern State University of Louisiana",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://www.demonelitefootballcamps.com/",
+   "G": "https://www.nsula.edu/",
+   "H": "Natchitoches, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Northwestern University",
+   "D": "Big Ten Conference",
+   "E": "Private",
+   "F": "https://www.patfitzgeraldfootballcamp.com/",
+   "G": "https://www.northwestern.edu/",
+   "H": "Evanston, Illinois"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Ohio State University",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://ohiostatebuckeyes.com/camps/football-camps-clinics/",
+   "G": "https://www.osu.edu/",
+   "H": "Columbus, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Ohio University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/ohiofootballcamps",
+   "G": "https://www.ohio.edu/",
+   "H": "Athens, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Oklahoma State University",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://okstate.com/sports/2015/10/21/FB_1021152521.aspx",
+   "G": "https://go.okstate.edu/",
+   "H": "Stillwater, Oklahoma"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Old Dominion University",
+   "D": "Colonial Athletic Association",
+   "E": "Public",
+   "F": "https://rahnefootballcamp.com/",
+   "G": "https://www.odu.edu/",
+   "H": "Norfolk, Virginia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Oregon State University",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "http://www.oregonstatefootballcamps.com/",
+   "G": "https://oregonstate.edu/",
+   "H": "Corvallis, Oregon"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Penn State",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://gopsusports.com/sports/2018/8/8/camps-fb-camp-about-html.aspx",
+   "G": "https://www.psu.edu/",
+   "H": "University Park, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Portland State University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://goviks.com/news/2022/8/3/its-a-numbers-game-as-football-camp-opens-for-portland-state.aspx",
+   "G": "https://www.pdx.edu/",
+   "H": "Portland, Oregon"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Prairie View A & M University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.pvamu.edu/student-success/summer/youth/",
+   "G": "https://www.pvamu.edu/",
+   "H": "Prairie View, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Presbyterian College",
+   "D": "Big South Conference",
+   "E": "Private",
+   "F": "https://presbyfootballcamps.totalcamps.com/Content/32608",
+   "G": "https://www.presby.edu/",
+   "H": "Clinton, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Princeton University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://www.princetonsportscamps.com/camps/football.htm",
+   "G": "https://www.princeton.edu/",
+   "H": "Princeton, New Jersey"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Purdue University",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://www.purduefootballcamps.com/",
+   "G": "https://www.purdue.edu/",
+   "H": "West Lafayette, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Rice University",
+   "D": "Conference USA",
+   "E": "Private",
+   "F": "https://riceowls.com/sports/2018/7/17/camps-rice-camps-html.aspx",
+   "G": "https://www.rice.edu/",
+   "H": "Houston, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Robert Morris University – Pennsylvania",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://robertmorrisfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.rmu.edu/",
+   "H": "Moon Township, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Rutgers University",
+   "D": "Big Ten Conference",
+   "E": "Private",
+   "F": "https://scarletknights.com/sports/2023/2/23/2023-rutgers-football-camps.aspx",
+   "G": "https://newbrunswick.rutgers.edu/",
+   "H": "Piscataway, New Jersey"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Sacred Heart University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://shufootballcamps.ryzerevents.com/",
+   "G": "https://www.sacredheart.edu/",
+   "H": "Fairfield, Connecticut"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Saint Francis University",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://camps.jumpforward.com/stfrancisfootball",
+   "G": "https://www.francis.edu/",
+   "H": "Loretto, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Sam Houston State University",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "http://www.bearkatelitefootballcamps.com/About%20Us",
+   "G": "https://www.shsu.edu/",
+   "H": "Huntsville, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Samford University",
+   "D": "Southern Conference",
+   "E": "Private",
+   "F": "https://camps.jumpforward.com/chrishatchercamps",
+   "G": "https://www.samford.edu/",
+   "H": "Birmingham, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "San Diego State University",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/sdsufootball",
+   "G": "https://www.sdsu.edu/",
+   "H": "San Diego, California"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "San Jose State University",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://sanjosestatefootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.sjsu.edu/",
+   "H": "San Jose, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "South Carolina State University",
+   "D": "Mid-Eastern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.scsuathletics.com/sports/2022/5/20/2022-bulldog-football-summer-camps.aspx",
+   "G": "https://scsu.edu/",
+   "H": "Orangeburg, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "South Dakota State University",
+   "D": "Western Wrestling Conference",
+   "E": "Public",
+   "F": "https://www.jackrabbitfootballcamps.com/",
+   "G": "https://www.sdstate.edu/",
+   "H": "Brookings, South Dakota"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Southeast Missouri State University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://info.abcsportscamps.com/semofb",
+   "G": "https://semo.edu/",
+   "H": "Cape Girardeau, Missouri"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Southeastern Louisiana University",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://www.frankscelfofootballcamps.com/",
+   "G": "https://www.southeastern.edu/",
+   "H": "Hammond, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Southern Illinois University Carbondale",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://www.nickhillfootballcamp.com/",
+   "G": "https://siu.edu/",
+   "H": "Carbondale, Illinois"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Southern Methodist University – SMU",
+   "D": "American Athletic Conference",
+   "E": "Private",
+   "F": "https://www.coachlashleecamps.com/",
+   "G": "https://www.smu.edu/",
+   "H": "Dallas, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Southern University & A&M College",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.southernufootball.com/",
+   "G": "http://www.subr.edu/",
+   "H": "Baton Rouge, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Southern Utah University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://southernutahfootballcamps.com/",
+   "G": "https://www.suu.edu/",
+   "H": "Cedar City, Utah"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Stanford University",
+   "D": "Pacific-12 Conference",
+   "E": "Private",
+   "F": "https://stanfordfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.stanford.edu/",
+   "H": "Stanford, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Stephen F Austin State University",
+   "D": "Western Athletic Conference",
+   "E": "Public",
+   "F": "https://www.sfafootballcamps.com/",
+   "G": "https://www.sfasu.edu/",
+   "H": "Nacogdoches, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Stetson University",
+   "D": "Atlantic Sun Conference",
+   "E": "Private",
+   "F": "https://gohatters.com/sports/2017/4/13/stetson-athletics-camps.aspx",
+   "G": "https://www.stetson.edu/",
+   "H": "DeLand, Florida"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Stonehill College",
+   "D": "Norteast Conference (NEC)",
+   "E": "Private",
+   "F": "https://www.stonehillskyhawks.com/camps/FB/home",
+   "G": "https://www.stonehill.edu/",
+   "H": "Easton, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "SUNY Stony Brook University",
+   "D": "America East Conference",
+   "E": "Public",
+   "F": "https://stonybrookathletics.com/sports/2016/8/25/camps-ston-13-football-camp-html",
+   "G": "https://www.stonybrook.edu/",
+   "H": "Stony Brook, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "SUNY University at Albany",
+   "D": "America East Conference",
+   "E": "Public",
+   "F": "https://ualbanyfootball.totalcamps.com/About%20Us",
+   "G": "https://www.albany.edu/",
+   "H": "Albany, New York"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "SUNY University at Buffalo",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://www.ubfootballcamps.com/ub-football-camps.cfm",
+   "G": "https://www.buffalo.edu/",
+   "H": "Buffalo, New York"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Syracuse University",
+   "D": "Atlantic Coast Conference",
+   "E": "Private",
+   "F": "https://cuse.com/sports/2020/7/2/FH_0126151008",
+   "G": "https://www.syracuse.edu/",
+   "H": "Syracuse, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Tarleton State University",
+   "D": "WAC",
+   "E": "Public",
+   "F": "https://www.tarletonfootballcamps.com/",
+   "G": "https://www.tarleton.edu/home/",
+   "H": "Stephenville, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Temple University",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "https://owlsports.com/sports/2016/5/4/camps-and-clinics.aspx",
+   "G": "https://www.temple.edu/",
+   "H": "Philadelphia, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Tennessee State University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://tsutigers.com/sports/2020/10/13/football-camps.aspx",
+   "G": "https://www.tnstate.edu/",
+   "H": "Nashville, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Tennessee Technological University",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://www.ttusports.com/traditions/camps/camps_and_clinics",
+   "G": "https://www.ncsasports.org/athletic-scholarships/football/tennessee/tennessee-technological-university",
+   "H": "Cookeville, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Texas A&M University",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://12thman.com/sports/2015/3/23/FB_2015060311.aspx",
+   "G": "https://www.tamu.edu/",
+   "H": "College Station, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Texas Christian University",
+   "D": "Big 12 Conference",
+   "E": "Private",
+   "F": "https://calendar.tcu.edu/event/sonny_dykes_summer_football_camps",
+   "G": "https://www.tcu.edu/",
+   "H": "Fort Worth, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Texas Southern University",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://www.texassouthernfootballcamps.com/",
+   "G": "https://www.tsu.edu/",
+   "H": "Houston, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Texas State University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://www.coachkinnefootballcamps.com/",
+   "G": "https://www.txst.edu/",
+   "H": "San Marcos, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Texas Tech University",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://www.texastechfootballcamps.com/",
+   "G": "https://www.ttu.edu/",
+   "H": "Lubbock, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "The Citadel",
+   "D": "Southern Conference",
+   "E": "Public",
+   "F": "https://brentthompsonfootballcampllc.com/",
+   "G": "https://www.citadel.edu/",
+   "H": "Charleston, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Towson University",
+   "D": "Colonial Athletic Association",
+   "E": "Public",
+   "F": "https://towsontigers.com/sports/2014/7/15/FB_0715145040",
+   "G": "https://www.towson.edu/",
+   "H": "Towson, Maryland"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Troy University",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://www.jonsumrallfootballcamps.com/",
+   "G": "https://www.troy.edu/",
+   "H": "Troy, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Tulane University",
+   "D": "American Athletic Conference",
+   "E": "Private",
+   "F": "https://tulanegreenwave.com/sports/2022/5/11/football-camps.aspx",
+   "G": "https://tulane.edu/",
+   "H": "New Orleans, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "United States Air Force Academy",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://goairforcefalcons.com/sports/2018/8/8/camps",
+   "G": "https://www.usafa.edu/",
+   "H": "USAFA, Colorado"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "United States Military Academy",
+   "D": "Atlantic Hockey Association (Division I for men's ice hockey)",
+   "E": "Public",
+   "F": "https://armyfootball.totalcamps.com/About%20Us",
+   "G": "https://www.westpoint.edu/",
+   "H": "West Point, New York"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "United States Naval Academy",
+   "D": "Collegiate Water Polo Association (Division I)",
+   "E": "Public",
+   "F": "https://navysports.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=SC-FB&linkID=navy&shopperContext=&caller=&appCode=&_ga=2.223194139.186617650.1679510248-1805301346.1679510248#__utma=186133302.1587240566.1409160680.1425332944.1425335976.494&__utmb=186133302.1.10.1425335976&__utmc=186133302&__utmx=-&__utmz=186133302.1425060259.484.32.utmcsr=ev12.evenue.net|utmccn=(referral)|utmcmd=referral|utmcct=/cgi-bin/ncommerce3/EVExecMacro&__utmv=-&__utmk=185108393",
+   "G": "https://www.usna.edu/homepage.php",
+   "H": "Annapolis, Maryland"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Akron",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/tomarthfootballcamps",
+   "G": "https://www.uakron.edu/",
+   "H": "Akron, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Alabama",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://www.nicksabanfootballcamp.com/high-school.cfm",
+   "G": "https://www.ua.edu/",
+   "H": "Tuscaloosa, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Alabama – Birmingham",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.uabfootballcamp.com/",
+   "G": "https://www.uab.edu/home/",
+   "H": "Birmingham, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Arizona",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "http://www.coachfischfootballcamp.com/About%20Us",
+   "G": "https://www.arizona.edu/",
+   "H": "Tucson, Arizona"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Arkansas",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://www.arkansasrazorbackfootballcamps.com/",
+   "G": "https://www.uark.edu/",
+   "H": "Fayetteville, Arkansas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Arkansas at Pine Bluff",
+   "D": "Southwestern Athletic Conference",
+   "E": "Public",
+   "F": "https://uapblionsroar.com/sports/2019/6/17/cedric-thomas-football-camp",
+   "G": "http://www.uapb.edu/",
+   "H": "Pine Bluff, Arkansas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of California – Berkeley",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://www.calsportscamps.com/football/cal-football-camps",
+   "G": "https://www.berkeley.edu/",
+   "H": "Berkeley, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of California – Davis",
+   "D": "Big West Conference",
+   "E": "Public",
+   "F": "https://ucdavisfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.ucdavis.edu/",
+   "H": "Davis, California"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of California – Los Angeles – UCLA",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://uclabruins.com/sports/2013/4/17/208268004.aspx",
+   "G": "https://www.ucla.edu/",
+   "H": "Los Angeles, California"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Central Arkansas",
+   "D": "Southland Conference",
+   "E": "Public",
+   "F": "https://www.ucabearsfootball.com/one-day-camps.cfm",
+   "G": "https://uca.edu/",
+   "H": "Conway, Arkansas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Central Florida",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "https://www.ucffootballcamps.com/",
+   "G": "https://www.ucf.edu/",
+   "H": "Orlando, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Cincinnati",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "https://www.ucfbcamps.com/",
+   "G": "https://www.uc.edu/",
+   "H": "Cincinnati, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Colorado – Boulder",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://cubuffs.com/sports/2006/1/17/225865.aspx",
+   "G": "https://www.colorado.edu/",
+   "H": "Boulder, Colorado"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Connecticut",
+   "D": "Big East Conference",
+   "E": "Public",
+   "F": "https://teampages.com/clubs/7124",
+   "G": "https://uconn.edu/",
+   "H": "Storrs, Connecticut"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Dayton",
+   "D": "Pioneer Football League",
+   "E": "Private",
+   "F": "https://www.daytonflyersfootball.com/",
+   "G": "https://udayton.edu/",
+   "H": "Dayton, Ohio"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Delaware",
+   "D": "Colonial Athletic Association",
+   "E": "Public",
+   "F": "https://www.delawarefootballcamp.com/",
+   "G": "https://www.udel.edu/",
+   "H": "Newark, Delaware"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Florida",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://floridagators.com/sports/2023/3/21/football-camps.aspx",
+   "G": "https://www.ufl.edu/",
+   "H": "Gainesville, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Georgia",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "http://www.georgiadogsmedia.com/KirbySmartCamp/",
+   "G": "https://www.uga.edu/",
+   "H": "Athens, Georgia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Hawaii at Manoa",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://rainbowwarriorfootballcamp.totalcamps.com/About%20Us",
+   "G": "https://manoa.hawaii.edu/",
+   "H": "Honolulu, Hawaii"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Houston",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "https://uhcougars.com/sports/2018/6/12/camps-hou-camps-html.aspx",
+   "G": "https://uh.edu/",
+   "H": "Houston, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Idaho",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://govandals.com/sports/2022/4/8/vandal-football-camps.aspx",
+   "G": "https://www.uidaho.edu/",
+   "H": "Moscow, Idaho"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Illinois",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://fightingillini.com/sports/2015/3/24/football_camps.aspx",
+   "G": "https://illinois.edu/",
+   "H": "Champaign, Illinois"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Iowa",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://camps.athletics.uiowa.edu/football",
+   "G": "https://admissions.uiowa.edu/",
+   "H": "Iowa City, Iowa"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Kansas",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://www.kufootballcamps.com/",
+   "G": "https://www.ku.edu/",
+   "H": "Lawrence, Kansas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Kentucky",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "http://www.ukfbcamp.com/",
+   "G": "https://www.uky.edu/",
+   "H": "Lexington, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Louisiana",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://ragincajunsfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://louisiana.edu/",
+   "H": "Lafayette, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Louisiana – Monroe",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/ulmfootballshowcase",
+   "G": "https://www.ulm.edu/",
+   "H": "Monroe, Louisiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Louisville",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "http://www.louisvillefootballcamps.com/About%20Us",
+   "G": "https://umaine.edu/",
+   "H": "Louisville, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Maine",
+   "D": "Atlantic 10 Conference",
+   "E": "Public",
+   "F": "https://goblackbears.com/sports/2020/3/16/football-camps",
+   "G": "https://umaine.edu/",
+   "H": "Orono, Maine"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Maryland",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://www.coachlockscamps.com/",
+   "G": "https://www.umd.edu/",
+   "H": "College Park, Maryland"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Massachusetts – Amherst",
+   "D": "Atlantic 10 Conference",
+   "E": "Public",
+   "F": "https://umassathletics.com/news/2012/3/23/UMass_Football_Announces_Summer_Camp_Dates",
+   "G": "https://www.umass.edu/",
+   "H": "Amherst, Massachusetts"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Memphis",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "https://tigerfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.memphis.edu/",
+   "H": "Memphis, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Miami",
+   "D": "Atlantic Coast Conference",
+   "E": "Private",
+   "F": "https://mariocristobalfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://welcome.miami.edu/",
+   "H": "Coral Gables, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Michigan",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://camps.mgoblue.com/football/",
+   "G": "https://umich.edu/",
+   "H": "Ann Arbor, Michigan"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Minnesota",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/PJFleckRTBcamps",
+   "G": "https://twin-cities.umn.edu/",
+   "H": "Minneapolis, Minnesota"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Mississippi",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://football.olemisssportscamps.com/",
+   "G": "https://olemiss.edu/",
+   "H": "University, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Missouri",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://www.missourifootballcamps.com/",
+   "G": "https://missouri.edu/",
+   "H": "Columbia, Missouri"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Montana",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://www.montanafootballcamps.com/",
+   "G": "https://www.umt.edu/",
+   "H": "Missoula, Montana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Mount Olive",
+   "D": "Conference Carolinas",
+   "E": "Private",
+   "F": "https://umotrojans.com/sports/2020/7/10/information-camps-index.aspx",
+   "G": "https://umo.edu/",
+   "H": "Mount Olive, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Nebraska",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "https://www.mattrhulefootballcamps.com/",
+   "G": "https://www.unl.edu/",
+   "H": "Lincoln, Nebraska"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Nevada – Las Vegas",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "http://www.rebelfootballcamps.com/About%20Us",
+   "G": "https://www.unlv.edu/",
+   "H": "Las Vegas, Nevada"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Nevada – Reno",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/universityofnevadafootballcamps",
+   "G": "https://www.unr.edu/",
+   "H": "Reno, Nevada"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of New Hampshire",
+   "D": "American East Conference",
+   "E": "Public",
+   "F": "https://www.unh.edu/youthprograms/course/wildcat-football-evening-camp",
+   "G": "https://www.unh.edu/",
+   "H": "Durham, New Hampshire"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of New Mexico",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://golobos.com/summer-camps/",
+   "G": "http://www.unm.edu/",
+   "H": "Albuquerque, New Mexico"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of North Alabama",
+   "D": "Gulf South Conference",
+   "E": "Public",
+   "F": "https://www.brentdearmonfootballcamps.com/",
+   "G": "https://www.una.edu/",
+   "H": "Florence, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of North Carolina at Chapel Hill",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://www.mackbrownfootballcamps.com/one-day-camp.cfm",
+   "G": "https://www.unc.edu/",
+   "H": "Chapel Hill, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of North Carolina at Charlotte",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.willhealyfootballcamps.com/",
+   "G": "https://www.charlotte.edu/",
+   "H": "Charlotte, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of North Dakota",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://fightinghawks.com/sb_output.aspx?form=1119",
+   "G": "https://und.edu/",
+   "H": "Grand Forks, North Dakota"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of North Texas",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.ericmorrisfootballcamps.com/",
+   "G": "https://www.unt.edu/",
+   "H": "Denton, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Northern Colorado",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/northerncoloradofootballcamps",
+   "G": "https://www.unco.edu/",
+   "H": "Greeley, Colorado"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Northern Iowa",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/markfarleyfootballcamps",
+   "G": "https://uni.edu/",
+   "H": "Cedar Falls, Iowa"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Notre Dame",
+   "D": "Division I-A Independents",
+   "E": "Private",
+   "F": "https://und.com/sports/footballcamps/",
+   "G": "https://www.nd.edu/",
+   "H": "Notre Dame, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Oklahoma",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://www.brentvenablesfootballcamp.com/",
+   "G": "https://www.ou.edu/",
+   "H": "Norman, Oklahoma"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Oregon",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://www.oregonfootballcamps.com/",
+   "G": "https://www.uoregon.edu/",
+   "H": "Eugene, Oregon"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Pennsylvania – Penn",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://www.pennfootballcamp.com/Default.aspx?tabid=1429063",
+   "G": "https://www.upenn.edu/",
+   "H": "Philadelphia, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Rhode Island",
+   "D": "Atlantic 10 Conference",
+   "E": "Public",
+   "F": "https://rhodeislandfootball.totalcamps.com/About%20Us",
+   "G": "https://www.uri.edu/",
+   "H": "Kingston, Rhode Island"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Richmond",
+   "D": "Atlantic 10 Conference",
+   "E": "Private",
+   "F": "https://richmondspidersfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.richmond.edu/",
+   "H": "Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of San Diego",
+   "D": "West Coast Conference",
+   "E": "Private",
+   "F": "http://www.usdcamps.com/Football_Camps.htm",
+   "G": "https://www.sandiego.edu/",
+   "H": "San Diego, California"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of South Alabama",
+   "D": "Sun Belt Conference",
+   "E": "Public",
+   "F": "https://www.jaguarfootballcamps.com/",
+   "G": "https://www.southalabama.edu/",
+   "H": "Mobile, Alabama"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of South Carolina",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/gamecockfbcamps",
+   "G": "https://sc.edu/",
+   "H": "Columbia, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of South Dakota",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://football.goyotescamps.com/",
+   "G": "https://www.usd.edu/",
+   "H": "Vermillion, South Dakota"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of South Florida",
+   "D": "American Athletic Conference",
+   "E": "Public",
+   "F": "http://www.us2fcamps.com/About%20Us",
+   "G": "https://www.usf.edu/",
+   "H": "Tampa, Florida"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Southern California",
+   "D": "Pacific-12 Conference",
+   "E": "Private",
+   "F": "https://www.rileyfootballcamp.com/",
+   "G": "https://www.usc.edu/",
+   "H": "Los Angeles, California"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Southern Mississippi",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://southernmiss.com/sports/2021/5/4/2021-football-summer-camps.aspx",
+   "G": "https://www.usm.edu/",
+   "H": "Hattiesburg, Mississippi"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of St. Thomas – Minnesota",
+   "D": "Minnesota Intercollegiate Athletic Conference",
+   "E": "Private",
+   "F": "https://tommiesports.com/sports/2022/3/3/football-camps.aspx?id=322",
+   "G": "https://www.stthomas.edu/",
+   "H": "Saint Paul, Minnesota"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Tennessee",
+   "D": "Southeastern Conference",
+   "E": "Public",
+   "F": "https://www.tennesseefootballcamp.com/",
+   "G": "https://www.utk.edu/",
+   "H": "Knoxville, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Tennessee – Chattanooga",
+   "D": "Southern Conference",
+   "E": "Public",
+   "F": "https://chattanoogafootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.utc.edu/",
+   "H": "Chattanooga, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of Tennessee – Martin",
+   "D": "Ohio Valley Conference",
+   "E": "Public",
+   "F": "https://utmsports.com/sports/football",
+   "G": "https://www.utm.edu/",
+   "H": "Martin, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Texas – Austin",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://texassports.com/sports/2013/7/28/camps_0728130412.aspx",
+   "G": "https://www.utexas.edu/",
+   "H": "Austin, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Texas – El Paso",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://utepminers.com/news/2019/5/1/utep-football-camps-coming-this-summer",
+   "G": "https://www.utep.edu/",
+   "H": "El Paso, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Texas – San Antonio",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.utsafootballcamps.com/",
+   "G": "https://www.utsa.edu/",
+   "H": "San Antonio, Texas"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "University of the Incarnate Word",
+   "D": "Southland Conference",
+   "E": "Private",
+   "F": "https://www.contactfootball.com/football/camps/university-of-the-incarnate-word",
+   "G": "https://www.uiw.edu/",
+   "H": "San Antonio, Texas"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Toledo",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://uiwcardinals.com/sports/2013/2/23/FB_0223131721",
+   "G": "https://www.uiw.edu/",
+   "H": "Toledo, Ohio"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Tulsa",
+   "D": "Conference USA",
+   "E": "Private",
+   "F": "https://camps.jumpforward.com/tulsafb",
+   "G": "https://utulsa.edu/",
+   "H": "Tulsa, Oklahoma"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Utah",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://www.utahfootballcamps.com/",
+   "G": "https://www.utah.edu/",
+   "H": "Salt Lake City, Utah"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Virginia",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://tonyelliottfootballcamp.com/",
+   "G": "https://www.virginia.edu/",
+   "H": "Charlottesville, Virginia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Washington",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://www.washingtonfootballcamps.com/",
+   "G": "http://www.washington.edu/",
+   "H": "Seattle, Washington"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Wisconsin",
+   "D": "Big Ten Conference",
+   "E": "Public",
+   "F": "http://www.uwcamps.com/sport.aspx?id=1",
+   "G": "https://www.wisc.edu/",
+   "H": "Madison, Wisconsin"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "University of Wyoming",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://wyomingfootballcamps.totalcamps.com/Content/43835",
+   "G": "http://www.uwyo.edu/",
+   "H": "Laramie, Wyoming"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Utah State University",
+   "D": "Mountain West Conference",
+   "E": "Public",
+   "F": "https://www.blakeandersonfootballcamps.com/About%20Us",
+   "G": "https://www.usu.edu/",
+   "H": "Logan, Utah"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Utah Tech University (Formerly Dixie State University)",
+   "D": "Western Athletic Conference",
+   "E": "Public",
+   "F": "https://utahtechtrailblazers.com/sports/2018/4/27/dixie-state-football-camps.aspx",
+   "G": "https://utahtech.edu/",
+   "H": "Saint George, Utah"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Valparaiso University",
+   "D": "Missouri Valley Conference, Pioneer Football League",
+   "E": "Private",
+   "F": "https://camps.jumpforward.com/valpofootball",
+   "G": "https://www.valpo.edu/",
+   "H": "Valparaiso, Indiana"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Vanderbilt University",
+   "D": "Southeastern Conference",
+   "E": "Private",
+   "F": "http://vanderbiltfootballcamps.com/",
+   "G": "https://www.vanderbilt.edu/",
+   "H": "Nashville, Tennessee"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Villanova University",
+   "D": "Colonial Athletic Association",
+   "E": "Private",
+   "F": "https://villanovafootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www1.villanova.edu/university.html",
+   "H": "Villanova, Pennsylvania"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Virginia Military Institute – VMI",
+   "D": "Big South Conference",
+   "E": "Public",
+   "F": "https://wachfootball.totalcamps.com/About%20Us",
+   "G": "https://www.vmi.edu/",
+   "H": "Lexington, Virginia"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Virginia Tech",
+   "D": "Atlantic Coast Conference",
+   "E": "Public",
+   "F": "https://virginiatechfootball.totalcamps.com/shop/EVENT",
+   "G": "https://www.vt.edu/",
+   "H": "Blacksburg, Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Wagner College",
+   "D": "Northeast Conference",
+   "E": "Private",
+   "F": "https://wagnercollegefootball.totalcamps.com/About%20Us",
+   "G": "https://wagner.edu/",
+   "H": "Staten Island, New York"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Wake Forest University",
+   "D": "Atlantic Coast Conference",
+   "E": "Private",
+   "F": "http://www.coachdaveclawsonfootballcamps.com/About%20Us",
+   "G": "https://www.wfu.edu/",
+   "H": "Winston-Salem, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Washington State University",
+   "D": "Pacific-12 Conference",
+   "E": "Public",
+   "F": "https://wsufootballcamps.totalcamps.com/About%20Us",
+   "G": "https://wsu.edu/",
+   "H": "Pullman, Washington"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Weber State University",
+   "D": "Big Sky Conference",
+   "E": "Public",
+   "F": "https://camps.jumpforward.com/WSUfootballcamps",
+   "G": "https://www.weber.edu/",
+   "H": "Ogden, Utah"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "West Virginia University",
+   "D": "Big 12 Conference",
+   "E": "Public",
+   "F": "https://wvufootballcamps.com/",
+   "G": "https://www.wvu.edu/",
+   "H": "Morgantown, West Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Western Carolina University",
+   "D": "Southern Conference",
+   "E": "Public",
+   "F": "http://www.wcufootballcamps.com/About%20Us",
+   "G": "https://www.wcu.edu/",
+   "H": "Cullowhee, North Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Western Illinois University",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://www.leatherneckfootballcamps.com/",
+   "G": "http://www.wiu.edu/",
+   "H": "Macomb, Illinois"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Western Kentucky University",
+   "D": "Conference USA",
+   "E": "Public",
+   "F": "https://www.wkufootballcamps.com/",
+   "G": "https://www.wku.edu/",
+   "H": "Bowling Green, Kentucky"
+ },
+ {
+   "B": "NCAA D1 FBS",
+   "C": "Western Michigan University",
+   "D": "Mid-American Conference",
+   "E": "Public",
+   "F": "https://www.wmufootballcamps.com/",
+   "G": "https://wmich.edu/",
+   "H": "Kalamazoo, Michigan"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "William & Mary",
+   "D": "Colonial Athletic Association",
+   "E": "Public",
+   "F": "https://mikelondonfootballcamps.totalcamps.com/About%20Us",
+   "G": "https://www.wm.edu/",
+   "H": "Williamsburg, Virginia"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Wofford College",
+   "D": "Southern Conference",
+   "E": "Private",
+   "F": "https://woffordterriers.com/sports/2008/5/5/summer%20camp.aspx",
+   "G": "https://www.wofford.edu/",
+   "H": "Spartanburg, South Carolina"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Yale University",
+   "D": "Ivy League",
+   "E": "Private",
+   "F": "https://www.elifootballcamps.com/",
+   "G": "https://www.yale.edu/",
+   "H": "New Haven, Connecticut"
+ },
+ {
+   "B": "NCAA D1 FCS",
+   "C": "Youngstown State University",
+   "D": "Missouri Valley Conference",
+   "E": "Public",
+   "F": "https://www.penguinsfootballcamps.com/",
+   "G": "https://ysu.edu/",
+   "H": "Youngstown, Ohio"
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": " ",
+   "F": "",
+   "G": "",
+   "H": " "
+ },
+ {
+   "B": " ",
+   "C": " ",
+   "D": " ",
+   "E": "",
+   "F": "",
+   "G": "",
+   "H": ""
+ }
+]
