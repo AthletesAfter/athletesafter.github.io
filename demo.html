@@ -118,9 +118,9 @@
                             <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                         makeMarker(map, {
-                            name: school['Name of School'],
+                            name: school['Name'],
                             latlng: latlng,
-                            url: school['Camp Link'],
+                            url: school['Website'],
                             details: details
                         })
                     } catch(error) {
