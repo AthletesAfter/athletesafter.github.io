@@ -111,11 +111,11 @@
                             lng: parseFloat(latlngStr[1]),
                         };
                         let details =
-                            `<h3>${school['Name of School']}</h3><br/>
-                            <img src="${getIconUrl(school['Camp Link'], 128)}" width="128" height="128"/> <br/>
-                            <strong>2023 Ranking:</strong>${school['Rank 2022']}<br/>
-                            <strong> Head Coach: </strong>${school['Head Coach']}<br/>
-                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
+                            `<h3>${school['Name']}</h3><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong>2023 Ranking:</strong>${school['Conference']}<br/>
+                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
+                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                         makeMarker(map, {
                             name: school['Name of School'],
