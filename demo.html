@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+t<!DOCTYPE html>
 <html>
 
 <head>
@@ -113,9 +113,10 @@
                         let details =
                             `<h3>${school['Name']}</h3><br/>
                             <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
-                            <strong>2023 Ranking:</strong>${school['Conference']}<br/>
+                            <strong>Conference:</strong>${school['Conference']}<br/>
+                            <strong>Public/Private:</strong>${school['Public/Private']}<br/>
                             <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
-                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer"> Camp Link </a> </strong> <br />
+                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                         makeMarker(map, {
                             name: school['Name'],
