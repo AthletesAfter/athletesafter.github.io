@@ -79,7 +79,7 @@
                             lng: parseFloat(latlngStr[1]),
                         };
                         let details =
-                            `<h3>${school['Name of School']}</h3><br/>
+                            `<h2>${school['Name of School']}</h2><br/>
                             <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Devison: </strong>${school['FCS/FBS']}<br/>
@@ -114,7 +114,7 @@
                             lng: parseFloat(latlngStr[1]),
                         };
                         let details =
-                            `<h3>${school['Name']}</h3><br/>
+                            `<h2>${school['Name']}</h2><br/>
                             <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Status: </strong>${school['Public/Private']}<br/>
@@ -148,7 +148,7 @@
                                 lng: parseFloat(latlngStr[1]),
                             };
                             let details = 
-                                `<h3>${school['School']}</h3><br/>
+                                `<h2>${school['School']}</h2><br/>
                                 <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                                 <strong>Conference:</strong>${school['Conference']}<br/>
                                 <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
@@ -403,6 +403,10 @@
     h3 {
         font-family: Montserrat;
         font-size: 40px;
+    }
+    h2 {
+        font-family: Montserrat;
+        font-size: 20px;
     }
 
     /* Set the size of the div element that contains the map */
