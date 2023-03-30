@@ -53,14 +53,13 @@
                 })
             });
             m.addListener("click", () => {
+                infoWindow.close();
                 detailWindow.open({
                     anchor: m,
                     map
                 })
             })
-            m.addListener("mouseout", () => {
-                infoWindow.close();
-            })
+           
             markers.push(m);
         }
 
