@@ -59,6 +59,9 @@
                     map
                 })
             })
+            m.addListener("mouseout", () => {
+                infoWindow.close();
+            })
            
             markers.push(m);
         }
