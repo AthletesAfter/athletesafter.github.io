@@ -171,21 +171,6 @@
                 lng: -95.7129
             };
             
-            // Attempt at adding a search box
-            const searchBtn = document.getElementById('search-btn');
-            const searchBox = document.getElementById('search-box');
-
-            searchBtn.addEventListener('click', () => {
-            const searchText = searchBox.value.toLowerCase();
-            const result = schools.find(school => school.name.toLowerCase().includes(searchText));
-
-            if (result) {
-             const schoolDetails = result.details;
-            // Do something with the school details, e.g. show it in an alert
-            alert(schoolDetails);
-            } else {
-            alert('No match found');
-            }
                 
             // The map, centered at Uluru
             const map = new google.maps.Map(document.getElementById("map"), {
@@ -403,8 +388,7 @@
     <input id="button-center" type="button" value="Center Map on My Location" />
     
     //attempt at making a search box
-    <input type="text" id="search-box" placeholder="Search...">
-    <button id="search-btn">Search</button>
+    
     <div id="map"></div>
 
 
