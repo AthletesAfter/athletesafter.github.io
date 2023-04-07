@@ -199,6 +199,39 @@
                 })
         };
         
+        function showJuco(map) {  
+            clear();
+            fetch("https://athletesafter.github.io/json/NCSA_Juco_Footaball (1).json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        try {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let details =
+                            `<h2>${school['Name']}</h2><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${school['Conference']}<br/>
+                            <strong> Devison: </strong>${school['Devision']}<br/>
+                            <strong> Status: </strong>${school['Public/Private']}<br/>
+                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
+                            <strong> <a href="${school['CampLink']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                         makeMarker(map, {
+                            name: school['Name'],
+                            latlng: latlng,
+                            url: school['Website'],
+                            details: details
+                        })
+                    } catch(error) {
+                        console.log("Error in making marker", error);
+                    }
+                    })
+                })
+        };
 
         function initMap() {
             // The location of Uluru
@@ -407,6 +440,9 @@
             document.getElementById('button-NAIA').onclick = () => {
                 showNAIA(map);
             }
+            document.getElementById('button-Juco').onclick = () => {
+                showJuco(map);
+            }
             document.getElementById('button-center').onclick = () => {
                 centerMap(map);
             }
@@ -425,6 +461,7 @@
     <input id="button-d2" type="button" value="DII" />
     <input id="button-d3" type="button" value="DIII" />
     <input id="button-NAIA" type="button" value="NAIA" />
+    <input id="button-Juco" type="button" value="Ju-Co" />
     <input id="button-center" type="button" value="Center Map on My Location" />
     
     
