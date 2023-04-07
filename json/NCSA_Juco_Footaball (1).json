@@ -8,7 +8,8 @@
     "Website": "https://www.frc.edu/",
     "Camp Link": "https://athletics.frc.edu/sports/fball/index",
     "Coach Info": "https://athletics.frc.edu/sports/fball/coaches/index",
-    "Adress": "Quincy, California"
+    "Adress": "Quincy, California",
+    "loc": "39.9368363,-120.9471764"
   },
   {
     "": "",
@@ -19,7 +20,8 @@
     "Website": "https://www.fresnocitycollege.edu/",
     "Camp Link": "https://fresnocc.prestosports.com/sports/fball/index",
     "Coach Info": "https://fresnocc.prestosports.com/information/recruits/forms/Mens_Football_Prospective_Athletes_Form",
-    "Adress": "Fresno, California"
+    "Adress": "Fresno, California",
+    "loc": "36.7377981,-119.7871247"
   },
   {
     "": "",
@@ -30,7 +32,8 @@
     "Website": "https://www.lasc.edu/",
     "Camp Link": "https://athletics.lasc.edu/sports/fball/index",
     "Coach Info": "https://athletics.lasc.edu/sports/fball/coaches/index",
-    "Adress": "Los Angeles, California"
+    "Adress": "Los Angeles, California",
+    "loc": "34.0522342,-118.2436849"
   },
   {
     "": "",
@@ -41,7 +44,8 @@
     "Website": "https://www.mjc.edu/",
     "Camp Link": "https://modesto.prestosports.com/sports/fball/index",
     "Coach Info": "https://www.mjc.edu/athletics/recruitingform.php",
-    "Adress": "Modesto, California"
+    "Adress": "Modesto, California",
+    "loc": "37.6392595,-120.9970014"
   },
   {
     "": "",
@@ -52,7 +56,8 @@
     "Website": "https://www.moorparkcollege.edu/",
     "Camp Link": "https://www.moorparkcollege.edu/campus-map/griffin-stadium-st",
     "Coach Info": "https://moorparkcollegeathletics.com/information/recruits",
-    "Adress": "Moorpark, California"
+    "Adress": "Moorpark, California",
+    "loc": "34.285558,-118.8820414"
   },
   {
     "": "",
@@ -63,7 +68,8 @@
     "Website": "https://www.mtsac.edu/",
     "Camp Link": "https://www.mtsacathletics.com/events/index.html",
     "Coach Info": "https://www.mtsacathletics.com/athletics/directory/index",
-    "Adress": "Walnut, California"
+    "Adress": "Walnut, California",
+    "loc": "34.0202894,-117.8653386"
   },
   {
     "": "",
@@ -74,7 +80,8 @@
     "Website": "https://orangecoastcollege.edu/",
     "Camp Link": "https://www.occpirateathletics.com/sports/fball/index",
     "Coach Info": "https://www.occpirateathletics.com/sports/fball/coaches/index",
-    "Adress": "Costa Mesa, California"
+    "Adress": "Costa Mesa, California",
+    "loc": "33.6638439,-117.9047429"
   },
   {
     "": "",
@@ -85,7 +92,8 @@
     "Website": "https://www.palomar.edu/",
     "Camp Link": "https://palomarathletics.com/sports/fball/index",
     "Coach Info": "https://palomarathletics.com/sports/fball/coaches/index",
-    "Adress": "San Marcos, California"
+    "Adress": "San Marcos, California",
+    "loc": "33.1433723,-117.1661449"
   },
   {
     "": "",
@@ -96,7 +104,8 @@
     "Website": "https://pasadena.edu/",
     "Camp Link": "https://pcclancers.com/sports/fball/index",
     "Coach Info": "https://pcclancers.com/sports/fball/coaches/index",
-    "Adress": "Pasadena, California"
+    "Adress": "Pasadena, California",
+    "loc": "34.1477849,-118.1445155"
   },
   {
     "": "",
@@ -107,7 +116,8 @@
     "Website": "https://scc.losrios.edu/",
     "Camp Link": "https://www.sccpanthers.com/camps/camps-list",
     "Coach Info": "https://www.sccpanthers.com/prospective_athletes/out_of_area_form",
-    "Adress": "Sacramento, California"
+    "Adress": "Sacramento, California",
+    "loc": "38.5815719,-121.4943996"
   },
   {
     "": "",
@@ -118,7 +128,8 @@
     "Website": "https://www.saddleback.edu/",
     "Camp Link": "https://saddlebackbobcats.com/sports/fball/index",
     "Coach Info": "https://saddlebackbobcats.com/sports/fball/coaches/index",
-    "Adress": "Mission Viejo, California"
+    "Adress": "Mission Viejo, California",
+    "loc": "33.5968913,-117.6581562"
   },
   {
     "": "",
@@ -129,7 +140,8 @@
     "Website": "https://www.valleycollege.edu/",
     "Camp Link": "https://sbvcathletics.com/sports/fball/index",
     "Coach Info": "https://sbvcathletics.com/sports/fball/coaches/index",
-    "Adress": "San Bernardino, California"
+    "Adress": "San Bernardino, California",
+    "loc": "34.1083449,-117.2897652"
   },
   {
     "": "",
@@ -140,7 +152,8 @@
     "Website": "https://sjcc.edu/",
     "Camp Link": "https://sjccjaguars.com/sports/fball/index",
     "Coach Info": "https://sjccjaguars.com/sports/fball/coaches/index",
-    "Adress": "San Jose, California"
+    "Adress": "San Jose, California",
+    "loc": "37.33874,-121.8852525"
   },
   {
     "": "",
@@ -151,7 +164,8 @@
     "Website": "https://www.sbcc.edu/",
     "Camp Link": "https://www.sbccvaqueros.com/sports/fball/index",
     "Coach Info": "https://www.sbccvaqueros.com/sports/fball/coaches/index",
-    "Adress": "Santa Barbara, California"
+    "Adress": "Santa Barbara, California",
+    "loc": "34.4208305,-119.6981901"
   },
   {
     "": "",
@@ -162,7 +176,8 @@
     "Website": "https://www.smc.edu/",
     "Camp Link": "https://www.smccorsairs.com/sports/fball/index",
     "Coach Info": "https://www.smccorsairs.com/sports/fball/coaches/index",
-    "Adress": "Santa Monica, California"
+    "Adress": "Santa Monica, California",
+    "loc": "34.0194543,-118.4911912"
   },
   {
     "": "",
@@ -173,7 +188,8 @@
     "Website": "https://www.santarosa.edu/",
     "Camp Link": "http://www.srjcathletics.com/camps/camps-list",
     "Coach Info": "http://www.srjcathletics.com/sports/fball/coaches/index",
-    "Adress": "Santa Rosa, California"
+    "Adress": "Santa Rosa, California",
+    "loc": "38.440429,-122.7140548"
   },
   {
     "": "",
@@ -184,7 +200,8 @@
     "Website": "https://www.shastacollege.edu/",
     "Camp Link": "https://www.shastacollegeathletics.com/sports/fball/index",
     "Coach Info": "https://www.shastacollegeathletics.com/sports/fball/coaches/index",
-    "Adress": "Redding, California"
+    "Adress": "Redding, California",
+    "loc": "40.5865396,-122.3916754"
   },
   {
     "": "",
@@ -195,7 +212,8 @@
     "Website": "http://www.vvc.edu/",
     "Camp Link": "https://athletics.vvc.edu/sports/fball/index",
     "Coach Info": "https://athletics.vvc.edu/sports/fball/coaches/index",
-    "Adress": "Victorville, California"
+    "Adress": "Victorville, California",
+    "loc": "34.5362184,-117.2927641"
   },
   {
     "": "",
@@ -206,7 +224,8 @@
     "Website": "https://westhillscollege.com/coalinga/",
     "Camp Link": "https://westhillsfalcons.com/sports/fball/index",
     "Coach Info": "https://westhillscollege.com/contact-us/",
-    "Adress": "Coalinga, California"
+    "Adress": "Coalinga, California",
+    "loc": "36.139678,-120.3601496"
   },
   {
     "": "",
@@ -217,7 +236,8 @@
     "Website": "https://www.wlac.edu/",
     "Camp Link": "https://www.westlacollegeathletics.com/sports/fball/index",
     "Coach Info": "https://www.westlacollegeathletics.com/sports/fball/coaches/index",
-    "Adress": "Culver City, California"
+    "Adress": "Culver City, California",
+    "loc": "34.0211224,-118.3964665"
   },
   {
     "": "",
@@ -228,7 +248,8 @@
     "Website": "https://www.gmc.edu/",
     "Camp Link": "https://www.gmcbulldogs.com/sports/fball/index",
     "Coach Info": "https://www.gmcbulldogs.com/sports/fball/coaches/index",
-    "Adress": "Milledgeville, Georgia"
+    "Adress": "Milledgeville, Georgia",
+    "loc": "33.0801429,-83.2320991"
   },
   {
     "": "",
@@ -239,7 +260,8 @@
     "Website": "https://ecc.iavalley.edu/",
     "Camp Link": "https://www.eccathletics.com/camps/football_camp",
     "Coach Info": "https://www.eccathletics.com/recruits/football__questionnaire",
-    "Adress": "Iowa Falls, Iowa"
+    "Adress": "Iowa Falls, Iowa",
+    "loc": "42.51988679999999,-93.26457409999999"
   },
   {
     "": "",
@@ -250,7 +272,8 @@
     "Website": "https://www.iowacentral.edu/",
     "Camp Link": "https://www.tritonfootballcamps.com/",
     "Coach Info": "https://www.tritonfootballcamps.com/contact-us.cfm",
-    "Adress": "Fort Dodge, Iowa"
+    "Adress": "Fort Dodge, Iowa",
+    "loc": "42.4974694,-94.16801579999999"
   },
   {
     "": "",
@@ -261,7 +284,8 @@
     "Website": "https://www.iwcc.edu/",
     "Camp Link": "https://camps.jumpforward.com/iwccfootball",
     "Coach Info": "https://goreivers.com/sports/fball/coaches/index",
-    "Adress": "Council Bluffs, Iowa"
+    "Adress": "Council Bluffs, Iowa",
+    "loc": "41.2619444,-95.8608333"
   },
   {
     "": "",
@@ -272,7 +296,8 @@
     "Website": "https://www.gcccks.edu/",
     "Camp Link": "https://gobroncbusters.com/landing/index",
     "Coach Info": "https://www.gobroncbusters.com/sports/fball/coaches/index",
-    "Adress": "Garden City, Kansas"
+    "Adress": "Garden City, Kansas",
+    "loc": "37.9716898,-100.8726618"
   },
   {
     "": "",
@@ -283,7 +308,8 @@
     "Website": "https://highlandcc.edu/",
     "Camp Link": "https://scottieathletics.com/sports/football",
     "Coach Info": "https://scottieathletics.com/sb_output.aspx?form=4",
-    "Adress": "Highland, Kansas"
+    "Adress": "Highland, Kansas",
+    "loc": "39.8597208,-95.26969849999999"
   },
   {
     "": "",
@@ -294,7 +320,8 @@
     "Website": "https://www.hutchcc.edu/",
     "Camp Link": "https://www.bluedragonsports.com/sports/fball/Recruiting/DragonTalk",
     "Coach Info": "https://www.bluedragonsports.com/sports/fball/coaches/index",
-    "Adress": "Hutchinson, Kansas"
+    "Adress": "Hutchinson, Kansas",
+    "loc": "38.0608445,-97.92977429999999"
   },
   {
     "": "",
@@ -305,7 +332,8 @@
     "Website": "https://www.indycc.edu/",
     "Camp Link": "https://www.indypirates.com/sports/fball/2016-17/camps/camps",
     "Coach Info": "https://www.indypirates.com/information/directory/index",
-    "Adress": "Independence, Kansas"
+    "Adress": "Independence, Kansas",
+    "loc": "37.2242358,-95.7083131"
   },
   {
     "": "",
@@ -316,7 +344,8 @@
     "Website": "https://www.minnesota.edu/",
     "Camp Link": "https://athletics.minnesota.edu/sports/fball/coaches/index",
     "Coach Info": "https://athletics.minnesota.edu/sports/fball/coaches/index",
-    "Adress": "Fergus Falls, Minnesota"
+    "Adress": "Fergus Falls, Minnesota",
+    "loc": "46.2835212,-96.0777887"
   },
   {
     "": "",
@@ -327,7 +356,8 @@
     "Website": "https://www.mnwest.edu/",
     "Camp Link": "https://www.mnwestathletics.com/sports/fball/index",
     "Coach Info": "https://www.mnwestathletics.com/sports/fball/coaches/index",
-    "Adress": "Granite Falls, Minnesota"
+    "Adress": "Granite Falls, Minnesota",
+    "loc": "44.8099575,-95.5455752"
   },
   {
     "": "",
@@ -338,7 +368,8 @@
     "Website": "https://www.rctc.edu/",
     "Camp Link": "https://www.rctc.edu/camps/",
     "Coach Info": "https://www.rctcyellowjackets.com/sports/fball/coaches/index",
-    "Adress": "Rochester, Minnesota"
+    "Adress": "Rochester, Minnesota",
+    "loc": "44.0121221,-92.4801989"
   },
   {
     "": "",
@@ -349,7 +380,8 @@
     "Website": "https://www.hindscc.edu/",
     "Camp Link": "https://sports.hindscc.edu/news/2022/5/2/football-to-host-two-camps-this-summer.aspx",
     "Coach Info": "https://sports.hindscc.edu/staff-directory",
-    "Adress": "Raymond, Mississippi"
+    "Adress": "Raymond, Mississippi",
+    "loc": "32.2593146,-90.4225951"
   },
   {
     "": "",
@@ -360,7 +392,8 @@
     "Website": "https://holmescc.edu/",
     "Camp Link": "https://www.holmesathletics.com/sports/fball/index",
     "Coach Info": "https://www.holmesathletics.com/sports/fball/coaches/index",
-    "Adress": "Goodman, Mississippi"
+    "Adress": "Goodman, Mississippi",
+    "loc": "32.9701306,-89.9123058"
   },
   {
     "": "",
@@ -371,7 +404,8 @@
     "Website": "https://www.iccms.edu/Home/portalid/0",
     "Camp Link": "https://www.letsgoicc.com/aotw/ICC_Spotlight_copy",
     "Coach Info": "https://www.letsgoicc.com/sports/fball/coaches/index",
-    "Adress": "Fulton, Mississippi"
+    "Adress": "Fulton, Mississippi",
+    "loc": "34.2739933,-88.40921329999999"
   },
   {
     "": "",
@@ -382,7 +416,8 @@
     "Website": "http://www.jcjc.edu/",
     "Camp Link": "https://jcbobcats.com/news/2022/3/14/football-jones-football-to-host-evaluation-combine-camp-may-31-june-1.aspx",
     "Coach Info": "https://jcbobcats.com/sports/football/coaches",
-    "Adress": "Ellisville, Mississippi"
+    "Adress": "Ellisville, Mississippi",
+    "loc": "31.6040538,-89.1956142"
   },
   {
     "": "",
@@ -393,7 +428,8 @@
     "Website": "https://www.msdelta.edu/",
     "Camp Link": "https://mdcctrojans.com/sports/fball/index",
     "Coach Info": "https://mdcctrojans.com/sports/fball/coaches/index",
-    "Adress": "Moorhead, Mississippi"
+    "Adress": "Moorhead, Mississippi",
+    "loc": "33.4501195,-90.5056427"
   },
   {
     "": "",
@@ -404,7 +440,8 @@
     "Website": "https://mgccc.edu/",
     "Camp Link": "https://www.mgcccbulldogs.com/sports/fball/index",
     "Coach Info": "https://www.mdcctrojans.com/sports/fball/coaches/index",
-    "Adress": "Perkinston, Mississippi"
+    "Adress": "Perkinston, Mississippi",
+    "loc": "30.7822362,-89.14278949999999"
   },
   {
     "": "",
@@ -415,7 +452,8 @@
     "Website": "https://www.northwestms.edu/",
     "Camp Link": "https://nwccrangers.com/sports/football",
     "Coach Info": "https://www.nemccathletics.com/athletics/directory/bios/gregdavisbio?view=bio",
-    "Adress": "Booneville, Mississippi"
+    "Adress": "Booneville, Mississippi",
+    "loc": "34.6581596,-88.5667036"
   },
   {
     "": "",
@@ -426,7 +464,8 @@
     "Website": "https://www.northwestms.edu/",
     "Camp Link": "https://nwccrangers.com/sports/football",
     "Coach Info": "https://nwccrangers.com/sports/football/coaches",
-    "Adress": "Senatobia, Mississippi"
+    "Adress": "Senatobia, Mississippi",
+    "loc": "34.6176032,-89.96870109999999"
   },
   {
     "": "",
@@ -437,7 +476,8 @@
     "Website": "https://prcc.edu/",
     "Camp Link": "https://prccathletics.com/camps",
     "Coach Info": "https://www.prccathletics.com/sports/fball/coaches/index",
-    "Adress": "Poplarville, Mississippi"
+    "Adress": "Poplarville, Mississippi",
+    "loc": "30.8401863,-89.53423149999999"
   },
   {
     "": "",
@@ -448,7 +488,8 @@
     "Website": "https://www.smcc.edu/",
     "Camp Link": "https://southwestbearathletics.com/news/2022/3/25/smcc-football-to-host-multiple-summer-camps-golf-tournament.aspx",
     "Coach Info": "https://southwestbearathletics.com/sports/football/coaches",
-    "Adress": "Summit, Mississippi"
+    "Adress": "Summit, Mississippi",
+    "loc": "31.2837867,-90.4684315"
   },
   {
     "": "",
@@ -459,7 +500,8 @@
     "Website": "https://www.sussex.edu/",
     "Camp Link": "https://www.sussexskylanders.com/sports/fball/index",
     "Coach Info": "https://www.sussexskylanders.com/information/directory/index",
-    "Adress": "Newton, New Jersey"
+    "Adress": "Newton, New Jersey",
+    "loc": "41.0581527,-74.7526651"
   },
   {
     "": "",
@@ -470,7 +512,8 @@
     "Website": "https://www.nmmi.edu/",
     "Camp Link": "https://www.newmexicomilitaryfootballcamps.com/",
     "Coach Info": "https://www.nmmiathletics.com/information/directory/index",
-    "Adress": "Roswell, New Mexico"
+    "Adress": "Roswell, New Mexico",
+    "loc": "33.3942655,-104.5230242"
   },
   {
     "": "",
@@ -481,7 +524,8 @@
     "Website": "https://www.monroecollege.edu/student-life/new-rochelle-ny-campus",
     "Camp Link": "https://www.monroecollegemustangs.com/sports/football",
     "Coach Info": "https://www.monroecollegemustangs.com/sports/football/coaches/",
-    "Adress": "New Rochelle, New York"
+    "Adress": "New Rochelle, New York",
+    "loc": "40.9114882,-73.7823549"
   },
   {
     "": "",
@@ -492,7 +536,8 @@
     "Website": "https://www.ncc.edu/",
     "Camp Link": "https://nassaulions.com/sports/football",
     "Coach Info": "https://nassaulions.com/sports/football/coaches",
-    "Adress": "Garden City, New York"
+    "Adress": "Garden City, New York",
+    "loc": "40.7267682,-73.6342954"
   },
   {
     "": "",
@@ -503,7 +548,8 @@
     "Website": "https://www.ecc.edu/",
     "Camp Link": "https://athletics.ecc.edu/sports/fball/index",
     "Coach Info": "https://www.linkedin.com/in/mike-kemp-54307b8b/",
-    "Adress": "Buffalo, New York"
+    "Adress": "Buffalo, New York",
+    "loc": "42.88644679999999,-78.8783689"
   },
   {
     "": "",
@@ -514,7 +560,8 @@
     "Website": "https://www.hvcc.edu/",
     "Camp Link": "https://www.hvccathletics.com/sports/fball/index",
     "Coach Info": "https://www.hvccathletics.com/information/directory/info",
-    "Adress": "Troy, New York"
+    "Adress": "Troy, New York",
+    "loc": "42.7284117,-73.69178509999999"
   },
   {
     "": "",
@@ -525,7 +572,8 @@
     "Website": "https://www.louisburg.edu/",
     "Camp Link": "https://www.lchurricanes.com/sports/fball/index",
     "Coach Info": "https://www.louisburg.edu/athletics/contact_a_coach.php",
-    "Adress": "Louisburg, North Carolina"
+    "Adress": "Louisburg, North Carolina",
+    "loc": "36.0990393,-78.30110599999999"
   },
   {
     "": "",
@@ -536,7 +584,8 @@
     "Website": "https://www.ndscs.edu/",
     "Camp Link": "https://www.ndscswildcats.com/camps/Youth_Athletic_Camps",
     "Coach Info": "https://www.ndscswildcats.com/sports/fball/coaches/index",
-    "Adress": "Wahpeton, North Dakota"
+    "Adress": "Wahpeton, North Dakota",
+    "loc": "46.2652367,-96.60590719999999"
   },
   {
     "": "",
@@ -547,7 +596,8 @@
     "Website": "https://www.hocking.edu/",
     "Camp Link": "https://athletics.hocking.edu/sports/fball/index",
     "Coach Info": "https://athletics.hocking.edu/sports/fball/coaches/index",
-    "Adress": "Nelsonville, Ohio"
+    "Adress": "Nelsonville, Ohio",
+    "loc": "39.458681,-82.23181559999999"
   },
   {
     "": "",
@@ -558,7 +608,8 @@
     "Website": "https://neo.edu/",
     "Camp Link": "https://neoathletics.com/sports/football",
     "Coach Info": "https://neoathletics.com/sports/football/coaches",
-    "Adress": "Miami, Oklahoma"
+    "Adress": "Miami, Oklahoma",
+    "loc": "36.8745146,-94.8774554"
   },
   {
     "": "",
@@ -569,7 +620,8 @@
     "Website": "https://www.lackawanna.edu/",
     "Camp Link": "https://lackawannafalcons.com/sports/football",
     "Coach Info": "https://lackawannafalcons.com/sports/football/coaches",
-    "Adress": "Scranton, Pennsylvania"
+    "Adress": "Scranton, Pennsylvania",
+    "loc": "41.408969,-75.66241219999999"
   },
   {
     "": "",
@@ -580,7 +632,8 @@
     "Website": "https://stevenscollege.edu/",
     "Camp Link": "https://stevenscollege.edu/event/7752140-2022-08-10-football-camp-begins/",
     "Coach Info": "https://stevenscollege.edu/football-coaches/",
-    "Adress": "Lancaster, Pennsylvania"
+    "Adress": "Lancaster, Pennsylvania",
+    "loc": "40.0378755,-76.3055144"
   },
   {
     "": "",
@@ -591,7 +644,8 @@
     "Website": "https://www.williamson.edu/",
     "Camp Link": "https://www.williamsonathletics.com/sports/fball/index",
     "Coach Info": "https://www.williamsonathletics.com/staff",
-    "Adress": "Media, Pennsylvania"
+    "Adress": "Media, Pennsylvania",
+    "loc": "39.9167783,-75.387693"
   },
   {
     "": "",
@@ -602,7 +656,8 @@
     "Website": "https://www.navarrocollege.edu/",
     "Camp Link": "https://navarrobulldogs.com/information/camps-clinics/football",
     "Coach Info": "https://navarrobulldogs.com/sports/fball/coaches/index",
-    "Adress": "Corsicana, Texas"
+    "Adress": "Corsicana, Texas",
+    "loc": "32.0954304,-96.46887269999999"
   },
   {
     "": "",
@@ -613,7 +668,8 @@
     "Website": "https://www.tvcc.edu/",
     "Camp Link": "https://www.tvccsports.com/sports/fball/index",
     "Coach Info": "https://www.tvccsports.com/sports/fball/coaches/Brad_Smiley?view=bio",
-    "Adress": "Athens, Texas"
+    "Adress": "Athens, Texas",
+    "loc": "32.2048735,-95.8555207"
   },
   {
     "": "",
@@ -624,7 +680,8 @@
     "Website": "https://www.tjc.edu/",
     "Camp Link": "https://www.apacheathletics.com/Apache_Camps",
     "Coach Info": "https://www.apacheathletics.com/information/directory/index",
-    "Adress": "Tyler, Texas"
+    "Adress": "Tyler, Texas",
+    "loc": "32.3512601,-95.30106239999999"
   },
   {
     "": "",
@@ -635,7 +692,8 @@
     "Website": "https://www.snow.edu/",
     "Camp Link": "https://snowbadgers.com/sports/football",
     "Coach Info": "https://snowbadgers.com/sports/football/coaches",
-    "Adress": "Ephraim, Utah"
+    "Adress": "Ephraim, Utah",
+    "loc": "39.3596841,-111.5863052"
   },
   {
     "": "",
@@ -646,7 +704,8 @@
     "Website": "https://www.everettcc.edu/",
     "Camp Link": "https://www.everettcc.edu/",
     "Coach Info": "https://athletics.everettcc.edu/information/directory/index",
-    "Adress": "Everett, Washington"
+    "Adress": "Everett, Washington",
+    "loc": "47.9789848,-122.2020794"
   },
   {
     "": "",
@@ -657,7 +716,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -668,7 +728,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -679,7 +740,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -690,7 +752,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -701,7 +764,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -712,7 +776,8 @@
     "Website": "",
     "Camp Link": "",
     "Coach Info": "",
-    "Adress": ""
+    "Adress": "",
+    "loc": null
   },
   {
     "": "",
@@ -723,7 +788,8 @@
     "Website": "https://www.itascaathletics.com/landing/index",
     "Camp Link": "https://www.itascaathletics.com/landing/index",
     "Coach Info": "",
-    "Adress": "Grand Rapids, Minnesota"
+    "Adress": "Grand Rapids, Minnesota",
+    "loc": "47.2371658,-93.53021419999999"
   },
   {
     "": "",
@@ -734,7 +800,8 @@
     "Website": "https://minnesotanorth.edu/campuses/mesabi-range-virginia/",
     "Camp Link": "https://minnesotanorth.edu/athletics/",
     "Coach Info": "",
-    "Adress": "Virginia, Minnesota"
+    "Adress": "Virginia, Minnesota",
+    "loc": "47.5232596,-92.53657129999999"
   },
   {
     "": "",
@@ -745,6 +812,7 @@
     "Website": "https://minnesotanorth.edu/campuses/vermilion/",
     "Camp Link": "https://minnesotanorth.edu/campuses/vermilion/",
     "Coach Info": "",
-    "Adress": "Ely, Minnesota"
+    "Adress": "Ely, Minnesota",
+    "loc": "47.9032372,-91.8670873"
   }
 ]
