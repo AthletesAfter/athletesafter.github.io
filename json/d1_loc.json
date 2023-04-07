@@ -1181,6 +1181,16 @@
   },
   {
     "FCS/FBS": "NCAA D1 FCS",
+    "Name of School": "University of Pittsburgh",
+    "Conference": "Atlantic Coast Conference",
+    "Private/Public": "Public",
+    "Camp link": "https://www.pittfootballcamps.com/",
+    "Website": "https://www.pitt.edu/",
+    "Adress": "Pittsburgh, pennsylvania",
+    "loc": "40.440624,-79.995888"
+  },
+  {
+    "FCS/FBS": "NCAA D1 FCS",
     "Name of School": "Princeton University",
     "Conference": "Ivy League",
     "Private/Public": "Private",
