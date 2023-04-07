@@ -8,7 +8,8 @@
     "Website": "https://www.arizonachristian.edu/",
     "CampLink": "https://info.abcsportscamps.com/arizona-christian-univ-football-camp",
     "Address": "Phoenix, Arizona",
-    "Coah info": "https://acufirestorm.com/staff-directory"
+    "Coah info": "https://acufirestorm.com/staff-directory",
+    "loc": "33.4483771,-112.0740373"
   },
   {
     "": "",
@@ -19,7 +20,8 @@
     "Website": "https://www.arkansasbaptist.edu/",
     "CampLink": "https://www.arkansasbaptist.edu/athletics/",
     "Address": "Little Rock, Arkansas",
-    "Coah info": "https://abcbuffaloes.com/staff-directory"
+    "Coah info": "https://abcbuffaloes.com/staff-directory",
+    "loc": "34.7444618,-92.2880157"
   },
   {
     "": "",
@@ -30,7 +32,8 @@
     "Website": "https://www.avemaria.edu/",
     "CampLink": "https://sites.google.com/view/amu-football-camps/prospect-camp",
     "Address": "Ave Maria, Florida",
-    "Coah info": "https://avemariagyrenes.com/sports/football/coaches"
+    "Coah info": "https://avemariagyrenes.com/sports/football/coaches",
+    "loc": "26.3368127,-81.43798509999999"
   },
   {
     "": "",
@@ -41,7 +44,8 @@
     "Website": "https://www.avila.edu/",
     "CampLink": "https://www.avilaathletics.com/sport/0/5",
     "Address": "Kansas City, Missouri",
-    "Coah info": "https://www.avilaathletics.com/coach/58/5"
+    "Coah info": "https://www.avilaathletics.com/coach/58/5",
+    "loc": "39.0997265,-94.5785667"
   },
   {
     "": "",
@@ -52,7 +56,8 @@
     "Website": "https://www.bakeru.edu/",
     "CampLink": "https://www.bakerfootballcamps.com/",
     "Address": "Baldwin City, Kansas",
-    "Coah info": "https://www.bakerwildcats.com/sports/fball/coaches/index"
+    "Coah info": "https://www.bakerwildcats.com/sports/fball/coaches/index",
+    "loc": "38.775007,-95.1863603"
   },
   {
     "": "",
@@ -63,7 +68,8 @@
     "Website": "https://www.benedictine.edu/",
     "CampLink": "https://www.ravenathletics.com/FootballCamps",
     "Address": "Atchison, Kansas",
-    "Coah info": "https://www.ravenathletics.com/sports/fball/coaches/index"
+    "Coah info": "https://www.ravenathletics.com/sports/fball/coaches/index",
+    "loc": "39.5630521,-95.12163559999999"
   },
   {
     "": "",
@@ -74,7 +80,8 @@
     "Website": "https://www.bethanylb.edu/",
     "CampLink": "https://www.bethanyswedes.com/Athletics_Camps_and_Leagues",
     "Address": "Lindsborg, Kansas",
-    "Coah info": "https://www.bethanyswedes.com/sports/fball/coaches/index"
+    "Coah info": "https://www.bethanyswedes.com/sports/fball/coaches/index",
+    "loc": "38.5736176,-97.67448379999999"
   },
   {
     "": "",
@@ -85,7 +92,8 @@
     "Website": "https://www.bethelks.edu/",
     "CampLink": "https://engage.bethelks.edu/portal/fb-camps",
     "Address": "North Newton, Kansas",
-    "Coah info": "https://bethelthreshers.com/sports/football/coaches"
+    "Coah info": "https://bethelthreshers.com/sports/football/coaches",
+    "loc": "38.0722333,-97.34559170000001"
   },
   {
     "": "",
@@ -96,7 +104,8 @@
     "Website": "https://www.bethelu.edu/",
     "CampLink": "https://www.michaeljaspercamps.com/",
     "Address": "McKenzie, Tennessee",
-    "Coah info": "https://bethelathletics.com/sports/fball/coaches/index"
+    "Coah info": "https://bethelathletics.com/sports/fball/coaches/index",
+    "loc": "36.1325616,-88.5186636"
   },
   {
     "": "",
@@ -107,7 +116,8 @@
     "Website": "https://www.bluefield.edu/",
     "CampLink": "https://www.tonycoaxumfootballcamp.com/",
     "Address": "Bluefield, Virginia",
-    "Coah info": "https://bcrams.com/sports/football/coaches"
+    "Coah info": "https://bcrams.com/sports/football/coaches",
+    "loc": "37.252617,-81.2712105"
   },
   {
     "": "",
@@ -118,7 +128,8 @@
     "Website": "https://www.briarcliff.edu/",
     "CampLink": "https://bcuchargers.com/news/2023/2/1/football-briar-clif-football-announces-2023-recruiting-class.aspx",
     "Address": "Sioux City, Iowa",
-    "Coah info": "https://bcuchargers.com/sports/football/coaches"
+    "Coah info": "https://bcuchargers.com/sports/football/coaches",
+    "loc": "42.4963416,-96.40494079999999"
   },
   {
     "": "",
@@ -129,7 +140,8 @@
     "Website": "https://www.ccsj.edu/",
     "CampLink": "https://www.ccsjathletics.com/landing/index",
     "Address": "Whiting, Indiana",
-    "Coah info": "https://www.ccsjathletics.com/sports/sprintfbal/coaches/index"
+    "Coah info": "https://www.ccsjathletics.com/sports/sprintfbal/coaches/index",
+    "loc": "41.6797578,-87.4944873"
   },
   {
     "": "",
@@ -140,7 +152,8 @@
     "Website": "https://www.campbellsville.edu/",
     "CampLink": "https://campbellsvilletigers.com/sports/football",
     "Address": "Campbellsville, Kentucky",
-    "Coah info": "https://campbellsvilletigers.com/sports/football/coaches"
+    "Coah info": "https://campbellsvilletigers.com/sports/football/coaches",
+    "loc": "37.3433974,-85.3419069"
   },
   {
     "": "",
@@ -151,7 +164,8 @@
     "Website": "https://www.carroll.edu/",
     "CampLink": "https://carrollathletics.com/sports/2015/1/14/GEN_0114151138.aspx",
     "Address": "Helena, Montana",
-    "Coah info": "https://carrollathletics.com/sports/football/coaches"
+    "Coah info": "https://carrollathletics.com/sports/football/coaches",
+    "loc": "46.5891452,-112.0391057"
   },
   {
     "": "",
@@ -162,7 +176,8 @@
     "Website": "https://www.centralmethodist.edu/",
     "CampLink": "https://www.cmueagles.com/cmu-football-camps",
     "Address": "Fayette, Missouri",
-    "Coah info": "https://www.cmueagles.com/sports/fball/coaches/index"
+    "Coah info": "https://www.cmueagles.com/sports/fball/coaches/index",
+    "loc": "39.1458654,-92.6837943"
   },
   {
     "": "",
@@ -173,7 +188,8 @@
     "Website": "https://www.clarke.edu/",
     "CampLink": "https://clarkepride.com/sports/fball/index",
     "Address": "Dubuque, Iowa",
-    "Coah info": "https://clarkepride.com/sports/fball/coaches/index"
+    "Coah info": "https://clarkepride.com/sports/fball/coaches/index",
+    "loc": "42.506348,-90.6677347"
   },
   {
     "": "",
@@ -184,7 +200,8 @@
     "Website": "https://www.cuaa.edu/",
     "CampLink": "https://cuaa.prestosports.com/Sport_Camps",
     "Address": "Ann Arbor, Michigan",
-    "Coah info": "https://cuaa.prestosports.com/sports/fball/coaches/index"
+    "Coah info": "https://cuaa.prestosports.com/sports/fball/coaches/index",
+    "loc": "42.2808256,-83.7430378"
   },
   {
     "": "",
@@ -195,7 +212,8 @@
     "Website": "https://www.cune.edu/",
     "CampLink": "https://www.cune.edu/athletics/teams/football/prospect-camps",
     "Address": "Seward, Nebraska",
-    "Coah info": "https://www.cune.edu/athletics/teams/football/coaches"
+    "Coah info": "https://www.cune.edu/athletics/teams/football/coaches",
+    "loc": "40.9078784,-97.0984927"
   },
   {
     "": "",
@@ -206,7 +224,8 @@
     "Website": "https://culver.edu/",
     "CampLink": "https://www.myculver.com/ICS/APPLY_NOW/CSC_Football_Camp_Form.jnz",
     "Address": "Canton, Missouri",
-    "Coah info": "https://www.cscwildcats.com/information/directory/index"
+    "Coah info": "https://www.cscwildcats.com/information/directory/index",
+    "loc": "40.12941199999999,-91.5186737"
   },
   {
     "": "",
@@ -217,7 +236,8 @@
     "Website": "http://www.cumberland.edu/",
     "CampLink": "https://www.cumberlandfootballcamps.com/",
     "Address": "Lebanon, Tennessee",
-    "Coah info": "https://www.gocumberlandathletics.com/football/coaches/"
+    "Coah info": "https://www.gocumberlandathletics.com/football/coaches/",
+    "loc": "36.2081098,-86.2911024"
   },
   {
     "": "",
@@ -228,7 +248,8 @@
     "Website": "https://dsu.edu/",
     "CampLink": "https://www.dsuathletics.com/Inside_Athletics/Athletic_Camps",
     "Address": "Madison, South Dakota",
-    "Coah info": "https://www.dsuathletics.com/coach/29/5.php"
+    "Coah info": "https://www.dsuathletics.com/coach/29/5.php",
+    "loc": "44.0060847,-97.1139496"
   },
   {
     "": "",
@@ -239,7 +260,8 @@
     "Website": "https://www.dwu.edu/",
     "CampLink": "https://dwuathletics.com/information/Football_Camps",
     "Address": "Mitchell, South Dakota",
-    "Coah info": "https://dwuathletics.com/sports/fball/coaches/index"
+    "Coah info": "https://dwuathletics.com/sports/fball/coaches/index",
+    "loc": "43.7094283,-98.0297992"
   },
   {
     "": "",
@@ -250,7 +272,8 @@
     "Website": "https://dickinsonstate.edu/",
     "CampLink": "https://dickinsonstate.prestosports.com/sports/fball/2022-23/files/2023_DSU_FB_CAMP.pdf",
     "Address": "Dickinson, North Dakota",
-    "Coah info": "https://www.dsubluehawks.com/information/directory/index"
+    "Coah info": "https://www.dsubluehawks.com/information/directory/index",
+    "loc": "46.8791756,-102.7896242"
   },
   {
     "": "",
@@ -261,7 +284,8 @@
     "Website": "https://www.doane.edu/",
     "CampLink": "https://www.orangecrushfootballcamps.com/",
     "Address": "Crete, Nebraska",
-    "Coah info": "https://doaneathletics.com/information/directory/index"
+    "Coah info": "https://doaneathletics.com/information/directory/index",
+    "loc": "40.6252173,-96.9615141"
   },
   {
     "": "",
@@ -272,7 +296,8 @@
     "Website": "https://www.dordt.edu/",
     "CampLink": "https://godordt.com/sports/2022/8/8/football-camps.aspx",
     "Address": "Sioux Center, Iowa",
-    "Coah info": "https://godordt.com/staff-directory/joel-penner/43"
+    "Coah info": "https://godordt.com/staff-directory/joel-penner/43",
+    "loc": "43.0797991,-96.1756935"
   },
   {
     "": "",
@@ -283,7 +308,8 @@
     "Website": "https://www.eou.edu/",
     "CampLink": "https://eousports.com/sports/2016/2/18/FB_0218164458.aspx",
     "Address": "La Grande, Oregon",
-    "Coah info": "https://eousports.com/sports/football/coaches"
+    "Coah info": "https://eousports.com/sports/football/coaches",
+    "loc": "45.3245771,-118.0877188"
   },
   {
     "": "",
@@ -294,7 +320,8 @@
     "Website": "https://www.evangel.edu/",
     "CampLink": "https://www.evangelathletics.com/sports_camps/football_camps",
     "Address": "Springfield, Missouri",
-    "Coah info": "https://www.evangelathletics.com/sports/fball/coaches/index"
+    "Coah info": "https://www.evangelathletics.com/sports/fball/coaches/index",
+    "loc": "37.2089572,-93.29229889999999"
   },
   {
     "": "",
@@ -305,7 +332,8 @@
     "Website": "https://www.faulkner.edu/",
     "CampLink": "https://www.faulkner.edu/ffhss-2022/",
     "Address": "Montgomery, Alabama",
-    "Coah info": "https://faulknereagles.com/sports/football/coaches"
+    "Coah info": "https://faulknereagles.com/sports/football/coaches",
+    "loc": "32.3792233,-86.3077368"
   },
   {
     "": "",
@@ -316,7 +344,8 @@
     "Website": "https://www.fmuniv.edu/",
     "CampLink": "https://fmuathletics.com/sports/football",
     "Address": "Miami Gardens, Florida",
-    "Coah info": "https://fmuathletics.com/sports/football/coaches"
+    "Coah info": "https://fmuathletics.com/sports/football/coaches",
+    "loc": "25.9420377,-80.2456045"
   },
   {
     "": "",
@@ -327,7 +356,8 @@
     "Website": "https://www.friends.edu/",
     "CampLink": "https://www.friendsfootballcamps.com/Register-online.cfm",
     "Address": "Wichita, Kansas",
-    "Coah info": "https://www.friendsathletics.com/coach/21/5"
+    "Coah info": "https://www.friendsathletics.com/coach/21/5",
+    "loc": "37.68717609999999,-97.33005299999999"
   },
   {
     "": "",
@@ -338,7 +368,8 @@
     "Website": "https://www.georgetowncollege.edu/",
     "CampLink": "https://admissions.georgetowncollege.edu/portal/footballcamp?tab=schedule",
     "Address": "Georgetown, Kentucky",
-    "Coah info": "https://georgetowncollege.prestosports.com/information/directory/index"
+    "Coah info": "https://georgetowncollege.prestosports.com/information/directory/index",
+    "loc": "38.2097967,-84.55883109999999"
   },
   {
     "": "",
@@ -349,7 +380,8 @@
     "Website": "https://www.graceland.edu/",
     "CampLink": "https://www.gracelandfootballcamps.com/",
     "Address": "Lamoni, Iowa",
-    "Coah info": "https://www.gujackets.com/sports/fball/coaches/index"
+    "Coah info": "https://www.gujackets.com/sports/fball/coaches/index",
+    "loc": "40.622777,-93.9341158"
   },
   {
     "": "",
@@ -360,7 +392,8 @@
     "Website": "https://www.grandview.edu/",
     "CampLink": "https://www.vikingsfootballcamps.com/prospect-camps.cfm",
     "Address": "Des Moines, Iowa",
-    "Coah info": "https://www.gvvikings.com/coach/21/9"
+    "Coah info": "https://www.gvvikings.com/coach/21/9",
+    "loc": "41.5868353,-93.6249593"
   },
   {
     "": "",
@@ -371,7 +404,8 @@
     "Website": "https://www.hastings.edu/",
     "CampLink": "https://www.hastingsfootballcamps.com/",
     "Address": "Hastings, Nebraska",
-    "Coah info": "https://www.hastingsbroncos.com/sports/fball/coaches/index"
+    "Coah info": "https://www.hastingsbroncos.com/sports/fball/coaches/index",
+    "loc": "40.5862583,-98.38987259999999"
   },
   {
     "": "",
@@ -382,7 +416,8 @@
     "Website": "https://www.indwes.edu/",
     "CampLink": "https://www.iwufootballcamps.com/prospect-camp.cfm",
     "Address": "Marion, Indiana",
-    "Coah info": "https://iwuwildcats.com/sports/football/coaches"
+    "Coah info": "https://iwuwildcats.com/sports/football/coaches",
+    "loc": "40.5583739,-85.6591442"
   },
   {
     "": "",
@@ -393,7 +428,8 @@
     "Website": "https://www.judsonu.edu/",
     "CampLink": "https://www.judsoneagles.com/Camps_Home",
     "Address": "Elgin, Illinois",
-    "Coah info": "https://www.judsoneagles.com/sports/fball/coaches/index"
+    "Coah info": "https://www.judsoneagles.com/sports/fball/coaches/index",
+    "loc": "42.0354084,-88.2825668"
   },
   {
     "": "",
@@ -404,7 +440,8 @@
     "Website": "https://www.kwu.edu/",
     "CampLink": "https://www.kwucoyotes.com/f/0/5/football/Become_a_Coyote.php",
     "Address": "Salina, Kansas",
-    "Coah info": "https://www.kwucoyotes.com/coach/24/5"
+    "Coah info": "https://www.kwucoyotes.com/coach/24/5",
+    "loc": "38.8402805,-97.61142369999999"
   },
   {
     "": "",
@@ -415,7 +452,8 @@
     "Website": "https://www.keiseruniversity.edu/",
     "CampLink": "https://kuseahawks.com/registrations/#!/camps/",
     "Address": "West Palm Beach, Florida",
-    "Coah info": "https://kuseahawks.com/staff-directory/doug-socha/79#:~:text=Doug%20Socha%20%2D%20Head%20Football%20Coach%20%2D%20Staff%20Directory%20%2D%20Keiser%20University%20Athletics"
+    "Coah info": "https://kuseahawks.com/staff-directory/doug-socha/79#:~:text=Doug%20Socha%20%2D%20Head%20Football%20Coach%20%2D%20Staff%20Directory%20%2D%20Keiser%20University%20Athletics",
+    "loc": "26.7153424,-80.0533746"
   },
   {
     "": "",
@@ -426,7 +464,8 @@
     "Website": "https://www.kcu.edu/",
     "CampLink": "https://www.kcufootballcamps.com/",
     "Address": "Grayson, Kentucky",
-    "Coah info": "https://www.kcuknights.com/sports/fball/coaches/index"
+    "Coah info": "https://www.kcuknights.com/sports/fball/coaches/index",
+    "loc": "38.3325812,-82.9485023"
   },
   {
     "": "",
@@ -437,7 +476,8 @@
     "Website": "https://www.langston.edu/",
     "CampLink": "https://langstonsports.com/sports/2021/7/19/492_132711798639336706.aspx",
     "Address": "Langston, Oklahoma",
-    "Coah info": "https://langstonsports.com/sports/football/coaches"
+    "Coah info": "https://langstonsports.com/sports/football/coaches",
+    "loc": "35.9450505,-97.2553142"
   },
   {
     "": "",
@@ -448,7 +488,8 @@
     "Website": "https://www.ltu.edu/",
     "CampLink": "https://college.jumpforward.com/questionnaire.aspx?iid=1787&sportid=18",
     "Address": "Southfield, Michigan",
-    "Coah info": "https://ltuathletics.com/sports/football/coaches"
+    "Coah info": "https://ltuathletics.com/sports/football/coaches",
+    "loc": "42.4733688,-83.2218731"
   },
   {
     "": "",
@@ -459,7 +500,8 @@
     "Website": "https://www.lindsey.edu/",
     "CampLink": "https://camps.jumpforward.com/lwcfootballcamps",
     "Address": "Columbia, Kentucky",
-    "Coah info": "https://lindseyathletics.com/sports/fball/coaches/Phil_Kleckler#:~:text=Bio,the%20Blue%20Raiders'%20defensive%20coordinator."
+    "Coah info": "https://lindseyathletics.com/sports/fball/coaches/Phil_Kleckler#:~:text=Bio,the%20Blue%20Raiders'%20defensive%20coordinator.",
+    "loc": "37.102841,-85.3063504"
   },
   {
     "": "",
@@ -470,7 +512,8 @@
     "Website": "https://lcuniversity.edu/",
     "CampLink": "https://www.wildcatshowcase.com/",
     "Address": "Pineville, Louisiana",
-    "Coah info": "https://www.lcwildcats.net/sports/football/coaches"
+    "Coah info": "https://www.lcwildcats.net/sports/football/coaches",
+    "loc": "31.3224044,-92.4343035"
   },
   {
     "": "",
@@ -481,7 +524,8 @@
     "Website": "https://www.lyon.edu/",
     "CampLink": "https://lyonscots.com/sports/2022/3/3/2022-camps.aspx",
     "Address": "Batesville, Arkansas",
-    "Coah info": "https://lyonscots.com/sports/football/coaches"
+    "Coah info": "https://lyonscots.com/sports/football/coaches",
+    "loc": "35.7696862,-91.6409431"
   },
   {
     "": "",
@@ -492,7 +536,8 @@
     "Website": "https://www.madonna.edu/",
     "CampLink": "https://mucrusaders.com/sports/recruiting",
     "Address": "Livonia, Michigan",
-    "Coah info": "https://mucrusaders.com/sports/football/roster/coaches/herb-haygood/526"
+    "Coah info": "https://mucrusaders.com/sports/football/roster/coaches/herb-haygood/526",
+    "loc": "42.36837,-83.35270969999999"
   },
   {
     "": "",
@@ -503,7 +548,8 @@
     "Website": "https://www.marian.edu/",
     "CampLink": "https://www.mariansportcamps.com/#sl-scrolldownindicator",
     "Address": "Indianapolis, Indiana",
-    "Coah info": "https://muknights.com/news/2023/3/21/marian-football-announces-2023-coaching-staff-ahead-of-spring-practice.aspx#:~:text=Story%20Links,head%20coach%20Ted%20Karras%20Jr."
+    "Coah info": "https://muknights.com/news/2023/3/21/marian-football-announces-2023-coaching-staff-ahead-of-spring-practice.aspx#:~:text=Story%20Links,head%20coach%20Ted%20Karras%20Jr.",
+    "loc": "39.768403,-86.158068"
   },
   {
     "": "",
@@ -514,7 +560,8 @@
     "Website": "https://www.mayvillestate.edu/",
     "CampLink": "https://mayvillestate.edu/about-msu/campus-events-old/shrine-football-camp/",
     "Address": "Mayville, North Dakota",
-    "Coah info": "https://msucomets.com/sports/football/coaches"
+    "Coah info": "https://msucomets.com/sports/football/coaches",
+    "loc": "47.4980408,-97.3245354"
   },
   {
     "": "",
@@ -525,7 +572,8 @@
     "Website": "https://www.mcpherson.edu/",
     "CampLink": "https://macbulldogs.com/sb_output.aspx?frform=12&path=football",
     "Address": "McPherson, Kansas",
-    "Coah info": "https://macbulldogs.com/sports/football/coaches"
+    "Coah info": "https://macbulldogs.com/sports/football/coaches",
+    "loc": "38.3708415,-97.66420869999999"
   },
   {
     "": "",
@@ -536,7 +584,8 @@
     "Website": "https://www.mnu.edu/",
     "CampLink": "https://www.mnufootballcamps.com/",
     "Address": "Olathe, Kansas",
-    "Coah info": "https://mnusports.com/sports/football/coaches"
+    "Coah info": "https://mnusports.com/sports/football/coaches",
+    "loc": "38.8813958,-94.81912849999999"
   },
   {
     "": "",
@@ -547,7 +596,8 @@
     "Website": "https://www.midlandu.edu/",
     "CampLink": "https://www.midlandufootballcamps.com/",
     "Address": "Fremont, Nebraska",
-    "Coah info": "https://www.midlandathletics.com/roster/17/6/11384.php"
+    "Coah info": "https://www.midlandathletics.com/roster/17/6/11384.php",
+    "loc": "41.4333909,-96.49814669999999"
   },
   {
     "": "",
@@ -558,7 +608,8 @@
     "Website": "https://www.midway.edu/",
     "CampLink": "https://www.gomidwayeagles.com/Summer_Camps_and_Clinics",
     "Address": "Midway, Kentucky",
-    "Coah info": "https://www.gomidwayeagles.com/information/directory/index"
+    "Coah info": "https://www.gomidwayeagles.com/information/directory/index",
+    "loc": "38.1509077,-84.6838344"
   },
   {
     "": "",
@@ -569,7 +620,8 @@
     "Website": "https://www.mobap.edu/",
     "CampLink": "https://mbuspartans.com/sports/football",
     "Address": "Saint Louis, Missouri",
-    "Coah info": "https://mbuspartans.com/sports/football/coaches"
+    "Coah info": "https://mbuspartans.com/sports/football/coaches",
+    "loc": "38.6270025,-90.19940419999999"
   },
   {
     "": "",
@@ -580,7 +632,8 @@
     "Website": "https://www.moval.edu/",
     "CampLink": "https://www.valleywillroll.com/camps",
     "Address": "Marshall, Missouri",
-    "Coah info": "https://golightsgo.com/sports/football/coaches"
+    "Coah info": "https://golightsgo.com/sports/football/coaches",
+    "loc": "39.1230777,-93.1968704"
   },
   {
     "": "",
@@ -591,7 +644,8 @@
     "Website": "https://www.msun.edu//",
     "CampLink": "https://golightsgo.com/sports/2016/9/27/sport-camps",
     "Address": "Havre, Montana",
-    "Coah info": "https://golightsgo.com/sports/football/coaches"
+    "Coah info": "https://golightsgo.com/sports/football/coaches",
+    "loc": "48.549999,-109.6840887"
   },
   {
     "": "",
@@ -602,7 +656,8 @@
     "Website": "https://mtech.edu/",
     "CampLink": "https://godiggers.com/sports/2017/2/10/football-camp-initial-page.aspx",
     "Address": "Butte, Montana",
-    "Coah info": "https://www.valleywillroll.com/sports/football/coaches"
+    "Coah info": "https://www.valleywillroll.com/sports/football/coaches",
+    "loc": "46.0038232,-112.5347776"
   },
   {
     "": "",
@@ -613,7 +668,8 @@
     "Website": "https://www.morningside.edu/",
     "CampLink": "https://www.mustangfootballcamps.com/",
     "Address": "Sioux City, Iowa",
-    "Coah info": "https://www.msidemustangs.com/football/coaches/index"
+    "Coah info": "https://www.msidemustangs.com/football/coaches/index",
+    "loc": "42.4963416,-96.40494079999999"
   },
   {
     "": "",
@@ -624,7 +680,8 @@
     "Website": "https://www.na.edu/",
     "CampLink": "https://stallions.na.edu/sports/football",
     "Address": "Stafford, Texas",
-    "Coah info": "https://stallions.na.edu/staff-directory?path=general"
+    "Coah info": "https://stallions.na.edu/staff-directory?path=general",
+    "loc": "29.6160671,-95.55772209999999"
   },
   {
     "": "",
@@ -635,7 +692,8 @@
     "Website": "https://www.nwciowa.edu/",
     "CampLink": "https://nwcraiders.com/sports/2021/2/15/northwestern-sports-camps.aspx",
     "Address": "Orange City, Iowa",
-    "Coah info": "https://nwcraiders.com/sports/football/coaches"
+    "Coah info": "https://nwcraiders.com/sports/football/coaches",
+    "loc": "43.0072087,-96.0583523"
   },
   {
     "": "",
@@ -646,7 +704,8 @@
     "Website": "https://www.oak.edu/",
     "CampLink": "https://gomightyoaks.com/sports/2021/5/5/camp-information.aspx",
     "Address": "Oakland City, Indiana",
-    "Coah info": "https://gomightyoaks.com/sports/mens-basketball/coaches"
+    "Coah info": "https://gomightyoaks.com/sports/mens-basketball/coaches",
+    "loc": "38.3386591,-87.3450132"
   },
   {
     "": "",
@@ -657,7 +716,8 @@
     "Website": "https://opsu.edu/",
     "CampLink": "https://opsuaggies.com/sports/2020/1/20/tickets",
     "Address": "Goodwell, Oklahoma",
-    "Coah info": "https://opsuaggies.com/sports/football/roster/coaches/bob-majeski/488"
+    "Coah info": "https://opsuaggies.com/sports/football/roster/coaches/bob-majeski/488",
+    "loc": "36.5953038,-101.6365504"
   },
   {
     "": "",
@@ -668,7 +728,8 @@
     "Website": "https://www.olivet.edu/",
     "CampLink": "https://www.onutigers.com/Prospect_Camps",
     "Address": "Bourbonnais, Illinois",
-    "Coah info": "https://www.onutigers.com/sports/fball/coaches/index"
+    "Coah info": "https://www.onutigers.com/sports/fball/coaches/index",
+    "loc": "41.1760108,-87.87952299999999"
   },
   {
     "": "",
@@ -679,7 +740,8 @@
     "Website": "https://www.ottawa.edu/",
     "CampLink": "https://www.ottawafootballcamps.com/",
     "Address": "Ottawa, Kansas",
-    "Coah info": "https://ottawabraves.com/sports/football/coaches"
+    "Coah info": "https://ottawabraves.com/sports/football/coaches",
+    "loc": "38.615768,-95.2686366"
   },
   {
     "": "",
@@ -690,7 +752,8 @@
     "Website": "https://www.ottawa.edu/ouaz/home",
     "CampLink": "https://www.collegefootballprospectid.com/surprise-az.cfm",
     "Address": "Phoenix, Arizona",
-    "Coah info": "https://ouazspirit.com/sports/football/coaches"
+    "Coah info": "https://ouazspirit.com/sports/football/coaches",
+    "loc": "33.4483771,-112.0740373"
   },
   {
     "": "",
@@ -701,7 +764,8 @@
     "Website": "https://www.peru.edu/",
     "CampLink": "https://pscbobcats.com/news/2021/5/10/bobcat-football-to-host-team-camps-in-late-june.aspx",
     "Address": "Peru, Nebraska",
-    "Coah info": "https://pscbobcats.com/sports/football/coaches"
+    "Coah info": "https://pscbobcats.com/sports/football/coaches",
+    "loc": "40.4741686,-95.7336054"
   },
   {
     "": "",
@@ -712,7 +776,8 @@
     "Website": "https://point.edu/",
     "CampLink": "https://pointskyhawks.com/sports/fball/index",
     "Address": "West Point, Georgia",
-    "Coah info": "https://pointskyhawks.com/sports/fball/coaches/index"
+    "Coah info": "https://pointskyhawks.com/sports/fball/coaches/index",
+    "loc": "32.8779056,-85.18327459999999"
   },
   {
     "": "",
@@ -723,7 +788,8 @@
     "Website": "https://www.presentation.edu/",
     "CampLink": "https://www.pcsaints.com/20/4/saints-football-camps",
     "Address": "Aberdeen, South Dakota",
-    "Coah info": "https://www.pcsaints.com/coach/20/4"
+    "Coah info": "https://www.pcsaints.com/coach/20/4",
+    "loc": "45.4646985,-98.4864829"
   },
   {
     "": "",
@@ -734,7 +800,8 @@
     "Website": "https://www.reinhardt.edu/",
     "CampLink": "https://reinhardteagles.com/sports/fball/index",
     "Address": "Waleska, Georgia",
-    "Coah info": "https://reinhardteagles.com/sports/fball/coaches/index"
+    "Coah info": "https://reinhardteagles.com/sports/fball/coaches/index",
+    "loc": "34.3164826,-84.5521524"
   },
   {
     "": "",
@@ -745,7 +812,8 @@
     "Website": "https://www.rocky.edu/",
     "CampLink": "https://www.rocky.edu/camps",
     "Address": "Billings, Montana",
-    "Coah info": "https://gobattlinbears.com/staff-directory/chris-stutzriem/20"
+    "Coah info": "https://gobattlinbears.com/staff-directory/chris-stutzriem/20",
+    "loc": "45.7832856,-108.5006904"
   },
   {
     "": "",
@@ -756,7 +824,8 @@
     "Website": "https://www.roosevelt.edu/",
     "CampLink": "https://www.rooseveltlakers.com/sports/fball/index",
     "Address": "Chicago, Illinois",
-    "Coah info": "https://www.rooseveltlakers.com/sports/fball/coaches/index"
+    "Coah info": "https://www.rooseveltlakers.com/sports/fball/coaches/index",
+    "loc": "41.8781136,-87.6297982"
   },
   {
     "": "",
@@ -767,7 +836,8 @@
     "Website": "http://www.sxu.edu/index.aspx?",
     "CampLink": "https://www.sxucougars.com/coach/56/5",
     "Address": "Chicago, Illinois",
-    "Coah info": "https://www.sxucougars.com/staff"
+    "Coah info": "https://www.sxucougars.com/staff",
+    "loc": "41.8781136,-87.6297982"
   },
   {
     "": "",
@@ -778,7 +848,8 @@
     "Website": "https://www.sienaheights.edu/",
     "CampLink": "https://shusaints.com/sports/fball/camps/Select_Camp_Registration_July",
     "Address": "Adrian, Michigan",
-    "Coah info": "https://shusaints.com/sports/fball/coaches/index"
+    "Coah info": "https://shusaints.com/sports/fball/coaches/index",
+    "loc": "41.8975471,-84.03716589999999"
   },
   {
     "": "",
@@ -789,7 +860,8 @@
     "Website": "https://seu.edu/",
     "CampLink": "https://firenationfootballcamps.totalcamps.com/shop/EVENT",
     "Address": "Lakeland, Florida",
-    "Coah info": "https://fire.seu.edu/sports/football/coaches"
+    "Coah info": "https://fire.seu.edu/sports/football/coaches",
+    "loc": "28.0394654,-81.9498042"
   },
   {
     "": "",
@@ -800,7 +872,8 @@
     "Website": "https://sou.edu/",
     "CampLink": "https://souraiders.com/sports/2008/7/12/Camps.aspx?id=1",
     "Address": "Ashland, Oregon",
-    "Coah info": "https://souraiders.com/sports/football/coaches"
+    "Coah info": "https://souraiders.com/sports/football/coaches",
+    "loc": "42.1945758,-122.7094767"
   },
   {
     "": "",
@@ -811,7 +884,8 @@
     "Website": "https://www.sagu.edu/",
     "CampLink": "https://football.sagusportscamps.com/",
     "Address": "Waxahachie, Texas",
-    "Coah info": "https://sagulions.com/staff-directory"
+    "Coah info": "https://sagulions.com/staff-directory",
+    "loc": "32.3865312,-96.8483311"
   },
   {
     "": "",
@@ -822,7 +896,8 @@
     "Website": "https://www.sckans.edu/",
     "CampLink": "https://www.buildersports.com/sport/0/4",
     "Address": "Winfield, Kansas",
-    "Coah info": "https://www.buildersports.com/coach/24/4"
+    "Coah info": "https://www.buildersports.com/coach/24/4",
+    "loc": "37.2397486,-96.9955918"
   },
   {
     "": "",
@@ -833,7 +908,8 @@
     "Website": "https://www.sau.edu/",
     "CampLink": "https://www.saubees.com/sports/fball/index",
     "Address": "Davenport, Iowa",
-    "Coah info": "https://www.saubees.com/sports/fball/coaches/index"
+    "Coah info": "https://www.saubees.com/sports/fball/coaches/index",
+    "loc": "41.5236437,-90.5776367"
   },
   {
     "": "",
@@ -844,7 +920,8 @@
     "Website": "https://www.sa.edu/",
     "CampLink": "https://www.sauknights.com/sports/fball/index",
     "Address": "Laurinburg, North Carolina",
-    "Coah info": "https://www.sauknights.com/information/directory/index"
+    "Coah info": "https://www.sauknights.com/information/directory/index",
+    "loc": "34.7740494,-79.46282479999999"
   },
   {
     "": "",
@@ -855,7 +932,8 @@
     "Website": "https://www.stu.edu/",
     "CampLink": "https://stubobcats.com/sports/football",
     "Address": "Miami, Florida",
-    "Coah info": "https://stubobcats.com/sports/football/coaches"
+    "Coah info": "https://stubobcats.com/sports/football/coaches",
+    "loc": "25.7616798,-80.1917902"
   },
   {
     "": "",
@@ -866,7 +944,8 @@
     "Website": "https://www.sterling.edu/",
     "CampLink": "https://www.scwarriors.com/sport/0/5",
     "Address": "Sterling, Kansas",
-    "Coah info": "https://www.scwarriors.com/coach/22/5"
+    "Coah info": "https://www.scwarriors.com/coach/22/5",
+    "loc": "38.2100111,-98.20700590000001"
   },
   {
     "": "",
@@ -877,7 +956,8 @@
     "Website": "https://tabor.edu/",
     "CampLink": "https://www.taborbluejays.com/sport/0/2",
     "Address": "Hillsboro, Kansas",
-    "Coah info": "https://www.taborbluejays.com/coach/20/2"
+    "Coah info": "https://www.taborbluejays.com/coach/20/2",
+    "loc": "38.3519555,-97.20447229999999"
   },
   {
     "": "",
@@ -888,7 +968,8 @@
     "Website": "https://www.taylor.edu/",
     "CampLink": "https://www.taylortrojans.com/camps",
     "Address": "Upland, Indiana",
-    "Coah info": "https://www.taylortrojans.com/sport/football/2022-23/coach"
+    "Coah info": "https://www.taylortrojans.com/sport/football/2022-23/coach",
+    "loc": "40.4755974,-85.4944168"
   },
   {
     "": "",
@@ -899,7 +980,8 @@
     "Website": "https://www.texascollege.edu/",
     "CampLink": "https://www.tcsteersathletics.com/sports/fball/index",
     "Address": "Tyler, Texas",
-    "Coah info": "https://www.tcsteersathletics.com/forms/Athlete_Interest_Form"
+    "Coah info": "https://www.tcsteersathletics.com/forms/Athlete_Interest_Form",
+    "loc": "32.3512601,-95.30106239999999"
   },
   {
     "": "",
@@ -910,7 +992,8 @@
     "Website": "https://txwes.edu/",
     "CampLink": "https://www.ramsfootballcamps.com/",
     "Address": "Fort Worth, Texas",
-    "Coah info": "https://ramsports.net/sports/football/coaches"
+    "Coah info": "https://ramsports.net/sports/football/coaches",
+    "loc": "32.7554883,-97.3307658"
   },
   {
     "": "",
@@ -921,7 +1004,8 @@
     "Website": "https://www.collegeofidaho.edu/",
     "CampLink": "https://yoteathletics.com/sports/football",
     "Address": "Caldwell, Idaho",
-    "Coah info": "https://yoteathletics.com/sports/football/coaches"
+    "Coah info": "https://yoteathletics.com/sports/football/coaches",
+    "loc": "43.66293839999999,-116.6873596"
   },
   {
     "": "",
@@ -932,7 +1016,8 @@
     "Website": "https://www.thomasmore.edu/",
     "CampLink": "https://thomasmoresaints.com/sports/2022/7/21/camps-index.aspx",
     "Address": "Crestview Hills, Kentucky",
-    "Coah info": "https://thomasmoresaints.com/staff-directory"
+    "Coah info": "https://thomasmoresaints.com/staff-directory",
+    "loc": "39.0224036,-84.57246649999999"
   },
   {
     "": "",
@@ -943,7 +1028,8 @@
     "Website": "https://www.thomasu.edu/",
     "CampLink": "https://thomasu.edu/football-camp/",
     "Address": "Thomasville, Georgia",
-    "Coah info": "https://tunighthawks.com/sports/football/coaches"
+    "Coah info": "https://tunighthawks.com/sports/football/coaches",
+    "loc": "30.8365815,-83.9787808"
   },
   {
     "": "",
@@ -954,7 +1040,8 @@
     "Website": "https://www.tiu.edu/",
     "CampLink": "https://tiutrojans.com/sports/football",
     "Address": "Deerfield, Illinois",
-    "Coah info": "https://tiutrojans.com/staff-directory"
+    "Coah info": "https://tiutrojans.com/staff-directory",
+    "loc": "42.1711365,-87.8445119"
   },
   {
     "": "",
@@ -965,7 +1052,8 @@
     "Website": "https://www.unionky.edu/",
     "CampLink": "https://www.gounionbulldogs.com/index",
     "Address": "Barbourville, Kentucky",
-    "Coah info": "https://www.gounionbulldogs.com/coach/20/19"
+    "Coah info": "https://www.gounionbulldogs.com/coach/20/19",
+    "loc": "36.8664765,-83.8888138"
   },
   {
     "": "",
@@ -976,7 +1064,8 @@
     "Website": "https://www.uj.edu/",
     "CampLink": "https://www.jimmiepride.com/sport/0/5",
     "Address": "Jamestown, North Dakota",
-    "Coah info": "https://www.jimmiepride.com/coach/23/5"
+    "Coah info": "https://www.jimmiepride.com/coach/23/5",
+    "loc": "46.9105438,-98.7084357"
   },
   {
     "": "",
@@ -987,7 +1076,8 @@
     "Website": "https://www.umwestern.edu/",
     "CampLink": "https://www.umwbulldogsfootballcamps.com/",
     "Address": "Dillon, Montana",
-    "Coah info": "https://umwbulldogs.com/sports/football/coaches"
+    "Coah info": "https://umwbulldogs.com/sports/football/coaches",
+    "loc": "45.21663239999999,-112.6389244"
   },
   {
     "": "",
@@ -998,7 +1088,8 @@
     "Website": "https://www.upike.edu/",
     "CampLink": "https://www.upikefootballcamps.com/prospect-camp.cfm",
     "Address": "Pikeville, Kentucky",
-    "Coah info": "https://upikebears.com/sports/football/coaches"
+    "Coah info": "https://upikebears.com/sports/football/coaches",
+    "loc": "37.4792672,-82.5187629"
   },
   {
     "": "",
@@ -1009,7 +1100,8 @@
     "Website": "https://www.sf.edu/",
     "CampLink": "https://www.saintfranciscougars.com/sports/fball/index",
     "Address": "Fort Wayne, Indiana",
-    "Coah info": "https://www.saintfranciscougars.com/information/directory/index"
+    "Coah info": "https://www.saintfranciscougars.com/information/directory/index",
+    "loc": "41.079273,-85.1393513"
   },
   {
     "": "",
@@ -1020,7 +1112,8 @@
     "Website": "https://www.stfrancis.edu/",
     "CampLink": "https://gofightingsaints.com/sports/football",
     "Address": "Joliet, Illinois",
-    "Coah info": "https://gofightingsaints.com/sports/football/coaches"
+    "Coah info": "https://gofightingsaints.com/sports/football/coaches",
+    "loc": "41.525031,-88.0817251"
   },
   {
     "": "",
@@ -1031,7 +1124,8 @@
     "Website": "https://www.ucumberlands.edu/",
     "CampLink": "https://cumberlandspatriots.com/sb_output.aspx?form=11",
     "Address": "Williamsburg, Kentucky",
-    "Coah info": "https://cumberlandspatriots.com/sports/football/coaches"
+    "Coah info": "https://cumberlandspatriots.com/sports/football/coaches",
+    "loc": "36.7434169,-84.15965609999999"
   },
   {
     "": "",
@@ -1042,7 +1136,8 @@
     "Website": "https://www.vcsu.edu/",
     "CampLink": "https://www.vcsufootballcamps.com/",
     "Address": "Valley City, North Dakota",
-    "Coah info": "https://vcsuvikings.com/staff-directory"
+    "Coah info": "https://vcsuvikings.com/staff-directory",
+    "loc": "46.9233129,-98.0031547"
   },
   {
     "": "",
@@ -1053,7 +1148,8 @@
     "Website": "https://start.waldorf.edu/?utm_source=googlebrand&utm_medium=ppc&utm_campaign=brand&utm_campaignid=143679198&keyword=waldorf%20university&utm_matchtype=e&utm_device=c&utm_network=g&utm_adposition&geo=9006300&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETH2jTPpwe39jFwOtn0AXnBgm_qpJDjExGo5OSoUwf8XhyfA4uf3zz4aAn6TEALw_wcB&affiliate_id=Cj0KCQjw27mhBhC9ARIsAIFsETH2jTPpwe39jFwOtn0AXnBgm_qpJDjExGo5OSoUwf8XhyfA4uf3zz4aAn6TEALw_wcB&utm_content=search&utm_contentid=9938825238&utm_placement&extension",
     "CampLink": "https://www.waldorffootballcamps.com/",
     "Address": "Forest City, Iowa",
-    "Coah info": "https://www.waldorfwarriors.com/sports/fball/coaches/index"
+    "Coah info": "https://www.waldorfwarriors.com/sports/fball/coaches/index",
+    "loc": "43.2624685,-93.6371937"
   },
   {
     "": "",
@@ -1064,7 +1160,8 @@
     "Website": "https://warner.edu/academics/undergraduate/",
     "CampLink": "https://warnerroyals.com/sports/2022/3/31/warner-football-prospect-camp.aspx",
     "Address": "Lake Wales, Florida",
-    "Coah info": "https://warnerroyals.com/sports/football/coaches"
+    "Coah info": "https://warnerroyals.com/sports/football/coaches",
+    "loc": "27.9014133,-81.58590989999999"
   },
   {
     "": "",
@@ -1075,7 +1172,8 @@
     "Website": "https://www.wbu.edu/",
     "CampLink": "https://wbuathletics.com/news/2013/4/3/FB_0403132246.aspx",
     "Address": "Plainview, Texas",
-    "Coah info": "https://wbuathletics.com/staff-directory"
+    "Coah info": "https://wbuathletics.com/staff-directory",
+    "loc": "34.1847936,-101.7068417"
   },
   {
     "": "",
@@ -1086,7 +1184,8 @@
     "Website": "https://www.webber.edu/",
     "CampLink": "https://webberathletics.com/news/2021/6/1/general-webber-athletics-to-host-16-summer-camps-in-june-and-july.aspx",
     "Address": "Babson Park, Florida",
-    "Coah info": "https://webberathletics.com/sports/football/coaches"
+    "Coah info": "https://webberathletics.com/sports/football/coaches",
+    "loc": "27.8319708,-81.5222974"
   },
   {
     "": "",
@@ -1097,6 +1196,7 @@
     "Website": "https://www.wmpenn.edu/",
     "CampLink": "https://www.statesmenathletics.com/FB_Camps",
     "Address": "Oskaloosa, Iowa",
-    "Coah info": "https://www.statesmenathletics.com/information/directory/index"
+    "Coah info": "https://www.statesmenathletics.com/information/directory/index",
+    "loc": "41.2916728,-92.6493595"
   }
 ]
