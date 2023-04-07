@@ -212,16 +212,16 @@
                             lng: parseFloat(latlngStr[1]),
                         };
                         let details =
-                            `<h2>${school['Name']}</h2><br/>
+                            `<h2>${school['Name of School']}</h2><br/>
                             <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Devison: </strong>${school['Devision']}<br/>
                             <strong> Status: </strong>${school['Public/Private']}<br/>
                             <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
-                            <strong> <a href="${school['CampLink']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
+                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                          makeMarker(map, {
-                            name: school['Name'],
+                            name: school['Name of School'],
                             latlng: latlng,
                             url: school['Website'],
                             details: details
@@ -232,6 +232,7 @@
                     })
                 })
         };
+    
 
         function initMap() {
             // The location of Uluru
