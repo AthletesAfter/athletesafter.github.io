@@ -183,8 +183,9 @@
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Devison: </strong>${school['Devision']}<br/>
                             <strong> Status: </strong>${school['Public/Private']}<br/>
-                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
-                            <strong> <a href="${school['CampLink']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
+                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Website </a> </strong> <br />
+                            <strong> <a href="${school['CampLink']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                            <strong> <a href="${school['Coah info']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                          makeMarker(map, {
                             name: school['Name'],
@@ -217,8 +218,9 @@
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Devison: </strong>${school['Devision']}<br/>
                             <strong> Status: </strong>${school['Public/Private']}<br/>
-                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
-                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
+                            <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Website </a> </strong> <br />
+                            <strong> <a href="${school['Camp Link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                             <strong> <a href="${school['Coach info']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Coach Info </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                          makeMarker(map, {
                             name: school['Name of School'],
@@ -232,8 +234,7 @@
                     })
                 })
         };
-    
-
+       
         function initMap() {
             // The location of Uluru
             const center_us = {
