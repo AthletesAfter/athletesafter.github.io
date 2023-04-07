@@ -178,16 +178,15 @@
                             lng: parseFloat(latlngStr[1]),
                         };
                         let details =
-                            `<h2>${school['Name']}</h2><br/>
+                            `<h2>${school['Name of School']}</h2><br/>
                             <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                             <strong> Conference: </strong>${school['Conference']}<br/>
-                            <strong> Devison: </strong>${school[Devision']}<br/>
-                            <strong> Status: </strong>${school['Public/Private']}<br/>
+                            <strong> Devison: </strong>${school['FCS/FBS']}<br/>
+                            <strong> Status: </strong>${school['Private/Public']}<br/>
                             <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
-                            <strong> <a href="${school['CampLink']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
-                            
+                            <strong> <a href="${school['Camp link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Camp link </a> </strong> <br />
                             <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
-                        makeMarker(map, {
+                         makeMarker(map, {
                             name: school['Name'],
                             latlng: latlng,
                             url: school['Website'],
