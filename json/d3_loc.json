@@ -1,1946 +1,2430 @@
 [
-    {
-      "Website": "https://www.adrian.edu/",
-      "School": "Adrian College",
-      "City and State": "Adrian, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "41.8975471,-84.03716589999999"
-    },
-    {
-      "Website": "https://www.albion.edu/",
-      "School": "Albion College",
-      "City and State": "Albion, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "42.243097,-84.7530304"
-    },
-    {
-      "Website": "https://www.albright.edu/home/",
-      "School": "Albright College",
-      "City and State": "Reading, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "40.3356483,-75.9268747"
-    },
-    {
-      "Website": "https://www.alfred.edu/",
-      "School": "Alfred University",
-      "City and State": "Alfred, New York",
-      "Type": "Private",
-      "Conference": "Empire 8 Athletic Conference",
-      "loc": "42.2542366,-77.7905509"
-    },
-    {
-      "Website": "https://allegheny.edu/",
-      "School": "Allegheny College",
-      "City and State": "Meadville, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "41.6414438,-80.15144839999999"
-    },
-    {
-      "Website": "https://www.alma.edu/",
-      "School": "Alma College",
-      "City and State": "Alma, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "43.3789694,-84.66023539999999"
-    },
-    {
-      "Website": "https://www.alvernia.edu/",
-      "School": "Alvernia University",
-      "City and State": "Reading, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "40.3356483,-75.9268747"
-    },
-    {
-      "Website": "https://www.amherst.edu/",
-      "School": "Amherst College",
-      "City and State": "Amherst, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "42.3732216,-72.5198537"
-    },
-    {
-      "Website": "https://anderson.edu/",
-      "School": "Anderson University – Indiana",
-      "City and State": "Anderson, Indiana",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "40.1053196,-85.6802541"
-    },
-    {
-      "Website": "https://annamaria.edu/",
-      "School": "Anna Maria College",
-      "City and State": "Paxton, Massachusetts",
-      "Type": "Private",
-      "Conference": "Eastern Collegiate Football Conference",
-      "loc": "42.3114889,-71.9278427"
-    },
-    {
-      "Website": "https://www.augsburg.edu/",
-      "School": "Augsburg University",
-      "City and State": "Minneapolis, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.977753,-93.2650108"
-    },
-    {
-      "Website": "https://www.augustana.edu/",
-      "School": "Augustana College – Illinois",
-      "City and State": "Rock Island, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "41.5094771,-90.5787476"
-    },
-    {
-      "Website": "https://aurora.edu/",
-      "School": "Aurora University",
-      "City and State": "Aurora, Illinois",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "41.7605849,-88.32007150000001"
-    },
-    {
-      "Website": "https://www.austincollege.edu/",
-      "School": "Austin College",
-      "City and State": "Sherman, Texas",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "33.6356618,-96.6088805"
-    },
-    {
-      "Website": "https://www.averett.edu/",
-      "School": "Averett University",
-      "City and State": "Danville, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "36.5859718,-79.39502279999999"
-    },
-    {
-      "Website": "https://www.bw.edu/",
-      "School": "Baldwin Wallace University",
-      "City and State": "Berea, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "41.3661614,-81.8543026"
-    },
-    {
-      "Website": "https://www.bates.edu/",
-      "School": "Bates College",
-      "City and State": "Lewiston, Maine",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "44.100351,-70.21477639999999"
-    },
-    {
-      "Website": "https://www.belhaven.edu/",
-      "School": "Belhaven University",
-      "City and State": "Jackson, Mississippi",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "32.2987573,-90.1848103"
-    },
-    {
-      "Website": "https://www.beloit.edu/",
-      "School": "Beloit College",
-      "City and State": "Beloit, Wisconsin",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "42.5083482,-89.03177649999999"
-    },
-    {
-      "Website": "https://ben.edu/",
-      "School": "Benedictine University",
-      "City and State": "Lisle, Illinois",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "41.801141,-88.0747875"
-    },
-    {
-      "Website": "https://berry.edu/",
-      "School": "Berry College",
-      "City and State": "Mount Berry, Georgia",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "34.2853865,-85.18810909999999"
-    },
-    {
-      "Website": "https://www.bethanywv.edu/",
-      "School": "Bethany College – West Virginia",
-      "City and State": "Bethany, West Virginia",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "40.205627,-80.55673840000001"
-    },
-    {
-      "Website": "https://www.bethel.edu/",
-      "School": "Bethel University – Minnesota",
-      "City and State": "Saint Paul, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.9537029,-93.0899578"
-    },
-    {
-      "Website": "https://www.bsc.edu/",
-      "School": "Birmingham-Southern College",
-      "City and State": "Birmingham, Alabama",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "33.5185892,-86.8103567"
-    },
-    {
-      "Website": "https://www.bluffton.edu/",
-      "School": "Bluffton University",
-      "City and State": "Bluffton, Ohio",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": null
-    },
-    {
-      "Website": "https://www.bowdoin.edu/",
-      "School": "Bowdoin College",
-      "City and State": "Brunswick, Maine",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "43.9140162,-69.9669961"
-    },
-    {
-      "Website": "https://brevard.edu/",
-      "School": "Brevard College",
-      "City and State": "Brevard, North Carolina",
-      "Type": "Private",
-      "Conference": "South Atlantic Conference",
-      "loc": "35.2334472,-82.7342919"
-    },
-    {
-      "Website": "https://www.bridgewater.edu/about-us/",
-      "School": "Bridgewater College",
-      "City and State": "Bridgewater, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "38.38207060000001,-78.97669599999999"
-    },
-    {
-      "Website": "https://www.bridgew.edu/",
-      "School": "Bridgewater State University",
-      "City and State": "Bridgewater, Massachusetts",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic Conference",
-      "loc": "41.9903519,-70.9750541"
-    },
-    {
-      "Website": "https://www.bvu.edu/",
-      "School": "Buena Vista University",
-      "City and State": "Storm Lake, Iowa",
-      "Type": "Private",
-      "Conference": "Iowa Intercollegiate Athletic Conference",
-      "loc": "42.6430359,-95.2019399"
-    },
-    {
-      "Website": "https://suny.buffalostate.edu/",
-      "School": "Buffalo State College",
-      "City and State": "buffalo, New York",
-      "Type": "Public",
-      "Conference": "Liberty League",
-      "loc": "42.88644679999999,-78.8783689"
-    },
-    {
-      "Website": "https://www.callutheran.edu/",
-      "School": "California Lutheran University",
-      "City and State": "Thousand Oaks, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "34.1705609,-118.8375937"
-    },
-    {
-      "Website": "https://www.capital.edu/",
-      "School": "Capital University",
-      "City and State": "Columbus, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "39.9611755,-82.99879419999999"
-    },
-    {
-      "Website": "https://www.carleton.edu/",
-      "School": "Carleton College",
-      "City and State": "Northfield, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.4582983,-93.161604"
-    },
-    {
-      "Website": "https://www.cmu.edu/",
-      "School": "Carnegie Mellon University",
-      "City and State": "Pittsburgh, Pennsylvania",
-      "Type": "Private",
-      "Conference": "University Athletic Association",
-      "loc": "40.44062479999999,-79.9958864"
-    },
-    {
-      "Website": "https://www.carrollu.edu/",
-      "School": "Carroll University",
-      "City and State": "Waukesha, Wisconsin",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "43.0116784,-88.2314813"
-    },
-    {
-      "Website": "https://www.carthage.edu/",
-      "School": "Carthage College",
-      "City and State": "Kenosha, Wisconsin",
-      "Type": "Public",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "42.5847425,-87.82118539999999"
-    },
-    {
-      "Website": "https://case.edu/",
-      "School": "Case Western Reserve University",
-      "City and State": "Cleveland, Ohio",
-      "Type": "Private",
-      "Conference": "University Athletic Association",
-      "loc": "41.49932,-81.6943605"
-    },
-    {
-      "Website": "https://www.castleton.edu/",
-      "School": "Castleton University",
-      "City and State": "Castleton, Vermont",
-      "Type": "Public",
-      "Conference": "Eastern Collegiate Football Conference",
-      "loc": "43.6106223,-73.17983199999999"
-    },
-    {
-      "Website": "https://www.catholic.edu/index.html",
-      "School": "Catholic University of America",
-      "City and State": "Washington, District Of Columbia",
-      "Type": "Private",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "38.9071923,-77.0368707"
-    },
-    {
-      "Website": "https://www.centenary.edu/",
-      "School": "Centenary College of Louisiana",
-      "City and State": "Shreveport, Louisiana",
-      "Type": "Private",
-      "Conference": "Southern Collegiate Athletic Conference",
-      "loc": "32.5251516,-93.7501789"
-    },
-    {
-      "Website": "https://central.edu/",
-      "School": "Central College",
-      "City and State": "Pella, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers Conference",
-      "loc": "41.4080327,-92.91640500000001"
-    },
-    {
-      "Website": "https://www.centre.edu/",
-      "School": "Centre College",
-      "City and State": "Danville, Kentucky",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "37.6456329,-84.77217019999999"
-    },
-    {
-      "Website": "https://www.chapman.edu/",
-      "School": "Chapman University",
-      "City and State": "Orange, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "33.7879139,-117.8531007"
-    },
-    {
-      "Website": "https://cnu.edu/",
-      "School": "Christopher Newport University",
-      "City and State": "Newport News, Virginia",
-      "Type": "Public",
-      "Conference": "Capital Athletic Conference",
-      "loc": "37.0870821,-76.4730122"
-    },
-    {
-      "Website": "https://www.cmc.edu/",
-      "School": "Claremont-Mudd-Scripps Colleges",
-      "City and State": "Claremont, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "34.0966764,-117.7197785"
-    },
-    {
-      "Website": "https://www.coe.edu/",
-      "School": "Coe College",
-      "City and State": "Cedar Rapids, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers Conference",
-      "loc": "41.9778795,-91.6656232"
-    },
-    {
-      "Website": "https://afa.colby.edu/",
-      "School": "Colby College",
-      "City and State": "Waterville, Maine",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "44.5520105,-69.6317121"
-    },
-    {
-      "Website": "https://mountsaintvincent.edu/",
-      "School": "College of Mount Saint Vincent",
-      "City and State": "Bronx, New York",
-      "Type": "Private",
-      "Conference": "Skyline Conference",
-      "loc": "40.8447819,-73.8648268"
-    },
-    {
-      "Website": "https://mountsaintvincent.edu/",
-      "School": "College of Wooster",
-      "City and State": "Wooster, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "40.8050565,-81.935143"
-    },
-    {
-      "Website": "https://wooster.edu/",
-      "School": "Concordia College – Minnesota",
-      "City and State": "Moorhead, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "46.8737648,-96.76780389999999"
-    },
-    {
-      "Website": "https://www.concordiacollege.edu/",
-      "School": "Concordia University – Chicago",
-      "City and State": "River Forest, Illinois",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "41.8939617,-87.81984779999999"
-    },
-    {
-      "Website": "https://www.cuw.edu/",
-      "School": "Concordia University Wisconsin",
-      "City and State": "Mequon, Wisconsin",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "43.2159232,-88.0314174"
-    },
-    {
-      "Website": "https://www.cornellcollege.edu/",
-      "School": "Cornell College",
-      "City and State": "Mount Vernon, Iowa",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "41.9219522,-91.4168371"
-    },
-    {
-      "Website": "https://www.crown.edu/",
-      "School": "Crown College",
-      "City and State": "Saint Bonifacius, Minnesota",
-      "Type": "Private",
-      "Conference": "Upper Midwest Athletic Conference",
-      "loc": "44.90551809999999,-93.74746359999999"
-    },
-    {
-      "Website": "https://www.curry.edu/",
-      "School": "Curry College",
-      "City and State": "Milton, Massachusetts",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Conference",
-      "loc": "42.2495321,-71.0661653"
-    },
-    {
-      "Website": "https://www.dean.edu/",
-      "School": "Dean College",
-      "City and State": "Franklin, Massachusetts",
-      "Type": "Private",
-      "Conference": "Great Northeast Athletic Conference",
-      "loc": "42.0834313,-71.396725"
-    },
-    {
-      "Website": "http://www.defiance.edu/",
-      "School": "Defiance College",
-      "City and State": "Defiance, Ohio",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "41.2844933,-84.3557802"
-    },
-    {
-      "Website": "https://delval.edu/",
-      "School": "Delaware Valley University",
-      "City and State": "Doylestown, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "40.3101063,-75.1298939"
-    },
-    {
-      "Website": "https://denison.edu/",
-      "School": "Denison University",
-      "City and State": "Granville, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "40.06811920000001,-82.51960369999999"
-    },
-    {
-      "Website": "https://www.depauw.edu/",
-      "School": "DePauw University",
-      "City and State": "Greencastle, Indiana",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "39.6444898,-86.8647316"
-    },
-    {
-      "Website": "https://www.dickinson.edu/",
-      "School": "Dickinson College",
-      "City and State": "Carlisle, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.2010241,-77.20027449999999"
-    },
-    {
-      "Website": "https://www.etbu.edu/",
-      "School": "East Texas Baptist University",
-      "City and State": "Marshall, Texas",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "32.5448714,-94.36741839999999"
-    },
-    {
-      "Website": "https://www.eastern.edu/",
-      "School": "Eastern University",
-      "City and State": "Saint Davids, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "40.0409428,-75.37852339999999"
-    },
-    {
-      "Website": "https://www.elmhurst.edu/",
-      "School": "Elmhurst University",
-      "City and State": "Elmhurst, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "41.8994744,-87.9403418"
-    },
-    {
-      "Website": "https://www.ehc.edu/",
-      "School": "Emory & Henry College",
-      "City and State": "Emory, Virginia",
-      "Type": "Private",
-      "Conference": "South Atlantic Conference",
-      "loc": "36.77381099999999,-81.834939"
-    },
-    {
-      "Website": "https://www.endicott.edu/",
-      "School": "Endicott College",
-      "City and State": "Beverly, Massachusetts",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Football",
-      "loc": "42.5584283,-70.880049"
-    },
-    {
-      "Website": "https://www.eureka.edu/",
-      "School": "Eureka College",
-      "City and State": "Eureka, Illinois",
-      "Type": "Private",
-      "Conference": "Upper Midwest Athletic Conference",
-      "loc": "40.7214251,-89.2728627"
-    },
-    {
-      "Website": "https://www.fdu.edu/",
-      "School": "Fairleigh Dickinson University – College at Florham",
-      "City and State": "Madison, New Jersey",
-      "Type": "Private",
-      "Conference": "Northeast Conference",
-      "loc": "40.7598227,-74.417097"
-    },
-    {
-      "Website": "https://www.ferrum.edu/",
-      "School": "Ferrum College",
-      "City and State": "Ferrum, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "36.9229159,-80.01337120000001"
-    },
-    {
-      "Website": "https://www.finlandia.edu/",
-      "School": "Finlandia University",
-      "City and State": "Hancock, Michigan",
-      "Type": "Private",
-      "Conference": "Wisconsin Intercollegiate Athletic",
-      "loc": "47.1268714,-88.5809563"
-    },
-    {
-      "Website": "https://www.fitchburgstate.edu/",
-      "School": "Fitchburg State University",
-      "City and State": "Fitchburg, Massachusetts",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic Conference",
-      "loc": "42.5834228,-71.8022955"
-    },
-    {
-      "Website": "https://www.fontbonne.edu/",
-      "School": "Fontbonne University",
-      "City and State": "St. Louis, Missouri",
-      "Type": "Private",
-      "Conference": "St. Louis Intercollegiate Athletic Conference",
-      "loc": "38.6270025,-90.19940419999999"
-    },
-    {
-      "Website": "https://www.framingham.edu/",
-      "School": "Framingham State University",
-      "City and State": "Framingham, Massachusetts",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic Conference",
-      "loc": "42.279286,-71.4161565"
-    },
-    {
-      "Website": "https://www.fandm.edu/",
-      "School": "Franklin & Marshall College",
-      "City and State": "Lancaster, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.0378755,-76.3055144"
-    },
-    {
-      "Website": "https://franklincollege.edu/",
-      "School": "Franklin College",
-      "City and State": "Franklin, Indiana",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "39.4806055,-86.0549863"
-    },
-    {
-      "Website": "https://gallaudet.edu/",
-      "School": "Gallaudet University",
-      "City and State": "Washington, District Of Columbia",
-      "Type": "Private",
-      "Conference": "United East",
-      "loc": "38.9071923,-77.0368707"
-    },
-    {
-      "Website": "https://www.geneva.edu/",
-      "School": "Geneva College",
-      "City and State": "Beaver Falls, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "40.7520097,-80.31922949999999"
-    },
-    {
-      "Website": "https://www.georgefox.edu/",
-      "School": "George Fox University",
-      "City and State": "Newberg, Oregon",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "45.3003268,-122.9761318"
-    },
-    {
-      "Website": "https://www.gettysburg.edu/",
-      "School": "Gettysburg College",
-      "City and State": "Gettysburg, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "39.8309293,-77.2310955"
-    },
-    {
-      "Website": "https://www.greensboro.edu/",
-      "School": "Greensboro College",
-      "City and State": "Greensboro, North Carolina",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "36.0726354,-79.7919754"
-    },
-    {
-      "Website": "https://www.greenville.edu/",
-      "School": "Greenville University",
-      "City and State": "Greenville, Illinois",
-      "Type": "Private",
-      "Conference": "St. Louis Intercollegiate Athletic Conference",
-      "loc": "38.8922687,-89.41313559999999"
-    },
-    {
-      "Website": "https://www.grinnell.edu/",
-      "School": "Grinnell College",
-      "City and State": "Grinnell, Iowa",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "41.74340919999999,-92.7232456"
-    },
-    {
-      "Website": "https://www.gcc.edu/",
-      "School": "Grove City College",
-      "City and State": "Grove City, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "41.15783769999999,-80.08867029999999"
-    },
-    {
-      "Website": "https://www.guilford.edu/",
-      "School": "Guilford College",
-      "City and State": "Greensboro, North Carolina",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "36.0726354,-79.7919754"
-    },
-    {
-      "Website": "https://gustavus.edu/",
-      "School": "Gustavus Adolphus College",
-      "City and State": "Saint Peter, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.3258932,-93.955691"
-    },
-    {
-      "Website": "https://www.hamilton.edu/",
-      "School": "Hamilton College",
-      "City and State": "Clinton, New York",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "43.0484029,-75.3785034"
-    },
-    {
-      "Website": "https://www.hamline.edu/",
-      "School": "Hamline University",
-      "City and State": "Saint Paul, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.9537029,-93.0899578"
-    },
-    {
-      "Website": "https://www.hsc.edu/",
-      "School": "Hampden-Sydney College",
-      "City and State": "Hampden Sydney, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "37.2423746,-78.4597173"
-    },
-    {
-      "Website": "https://www.hanover.edu/",
-      "School": "Hanover College",
-      "City and State": "Hanover, Indiana",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "38.7142263,-85.4735707"
-    },
-    {
-      "Website": "https://www.hsutx.edu/",
-      "School": "Hardin-Simmons University",
-      "City and State": "Abilene, Texas",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "32.4487364,-99.73314390000002"
-    },
-    {
-      "Website": "https://www.hartwick.edu/",
-      "School": "Hartwick College",
-      "City and State": "Oneonta, New York",
-      "Type": "Private",
-      "Conference": "Empire 8 Athletic Conference",
-      "loc": "42.4528571,-75.0637746"
-    },
-    {
-      "Website": "https://www.heidelberg.edu/",
-      "School": "Heidelberg University",
-      "City and State": "Tiffin, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "41.1144992,-83.1779746"
-    },
-    {
-      "Website": "https://www.hendrix.edu/",
-      "School": "Hendrix College",
-      "City and State": "Conway, Arkansas",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "35.0917506,-92.4366522"
-    },
-    {
-      "Website": "https://www.hilbert.edu/",
-      "School": "Hilbert College",
-      "City and State": "Hamburg, New York",
-      "Type": "Private",
-      "Conference": "Allegheny Mountain Collegiate Conference",
-      "loc": "42.7158927,-78.8294768"
-    },
-    {
-      "Website": "https://www.hiram.edu/",
-      "School": "Hiram College",
-      "City and State": "Hiram, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "41.3125552,-81.1437098"
-    },
-    {
-      "Website": "https://www.hws.edu/",
-      "School": "Hobart & William Smith College",
-      "City and State": "Geneva, New York",
-      "Type": "Private",
-      "Conference": "Liberty League (Division III)",
-      "loc": "42.8679836,-76.985557"
-    },
-    {
-      "Website": "https://hope.edu/admissions/",
-      "School": "Hope College",
-      "City and State": "Holland, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "42.7875235,-86.1089301"
-    },
-    {
-      "Website": "https://www.hputx.edu/",
-      "School": "Howard Payne University",
-      "City and State": "Brownwood, Texas",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "31.7093197,-98.9911611"
-    },
-    {
-      "Website": "https://www.huntingdon.edu/",
-      "School": "Huntingdon College",
-      "City and State": "Montgomery, Alabama",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "32.3792233,-86.3077368"
-    },
-    {
-      "Website": "https://www.husson.edu/",
-      "School": "Husson University",
-      "City and State": "Bangor, Maine",
-      "Type": "Private",
-      "Conference": "North Atlantic",
-      "loc": "44.8016128,-68.7712257"
-    },
-    {
-      "Website": "https://www.ic.edu/",
-      "School": "Illinois College",
-      "City and State": "Jacksonville, Illinois",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "39.733936,-90.2290098"
-    },
-    {
-      "Website": "https://www.iwu.edu/",
-      "School": "Illinois Wesleyan University",
-      "City and State": "Bloomington, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "40.4842027,-88.99368729999999"
-    },
-    {
-      "Website": "https://www.ithaca.edu/",
-      "School": "Ithaca College",
-      "City and State": "Ithaca, New York",
-      "Type": "Private",
-      "Conference": "Liberty League",
-      "loc": "42.4439614,-76.5018807"
-    },
-    {
-      "Website": "https://www.jcu.edu/",
-      "School": "John Carroll University",
-      "City and State": "University Heights, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "41.4978306,-81.53734560000001"
-    },
-    {
-      "Website": "https://www.jhu.edu/",
-      "School": "Johns Hopkins University",
-      "City and State": "Baltimore, Maryland",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "39.2903848,-76.6121893"
-    },
-    {
-      "Website": "https://www.juniata.edu/",
-      "School": "Juniata College",
-      "City and State": "Huntingdon, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.48479589999999,-78.0102813"
-    },
-    {
-      "Website": "https://www.kzoo.edu/",
-      "School": "Kalamazoo College",
-      "City and State": "Kalamazoo, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "42.2917069,-85.5872286"
-    },
-    {
-      "Website": "https://www.kean.edu/",
-      "School": "Kean University",
-      "City and State": "Union, New Jersey",
-      "Type": "Public",
-      "Conference": "New Jersey Athletic Conference",
-      "loc": "40.6975898,-74.26316349999999"
-    },
-    {
-      "Website": "https://www.kenyon.edu/",
-      "School": "Kenyon College",
-      "City and State": "Gambier, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "40.3759296,-82.397183"
-    },
-    {
-      "Website": "https://www.keystone.edu/",
-      "School": "Keystone College",
-      "City and State": "La Plume, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Colonial States Athletic Conference",
-      "loc": "41.5567167,-75.7552706"
-    },
-    {
-      "Website": "https://www.kings.edu/",
-      "School": "King's College – Pennsylvania",
-      "City and State": "Wilkes-Barre, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Freedom",
-      "loc": "41.2459149,-75.88130749999999"
-    },
-    {
-      "Website": "https://www.knox.edu/",
-      "School": "Knox College",
-      "City and State": "Galesburg, Illinois",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "40.94781580000001,-90.3712395"
-    },
-    {
-      "Website": "https://www.lagrange.edu/",
-      "School": "LaGrange College",
-      "City and State": "LaGrange, Georgia",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "33.0362218,-85.0322444"
-    },
-    {
-      "Website": "https://www.lakeforest.edu/",
-      "School": "Lake Forest College",
-      "City and State": "Lake Forest, Illinois",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "42.2586342,-87.840625"
-    },
-    {
-      "Website": "https://lakeland.edu/",
-      "School": "Lakeland University",
-      "City and State": "Plymouth, Wisconsin",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "43.7486054,-87.9770379"
-    },
-    {
-      "Website": "https://www.lawrence.edu/",
-      "School": "Lawrence University",
-      "City and State": "Appleton, Wisconsin",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "44.2619309,-88.41538469999999"
-    },
-    {
-      "Website": "https://www.lvc.edu/",
-      "School": "Lebanon Valley College",
-      "City and State": "Annville, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "40.3295359,-76.51524429999999"
-    },
-    {
-      "Website": "https://www.lclark.edu/",
-      "School": "Lewis & Clark College",
-      "City and State": "Portland, Oregon",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "45.515232,-122.6783853"
-    },
-    {
-      "Website": "https://www.linfield.edu/",
-      "School": "Linfield University",
-      "City and State": "McMinnville, Oregon",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "45.2107513,-123.1944874"
-    },
-    {
-      "Website": "https://www.loras.edu/",
-      "School": "Loras College",
-      "City and State": "Dubuque, Iowa",
-      "Type": "Private",
-      "Conference": "Iowa Intercollegiate Athletic Conference",
-      "loc": "42.506348,-90.6677347"
-    },
-    {
-      "Website": "https://www.luther.edu/",
-      "School": "Luther College",
-      "City and State": "Decorah, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers",
-      "loc": "43.30330559999999,-91.7857092"
-    },
-    {
-      "Website": "https://www.lycoming.edu/",
-      "School": "Lycoming College",
-      "City and State": "Williamsport, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "41.2411897,-77.00107860000001"
-    },
-    {
-      "Website": "https://www.macalester.edu/",
-      "School": "Macalester College",
-      "City and State": "St. Paul, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.9537029,-93.0899578"
-    },
-    {
-      "Website": "https://www.manchester.edu/",
-      "School": "Manchester University",
-      "City and State": "North Manchester, Indiana",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "41.0006005,-85.768597"
-    },
-    {
-      "Website": "https://www.marietta.edu/",
-      "School": "Marietta College",
-      "City and State": "Marietta, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "39.41535200000001,-81.45484359999999"
-    },
-    {
-      "Website": "https://mlc-wels.edu/",
-      "School": "Martin Luther College",
-      "City and State": "New Ulm, Minnesota",
-      "Type": "Private",
-      "Conference": "Upper Midwest Athletic Conference",
-      "loc": "44.3144394,-94.45930179999999"
-    },
-    {
-      "Website": "https://www.maryvillecollege.edu/",
-      "School": "Maryville College",
-      "City and State": "Maryville, Tennessee",
-      "Type": "Private",
-      "Conference": "Collegiate Conference of the South",
-      "loc": "35.7564719,-83.9704593"
-    },
-    {
-      "Website": "https://web.mit.edu/",
-      "School": "Massachusetts Institute of Technology – MIT",
-      "City and State": "Cambridge, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "42.3736158,-71.10973349999999"
-    },
-    {
-      "Website": "https://www.mcdaniel.edu/",
-      "School": "McDaniel College",
-      "City and State": "Westminster, Maryland",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "39.5753791,-76.9958149"
-    },
-    {
-      "Website": "https://mcm.edu/",
-      "School": "McMurry University",
-      "City and State": "Abilene, Texas",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "32.4487364,-99.73314390000002"
-    },
-    {
-      "Website": "https://www.methodist.edu/",
-      "School": "Methodist University",
-      "City and State": "Fayetteville, North Carolina",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "35.0526641,-78.87835849999999"
-    },
-    {
-      "Website": "https://www.middlebury.edu/college/academics",
-      "School": "Middlebury College",
-      "City and State": "Middlebury, Vermont",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "44.0153371,-73.16734"
-    },
-    {
-      "Website": "https://millikin.edu/",
-      "School": "Millikin University",
-      "City and State": "Decatur, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "39.8403147,-88.9548001"
-    },
-    {
-      "Website": "https://www.millsaps.edu/",
-      "School": "Millsaps College",
-      "City and State": "Jackson, Mississippi",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "32.2987573,-90.1848103"
-    },
-    {
-      "Website": "https://www.misericordia.edu/",
-      "School": "Misericordia University",
-      "City and State": "Dallas, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "41.3361911,-75.9632546"
-    },
-    {
-      "Website": "https://www.monmouthcollege.edu/",
-      "School": "Monmouth College",
-      "City and State": "Monmouth, Illinois",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "40.9114271,-90.64735759999999"
-    },
-    {
-      "Website": "https://www.montclair.edu/",
-      "School": "Montclair State University",
-      "City and State": "Montclair, New Jersey",
-      "Type": "Public",
-      "Conference": "New Jersey Athletic Conference",
-      "loc": "40.8259007,-74.2090053"
-    },
-    {
-      "Website": "https://www.moravian.edu/",
-      "School": "Moravian University",
-      "City and State": "Bethlehem, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.6259316,-75.37045789999999"
-    },
-    {
-      "Website": "https://www.msj.edu/",
-      "School": "Mount St. Joseph University",
-      "City and State": "Cincinnati, Ohio",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "39.1031182,-84.5120196"
-    },
-    {
-      "Website": "https://www.muhlenberg.edu/",
-      "School": "Muhlenberg College",
-      "City and State": "Allentown, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.6022939,-75.4714098"
-    },
-    {
-      "Website": "https://www.muskingum.edu/",
-      "School": "Muskingum University",
-      "City and State": "New Concord, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "39.9936837,-81.73401679999999"
-    },
-    {
-      "Website": "https://www.nebrwesleyan.edu/",
-      "School": "Nebraska Wesleyan University",
-      "City and State": "Lincoln, Nebraska",
-      "Type": "Private",
-      "Conference": "American Rivers",
-      "loc": "40.813616,-96.7025955"
-    },
-    {
-      "Website": "https://www.nichols.edu/",
-      "School": "Nichols College",
-      "City and State": "Dudley, Massachusetts",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Football",
-      "loc": "42.0433661,-71.9276033"
-    },
-    {
-      "Website": "https://ncwc.edu/",
-      "School": "North Carolina Wesleyan College",
-      "City and State": "Rocky Mount, North Carolina",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "35.9382103,-77.7905339"
-    },
-    {
-      "Website": "https://www.northcentralcollege.edu/",
-      "School": "North Central College",
-      "City and State": "Naperville, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "41.7508391,-88.1535352"
-    },
-    {
-      "Website": "https://www.northpark.edu/",
-      "School": "North Park University",
-      "City and State": "Chicago, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "41.8781136,-87.6297982"
-    },
-    {
-      "Website": "https://www.norwich.edu/",
-      "School": "Norwich University",
-      "City and State": "Northfield, Vermont",
-      "Type": "Private",
-      "Conference": "Great Northeast Athletic Conference",
-      "loc": "44.151202,-72.656747"
-    },
-    {
-      "Website": "https://www.oberlin.edu/",
-      "School": "Oberlin College",
-      "City and State": "Oberlin, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "41.2939386,-82.21737859999999"
-    },
-    {
-      "Website": "https://www.onu.edu/",
-      "School": "Ohio Northern University",
-      "City and State": "Ada, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "40.7694969,-83.8227148"
-    },
-    {
-      "Website": "https://www.owu.edu/",
-      "School": "Ohio Wesleyan University",
-      "City and State": "Delaware, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "40.2986724,-83.067965"
-    },
-    {
-      "Website": "https://www.olivetcollege.edu/",
-      "School": "Olivet College",
-      "City and State": "Olivet, Michigan",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "42.4414273,-84.92415419999999"
-    },
-    {
-      "Website": "https://www.otterbein.edu/",
-      "School": "Otterbein University",
-      "City and State": "Westerville, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "40.1266689,-82.9318807"
-    },
-    {
-      "Website": "https://www.plu.edu/",
-      "School": "Pacific Lutheran University",
-      "City and State": "Tacoma, Washington",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "47.2528768,-122.4442906"
-    },
-    {
-      "Website": "https://www.pacificu.edu/",
-      "School": "Pacific University",
-      "City and State": "Forest Grove, Oregon",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "45.5196767,-123.1121017"
-    },
-    {
-      "Website": "https://www.plymouth.edu/",
-      "School": "Plymouth State University",
-      "City and State": "Plymouth, New Hampshire",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic Conference",
-      "loc": "43.7570196,-71.6881528"
-    },
-    {
-      "Website": "https://www.pomona.edu/",
-      "School": "Pomona-Pitzer Colleges",
-      "City and State": "Claremont, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "34.0966764,-117.7197785"
-    },
-    {
-      "Website": "https://www.rmc.edu/",
-      "School": "Randolph-Macon College",
-      "City and State": "Ashland, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "37.7590318,-77.47998369999999"
-    },
-    {
-      "Website": "https://www.rpi.edu/",
-      "School": "Rensselaer Polytechnic Institute – RPI",
-      "City and State": "Troy, New York",
-      "Type": "Private",
-      "Conference": "Liberty League",
-      "loc": "42.7284117,-73.69178509999999"
-    },
-    {
-      "Website": "https://www.rhodes.edu/",
-      "School": "Rhodes College",
-      "City and State": "Memphis, Tennessee",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "35.1495343,-90.0489801"
-    },
-    {
-      "Website": "https://ripon.edu/",
-      "School": "Ripon College",
-      "City and State": "Ripon, Wisconsin",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "43.8422049,-88.8359447"
-    },
-    {
-      "Website": "https://www.rockford.edu/",
-      "School": "Rockford University",
-      "City and State": "Rockford, Illinois",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "42.2711311,-89.0939952"
-    },
-    {
-      "Website": "https://www.rose-hulman.edu/",
-      "School": "Rose-Hulman Institute of Technology",
-      "City and State": "Terre Haute, Indiana",
-      "Type": "Private",
-      "Conference": "Heartland Collegiate Athletic Conference",
-      "loc": "39.4667034,-87.41390919999999"
-    },
-    {
-      "Website": "https://www.rowan.edu/",
-      "School": "Rowan University",
-      "City and State": "Glassboro, New Jersey",
-      "Type": "Public",
-      "Conference": "New Jersey Athletic Conference",
-      "loc": "39.70289229999999,-75.1118422"
-    },
-    {
-      "Website": "https://www.csbsju.edu/admission",
-      "School": "Saint John's University – Minnesota",
-      "City and State": "Collegeville, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "45.59388149999999,-94.3641026"
-    },
-    {
-      "Website": "https://www.stvincent.edu/",
-      "School": "Saint Vincent College – Pennsylvania",
-      "City and State": "Latrobe, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "40.3211808,-79.37948109999999"
-    },
-    {
-      "Website": "https://www.salisbury.edu/",
-      "School": "Salisbury University",
-      "City and State": "Salisbury, Maryland",
-      "Type": "Public",
-      "Conference": "Coast-to-Coast Athletic",
-      "loc": "38.3606736,-75.5993692"
-    },
-    {
-      "Website": "https://www.salve.edu/",
-      "School": "Salve Regina University",
-      "City and State": "Newport, Rhode Island",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Football",
-      "loc": "41.4901024,-71.3128285"
-    },
-    {
-      "Website": "https://new.sewanee.edu/",
-      "School": "Sewanee – The University of the South",
-      "City and State": "Sewanee, Tennessee",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "35.2031373,-85.9210899"
-    },
-    {
-      "Website": "https://www.su.edu/",
-      "School": "Shenandoah University",
-      "City and State": "Winchester, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "39.1856597,-78.1633341"
-    },
-    {
-      "Website": "https://simpson.edu/",
-      "School": "Simpson College",
-      "City and State": "Indianola, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers",
-      "loc": "41.3580484,-93.5574376"
-    },
-    {
-      "Website": "https://svu.edu/",
-      "School": "Southern Virginia University",
-      "City and State": "Buena Vista, Virginia",
-      "Type": "Private",
-      "Conference": "USA South Athletic Conference",
-      "loc": "37.7343004,-79.35392379999999"
-    },
-    {
-      "Website": "https://www.southwestern.edu/",
-      "School": "Southwestern University",
-      "City and State": "Georgetown, Texas",
-      "Type": "Private",
-      "Conference": "Southern Collegiate Athletic Conference",
-      "loc": "30.6332618,-97.6779842"
-    },
-    {
-      "Website": "https://springfield.edu/",
-      "School": "Springfield College",
-      "City and State": "Springfield, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "42.1014831,-72.589811"
-    },
-    {
-      "Website": "https://www.sjf.edu/",
-      "School": "St. John Fisher College",
-      "City and State": "Rochester, New York",
-      "Type": "Private",
-      "Conference": "Empire 8 Athletic Conference",
-      "loc": "43.15657789999999,-77.6088465"
-    },
-    {
-      "Website": "https://www.stlawu.edu/",
-      "School": "St. Lawrence University",
-      "City and State": "Canton, New York",
-      "Type": "Private",
-      "Conference": "Liberty League",
-      "loc": "44.5956163,-75.1690942"
-    },
-    {
-      "Website": "https://www.snc.edu/",
-      "School": "St. Norbert College",
-      "City and State": "De Pere, Wisconsin",
-      "Type": "Private",
-      "Conference": "Northern Athletics Collegiate Conference",
-      "loc": "44.4488805,-88.0603806"
-    },
-    {
-      "Website": "https://wp.stolaf.edu/",
-      "School": "St. Olaf College",
-      "City and State": "Northfield, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "44.4582983,-93.161604"
-    },
-    {
-      "Website": "https://www.stevenson.edu/",
-      "School": "Stevenson University",
-      "City and State": "Stevenson, Maryland",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "39.4105843,-76.71328919999999"
-    },
-    {
-      "Website": "https://www.sulross.edu/",
-      "School": "Sul Ross State University",
-      "City and State": "Alpine, Texas",
-      "Type": "Public",
-      "Conference": "American Southwest Conference",
-      "loc": "30.3584919,-103.6610115"
-    },
-    {
-      "Website": "https://suny.buffalostate.edu/",
-      "School": "SUNY Buffalo State College",
-      "City and State": "Buffalo, New York",
-      "Type": "Public",
-      "Conference": "State University of New York Athletic Conference",
-      "loc": "42.88644679999999,-78.8783689"
-    },
-    {
-      "Website": "https://www2.brockport.edu/",
-      "School": "SUNY College at Brockport",
-      "City and State": "Brockport, New York",
-      "Type": "Public",
-      "Conference": "State University of New York Athletic Conference",
-      "loc": "43.2136713,-77.9391797"
-    },
-    {
-      "Website": "https://www2.cortland.edu/home/",
-      "School": "SUNY Cortland",
-      "City and State": "Cortland, New York",
-      "Type": "Public",
-      "Conference": "State University of New York Athletic Conference",
-      "loc": "42.6011813,-76.1804843"
-    },
-    {
-      "Website": "https://www.sunymaritime.edu/",
-      "School": "SUNY Maritime College",
-      "City and State": "Throggs Neck, New York",
-      "Type": "Public",
-      "Conference": "Skyline Conference",
-      "loc": "40.818399,-73.8213213"
-    },
-    {
-      "Website": "https://www.morrisville.edu/",
-      "School": "SUNY Morrisville",
-      "City and State": "Morrisville, New York",
-      "Type": "Public",
-      "Conference": "Empire 8 Athletic Conference",
-      "loc": "42.8986791,-75.6401825"
-    },
-    {
-      "Website": "https://www.susqu.edu/",
-      "School": "Susquehanna University",
-      "City and State": "Selinsgrove, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Landmark",
-      "loc": "40.7989735,-76.8621935"
-    },
-    {
-      "Website": "https://www.tlu.edu/",
-      "School": "Texas Lutheran University",
-      "City and State": "Seguin, Texas",
-      "Type": "Private",
-      "Conference": "Southern Collegiate Athletic Conference",
-      "loc": "29.56892479999999,-97.96458319999999"
-    },
-    {
-      "Website": "https://tcnj.edu/",
-      "School": "The College of New Jersey",
-      "City and State": "Ewing, New Jersey",
-      "Type": "Public",
-      "Conference": "New Jersey Athletic Conference",
-      "loc": "40.2599864,-74.79091249999999"
-    },
-    {
-      "Website": "https://www.css.edu/",
-      "School": "The College of St. Scholastica",
-      "City and State": "Duluth, Minnesota",
-      "Type": "Private",
-      "Conference": "Minnesota Intercollegiate Athletic Conference",
-      "loc": "46.78667189999999,-92.1004852"
-    },
-    {
-      "Website": "https://www.thiel.edu/",
-      "School": "Thiel College",
-      "City and State": "Greenville, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "41.404499,-80.39117850000001"
-    },
-    {
-      "Website": "https://www.trine.edu/",
-      "School": "Trine University",
-      "City and State": "Angola, Indiana",
-      "Type": "Private",
-      "Conference": "Michigan Intercollegiate Athletic Association",
-      "loc": "41.6347726,-84.9994088"
-    },
-    {
-      "Website": "https://www.trincoll.edu/",
-      "School": "Trinity College – Connecticut",
-      "City and State": "Hartford, Connecticut",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "41.7658043,-72.6733723"
-    },
-    {
-      "Website": "https://www.trinity.edu/",
-      "School": "Trinity University – Texas",
-      "City and State": "San Antonio, Texas",
-      "Type": "Private",
-      "Conference": "Southern Athletic Association",
-      "loc": "29.4251905,-98.4945922"
-    },
-    {
-      "Website": "https://www.tufts.edu/",
-      "School": "Tufts University",
-      "City and State": "Medford, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "42.4184296,-71.1061639"
-    },
-    {
-      "Website": "https://www.union.edu/",
-      "School": "Union College – New York",
-      "City and State": "Schenectady, New York",
-      "Type": "Private",
-      "Conference": "Liberty League",
-      "loc": "42.8142432,-73.9395687"
-    },
-    {
-      "Website": "https://uscga.edu/",
-      "School": "United States Coast Guard Academy",
-      "City and State": "New London, Connecticut",
-      "Type": "Public",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "41.3556539,-72.0995209"
-    },
-    {
-      "Website": "https://www.usmma.edu/",
-      "School": "United States Merchant Marine Academy",
-      "City and State": "Kings Point, New York",
-      "Type": "Public",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "40.8198231,-73.7351316"
-    },
-    {
-      "Website": "https://www.uchicago.edu/",
-      "School": "University of Chicago",
-      "City and State": "Chicago, Illinois",
-      "Type": "Private",
-      "Conference": "Midwest Conference",
-      "loc": "41.8781136,-87.6297982"
-    },
-    {
-      "Website": "https://www.dbq.edu//",
-      "School": "University of Dubuque",
-      "City and State": "Dubuque, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers",
-      "loc": "42.506348,-90.6677347"
-    },
-    {
-      "Website": "https://laverne.edu/",
-      "School": "University of La Verne",
-      "City and State": "La Verne, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "34.1008426,-117.7678355"
-    },
-    {
-      "Website": "https://www.umhb.edu/",
-      "School": "University of Mary Hardin-Baylor",
-      "City and State": "Belton, Texas",
-      "Type": "Private",
-      "Conference": "American Southwest Conference",
-      "loc": "31.0560132,-97.46445299999999"
-    },
-    {
-      "Website": "https://www.umassd.edu/",
-      "School": "University of Massachusetts – Dartmouth",
-      "City and State": "North Dartmouth, Massachusetts",
-      "Type": "Public",
-      "Conference": "Little East Conference",
-      "loc": "41.640396,-70.9694555"
-    },
-    {
-      "Website": "https://morris.umn.edu/",
-      "School": "University of Minnesota – Morris",
-      "City and State": "Morris, Minnesota",
-      "Type": "Public",
-      "Conference": "Upper Midwest Athletic Conference",
-      "loc": "45.5919444,-95.9188889"
-    },
-    {
-      "Website": "https://www.mountunion.edu/",
-      "School": "University of Mount Union",
-      "City and State": "Alliance, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "40.9153362,-81.10593089999999"
-    },
-    {
-      "Website": "https://www.une.edu/",
-      "School": "University of New England",
-      "City and State": "Biddeford, Maine",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Conference",
-      "loc": "43.4925843,-70.45338439999999"
-    },
-    {
-      "Website": "https://unwsp.edu/",
-      "School": "University of Northwestern – St. Paul",
-      "City and State": "Saint Paul, Minnesota",
-      "Type": "Private",
-      "Conference": "Upper Midwest Athletic Conference",
-      "loc": "44.9537029,-93.0899578"
-    },
-    {
-      "Website": "https://www.pugetsound.edu/",
-      "School": "University of Puget Sound",
-      "City and State": "Tacoma, Washington",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "47.2528768,-122.4442906"
-    },
-    {
-      "Website": "https://www.redlands.edu/",
-      "School": "University of Redlands",
-      "City and State": "Redlands, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "34.0563884,-117.2058765"
-    },
-    {
-      "Website": "https://www.rochester.edu/",
-      "School": "University of Rochester",
-      "City and State": "Rochester, New York",
-      "Type": "Private",
-      "Conference": "Liberty League",
-      "loc": "43.15657789999999,-77.6088465"
-    },
-    {
-      "Website": "https://www.uwec.edu/",
-      "School": "University of Wisconsin – Eau Claire",
-      "City and State": "Eau Claire, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "44.811349,-91.4984941"
-    },
-    {
-      "Website": "https://www.uwlax.edu/",
-      "School": "University of Wisconsin – La Crosse",
-      "City and State": "La Crosse, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "43.8137751,-91.25190169999999"
-    },
-    {
-      "Website": "https://uwosh.edu/",
-      "School": "University of Wisconsin – Oshkosh",
-      "City and State": "Oshkosh, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "44.0247062,-88.5426136"
-    },
-    {
-      "Website": "https://www.uwplatt.edu/",
-      "School": "University of Wisconsin – Platteville",
-      "City and State": "Platteville, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "42.73416,-90.4784621"
-    },
-    {
-      "Website": "https://www.uwrf.edu/",
-      "School": "University of Wisconsin – River Falls",
-      "City and State": "River Falls, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "44.8613563,-92.6238082"
-    },
-    {
-      "Website": "https://www.uwsp.edu/",
-      "School": "University of Wisconsin – Stevens Point",
-      "City and State": "Stevens Point, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "44.52357920000001,-89.574563"
-    },
-    {
-      "Website": "https://www.uwstout.edu/",
-      "School": "University of Wisconsin – Stout",
-      "City and State": "Menomonie, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "44.8755183,-91.9193422"
-    },
-    {
-      "Website": "https://www.uww.edu/",
-      "School": "University of Wisconsin – Whitewater",
-      "City and State": "Whitewater, Wisconsin",
-      "Type": "Public",
-      "Conference": "Wisconsin Intercollegiate Athletic Conference",
-      "loc": "42.83362049999999,-88.7323272"
-    },
-    {
-      "Website": "https://www.ursinus.edu/",
-      "School": "Ursinus College",
-      "City and State": "Collegeville, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Centennial Conference",
-      "loc": "40.1856597,-75.451571"
-    },
-    {
-      "Website": "https://www.utica.edu/",
-      "School": "Utica University",
-      "City and State": "Utica, New York",
-      "Type": "Private",
-      "Conference": "Empire 8 Athletic Conference",
-      "loc": "43.100903,-75.232664"
-    },
-    {
-      "Website": "https://www.wabash.edu/",
-      "School": "Wabash College",
-      "City and State": "Crawfordsville, Indiana",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "40.0411536,-86.87445160000001"
-    },
-    {
-      "Website": "https://www.wartburg.edu/",
-      "School": "Wartburg College",
-      "City and State": "Waverly, Iowa",
-      "Type": "Private",
-      "Conference": "American Rivers",
-      "loc": "42.7272032,-92.4668511"
-    },
-    {
-      "Website": "https://www.washjeff.edu/",
-      "School": "Washington & Jefferson College",
-      "City and State": "Washington, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "40.17396,-80.2461714"
-    },
-    {
-      "Website": "https://www.wlu.edu/",
-      "School": "Washington & Lee University",
-      "City and State": "Lexington, Virginia",
-      "Type": "Private",
-      "Conference": "Old Dominion Athletic Conference",
-      "loc": "37.78402080000001,-79.4428157"
-    },
-    {
-      "Website": "https://wustl.edu/",
-      "School": "Washington University in St. Louis",
-      "City and State": "Saint Louis, Missouri",
-      "Type": "Private",
-      "Conference": "University Athletic Association",
-      "loc": "38.6270025,-90.19940419999999"
-    },
-    {
-      "Website": "https://www.waynesburg.edu/",
-      "School": "Waynesburg University",
-      "City and State": "Waynesburg, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "39.8964641,-80.1792299"
-    },
-    {
-      "Website": "https://www.wesleyan.edu/",
-      "School": "Wesleyan University",
-      "City and State": "Middletown, Connecticut",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "41.5623209,-72.6506488"
-    },
-    {
-      "Website": "https://www.wcsu.edu/",
-      "School": "Western Connecticut State University",
-      "City and State": "Danbury, Connecticut",
-      "Type": "Public",
-      "Conference": "Little East Conference",
-      "loc": "41.394817,-73.4540111"
-    },
-    {
-      "Website": "https://www1.wne.edu/",
-      "School": "Western New England University",
-      "City and State": "Springfield, Massachusetts",
-      "Type": "Private",
-      "Conference": "Commonwealth Coast Football",
-      "loc": "42.1014831,-72.589811"
-    },
-    {
-      "Website": "https://www.westfield.ma.edu/",
-      "School": "Westfield State University",
-      "City and State": "Westfield, Massachusetts",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic",
-      "loc": "42.1250929,-72.749538"
-    },
-    {
-      "Website": "https://www.westminster.edu/",
-      "School": "Westminster College – Missouri",
-      "City and State": "Fulton, Missouri",
-      "Type": "Private",
-      "Conference": "St. Louis Intercollegiate Athletic Conference",
-      "loc": "38.84670819999999,-91.94795859999999"
-    },
-    {
-      "Website": "https://www.westminster.edu/",
-      "School": "Westminster College – Pennsylvania",
-      "City and State": "New Wilmington, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Presidents' Athletic Conference",
-      "loc": "41.1222812,-80.33284280000001"
-    },
-    {
-      "Website": "https://www.wheaton.edu/",
-      "School": "Wheaton College – Illinois",
-      "City and State": "Wheaton, Illinois",
-      "Type": "Private",
-      "Conference": "College Conference of Illinois and Wisconsin",
-      "loc": "41.8661403,-88.1070127"
-    },
-    {
-      "Website": "",
-      "School": "Whittier College",
-      "City and State": "Whittier, California",
-      "Type": "Private",
-      "Conference": "Southern California Intercollegiate Athletic Conference",
-      "loc": "33.9791793,-118.032844"
-    },
-    {
-      "Website": "https://www.whitworth.edu/cms/",
-      "School": "Whitworth University",
-      "City and State": "Spokane, Washington",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "47.6587802,-117.4260466"
-    },
-    {
-      "Website": "https://www.widener.edu/",
-      "School": "Widener University",
-      "City and State": "Chester, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "39.849557,-75.3557457"
-    },
-    {
-      "Website": "https://www.wilkes.edu/",
-      "School": "Wilkes University",
-      "City and State": "Wilkes-Barre, Pennsylvania",
-      "Type": "Private",
-      "Conference": "Middle Atlantic Conferences",
-      "loc": "41.2459149,-75.88130749999999"
-    },
-    {
-      "Website": "https://willamette.edu/",
-      "School": "Willamette University",
-      "City and State": "Salem, Oregon",
-      "Type": "Private",
-      "Conference": "Northwest Conference",
-      "loc": "44.9428975,-123.0350963"
-    },
-    {
-      "Website": "https://www.wpunj.edu/",
-      "School": "William Paterson University of New Jersey",
-      "City and State": "Wayne, New Jersey",
-      "Type": "Public",
-      "Conference": "New Jersey Athletic Conference",
-      "loc": "40.92537249999999,-74.2765441"
-    },
-    {
-      "Website": "https://www.williams.edu/",
-      "School": "Williams College",
-      "City and State": "Williamstown, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Small College Athletic Conference",
-      "loc": "42.7120196,-73.20368979999999"
-    },
-    {
-      "Website": "https://www.wittenberg.edu/",
-      "School": "Wilmington College",
-      "City and State": "Wilmington, Ohio",
-      "Type": "Private",
-      "Conference": "Ohio Athletic Conference",
-      "loc": "39.4453393,-83.8285375"
-    },
-    {
-      "Website": "https://www.wittenberg.edu/",
-      "School": "Wittenberg University",
-      "City and State": "Springfield, Ohio",
-      "Type": "Private",
-      "Conference": "North Coast Athletic Conference",
-      "loc": "39.9242266,-83.8088171"
-    },
-    {
-      "Website": "https://www.wpi.edu/",
-      "School": "Worcester Polytechnic Institute",
-      "City and State": "Worcester, Massachusetts",
-      "Type": "Private",
-      "Conference": "New England Women's & Men's Athletic Conference",
-      "loc": "42.2625932,-71.8022934"
-    },
-    {
-      "Website": "https://www.worcester.edu/",
-      "School": "Worcester State University",
-      "City and State": "Worcester, Massachusetts",
-      "Type": "Public",
-      "Conference": "Massachusetts State Collegiate Athletic",
-      "loc": "42.2625932,-71.8022934"
-    }
-  ]
+ {
+  "Type": "Private",
+  "City and State": "Adrian, Michigan",
+  "loc": "41.8975471,-84.03716589999999",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.adrian.edu\/",
+  "School": "Adrian College",
+  "Football Info": "https:\/\/adrianbulldogs.com\/sports\/2021\/6\/28\/football-summer-camps.aspx",
+  "Coach info": "https:\/\/adrianbulldogs.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Albion, Michigan",
+  "loc": "42.243097,-84.7530304",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.albion.edu\/",
+  "School": "Albion College",
+  "Football Info": "https:\/\/www.albion.edu\/event\/2022-elite-football-camp\/",
+  "Coach info": "https:\/\/gobrits.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Reading, Pennsylvania",
+  "loc": "40.3356483,-75.9268747",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.albright.edu\/home\/",
+  "School": "Albright College",
+  "Football Info": "https:\/\/info.abcsportscamps.com\/albright-football-2",
+  "Coach info": "https:\/\/albrightathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Alfred, New York",
+  "loc": "42.2542366,-77.7905509",
+  "Conference": "Empire 8 Athletic Conference",
+  "Website": "https:\/\/www.alfred.edu\/",
+  "School": "Alfred University",
+  "Football Info": "https:\/\/www.alfred.edu\/about\/community\/summer-camps\/football-prospect.cfm",
+  "Coach info": "https:\/\/gosaxons.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Meadville, Pennsylvania",
+  "loc": "41.6414438,-80.15144839999999",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/allegheny.edu\/",
+  "School": "Allegheny College",
+  "Football Info": "https:\/\/gmtm.com\/virtuals\/417\/2022-allegheny-football-camps",
+  "Coach info": "https:\/\/alleghenygators.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Alma, Michigan",
+  "loc": "43.3789694,-84.66023539999999",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.alma.edu\/",
+  "School": "Alma College",
+  "Football Info": "https:\/\/almascots.com\/camps\/index",
+  "Coach info": "https:\/\/almascots.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Reading, Pennsylvania",
+  "loc": "40.3356483,-75.9268747",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.alvernia.edu\/",
+  "School": "Alvernia University",
+  "Football Info": "https:\/\/auwolves.com\/sports\/2005\/8\/17\/campinfo.aspx",
+  "Coach info": "https:\/\/auwolves.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Amherst, Massachusetts",
+  "loc": "42.3732216,-72.5198537",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.amherst.edu\/",
+  "School": "Amherst College",
+  "Football Info": "https:\/\/athletics.amherst.edu\/sports\/2020\/6\/15\/information-camps-clinics-copy.aspx",
+  "Coach info": "https:\/\/athletics.amherst.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Anderson, Indiana",
+  "loc": "40.1053196,-85.6802541",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/anderson.edu\/",
+  "School": "Anderson University – Indiana",
+  "Football Info": "https:\/\/athletics.anderson.edu\/sports\/wbkb\/camps",
+  "Coach info": "https:\/\/athletics.anderson.edu\/information\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Paxton, Massachusetts",
+  "loc": "42.3114889,-71.9278427",
+  "Conference": "Eastern Collegiate Football Conference",
+  "Website": "https:\/\/annamaria.edu\/",
+  "School": "Anna Maria College",
+  "Football Info": "https:\/\/www.goamcats.com\/camps\/Camps_and_Clinics",
+  "Coach info": "https:\/\/www.goamcats.com\/inside_athletics\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Minneapolis, Minnesota",
+  "loc": "44.977753,-93.2650108",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.augsburg.edu\/",
+  "School": "Augsburg University",
+  "Football Info": "https:\/\/www.augsburgfootballcamps.com\/",
+  "Coach info": "https:\/\/athletics.augsburg.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Rock Island, Illinois",
+  "loc": "41.5094771,-90.5787476",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.augustana.edu\/",
+  "School": "Augustana College – Illinois",
+  "Football Info": "https:\/\/augustanafootballcamp.com\/",
+  "Coach info": "https:\/\/athletics.augustana.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Aurora, Illinois",
+  "loc": "41.7605849,-88.32007150000001",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/aurora.edu\/",
+  "School": "Aurora University",
+  "Football Info": "https:\/\/athletics.aurora.edu\/sports\/2010\/5\/26\/BB_0526105308.aspx",
+  "Coach info": "https:\/\/athletics.aurora.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Sherman, Texas",
+  "loc": "33.6356618,-96.6088805",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.austincollege.edu\/",
+  "School": "Austin College",
+  "Football Info": "https:\/\/austin.prestosports.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/austin.prestosports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Danville, Virginia",
+  "loc": "36.5859718,-79.39502279999999",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.averett.edu\/",
+  "School": "Averett University",
+  "Football Info": "https:\/\/averettcougars.com\/sports\/2009\/2\/5\/BB_0205092200.aspx",
+  "Coach info": "https:\/\/averettcougars.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Berea, Ohio",
+  "loc": "41.3661614,-81.8543026",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.bw.edu\/",
+  "School": "Baldwin Wallace University",
+  "Football Info": "https:\/\/www.bwfootballcamps.com\/",
+  "Coach info": "https:\/\/www.bwyellowjackets.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lewiston, Maine",
+  "loc": "44.100351,-70.21477639999999",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.bates.edu\/",
+  "School": "Bates College",
+  "Football Info": "https:\/\/gobatesbobcats.com\/sports\/2020\/6\/5\/summer-camps.aspx",
+  "Coach info": "https:\/\/gobatesbobcats.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Jackson, Mississippi",
+  "loc": "32.2987573,-90.1848103",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.belhaven.edu\/",
+  "School": "Belhaven University",
+  "Football Info": "https:\/\/blazers.belhaven.edu\/sports\/2019\/6\/4\/football-camps.aspx",
+  "Coach info": "https:\/\/blazers.belhaven.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Beloit, Wisconsin",
+  "loc": "42.5083482,-89.03177649999999",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.beloit.edu\/",
+  "School": "Beloit College",
+  "Football Info": "https:\/\/beloitcollegeathletics.com\/sports\/2018\/12\/17\/camps-clinics.aspx",
+  "Coach info": "https:\/\/beloitcollegeathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lisle, Illinois",
+  "loc": "41.801141,-88.0747875",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/ben.edu\/",
+  "School": "Benedictine University",
+  "Football Info": "https:\/\/www.ravenathletics.com\/FootballCamps",
+  "Coach info": "https:\/\/benueagles.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Mount Berry, Georgia",
+  "loc": "34.2853865,-85.18810909999999",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/berry.edu\/",
+  "School": "Berry College",
+  "Football Info": "https:\/\/www.berryfootballcamps.com\/",
+  "Coach info": "https:\/\/www.berryvikings.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bethany, West Virginia",
+  "loc": "40.205627,-80.55673840000001",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.bethanywv.edu\/",
+  "School": "Bethany College – West Virginia",
+  "Football Info": "https:\/\/www.bethanybison.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/www.bethanybison.com\/information\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Paul, Minnesota",
+  "loc": "44.9537029,-93.0899578",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.bethel.edu\/",
+  "School": "Bethel University – Minnesota",
+  "Football Info": "https:\/\/www.bethel.edu\/events\/2023\/athletics\/football-prospect-camp",
+  "Coach info": "https:\/\/athletics.bethel.edu\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Birmingham, Alabama",
+  "loc": "33.5185892,-86.8103567",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.bsc.edu\/",
+  "School": "Birmingham-Southern College",
+  "Football Info": "https:\/\/bscsports.net\/sports\/2020\/6\/4\/camps-index.aspx",
+  "Coach info": "https:\/\/bscsports.net\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bluffton, Ohio",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/www.bluffton.edu\/",
+  "School": "Bluffton University",
+  "Football Info": "https:\/\/www.blufftonuniversityfootballcamps.com\/",
+  "Coach info": "https:\/\/blufftonbeavers.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Brunswick, Maine",
+  "loc": "43.9140162,-69.9669961",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.bowdoin.edu\/",
+  "School": "Bowdoin College",
+  "Football Info": "https:\/\/www.polarbearfootballcamps.com\/one-day-camps.cfm",
+  "Coach info": "https:\/\/athletics.bowdoin.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Brevard, North Carolina",
+  "loc": "35.2334472,-82.7342919",
+  "Conference": "South Atlantic Conference",
+  "Website": "https:\/\/brevard.edu\/",
+  "School": "Brevard College",
+  "Football Info": "https:\/\/bctornados.com\/camps\/signin-form?target_url=%2Fcamps%2Fcamps-contact",
+  "Coach info": "https:\/\/bctornados.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bridgewater, Virginia",
+  "loc": "38.38207060000001,-78.97669599999999",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.bridgewater.edu\/about-us\/",
+  "School": "Bridgewater College",
+  "Football Info": "https:\/\/bridgewatereagles.com\/sports\/football",
+  "Coach info": "https:\/\/bridgewatereagles.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Bridgewater, Massachusetts",
+  "loc": "41.9903519,-70.9750541",
+  "Conference": "Massachusetts State Collegiate Athletic Conference",
+  "Website": "https:\/\/www.bridgew.edu\/",
+  "School": "Bridgewater State University",
+  "Football Info": "https:\/\/www.bsubears.com\/InsideAthletics\/Sports_Camps\/indexNEW",
+  "Coach info": "https:\/\/www.bsubears.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Storm Lake, Iowa",
+  "loc": "42.6430359,-95.2019399",
+  "Conference": "Iowa Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.bvu.edu\/",
+  "School": "Buena Vista University",
+  "Football Info": "https:\/\/www.bvufootballcamps.com\/",
+  "Coach info": "https:\/\/bvuathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "buffalo, New York",
+  "loc": "42.88644679999999,-78.8783689",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/suny.buffalostate.edu\/",
+  "School": "Buffalo State College",
+  "Football Info": "https:\/\/buffalostateathletics.com\/sports\/football",
+  "Coach info": "https:\/\/buffalostateathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Thousand Oaks, California",
+  "loc": "34.1705609,-118.8375937",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.callutheran.edu\/",
+  "School": "California Lutheran University",
+  "Football Info": "https:\/\/www.clusports.com\/Camps-_Clinincs_and_Masters_Swimming\/fball\/index",
+  "Coach info": "https:\/\/www.clusports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Columbus, Ohio",
+  "loc": "39.9611755,-82.99879419999999",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.capital.edu\/",
+  "School": "Capital University",
+  "Football Info": "https:\/\/camps.jumpforward.com\/capitalfootballcamps",
+  "Coach info": "https:\/\/athletics.capital.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Northfield, Minnesota",
+  "loc": "44.4582983,-93.161604",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.carleton.edu\/",
+  "School": "Carleton College",
+  "Football Info": "https:\/\/athletics.carleton.edu\/sports\/football",
+  "Coach info": "https:\/\/athletics.carleton.edu\/sports\/2019\/7\/23\/football-coaching-staff.aspx"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Pittsburgh, Pennsylvania",
+  "loc": "40.44062479999999,-79.9958864",
+  "Conference": "University Athletic Association",
+  "Website": "https:\/\/www.cmu.edu\/",
+  "School": "Carnegie Mellon University",
+  "Football Info": "https:\/\/athletics.cmu.edu\/sports\/fball\/index",
+  "Coach info": "https:\/\/athletics.cmu.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Waukesha, Wisconsin",
+  "loc": "43.0116784,-88.2314813",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.carrollu.edu\/",
+  "School": "Carroll University",
+  "Football Info": "https:\/\/football.piocamps.com\/",
+  "Coach info": "https:\/\/gopios.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Kenosha, Wisconsin",
+  "loc": "42.5847425,-87.82118539999999",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.carthage.edu\/",
+  "School": "Carthage College",
+  "Football Info": "https:\/\/www.carthagefootballcamp.com\/",
+  "Coach info": "https:\/\/athletics.carthage.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Cleveland, Ohio",
+  "loc": "41.49932,-81.6943605",
+  "Conference": "University Athletic Association",
+  "Website": "https:\/\/case.edu\/",
+  "School": "Case Western Reserve University",
+  "Football Info": "https:\/\/athletics.case.edu\/sports\/fball\/headlines-featured",
+  "Coach info": "https:\/\/athletics.case.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Castleton, Vermont",
+  "loc": "43.6106223,-73.17983199999999",
+  "Conference": "Eastern Collegiate Football Conference",
+  "Website": "https:\/\/vermontstate.edu\/",
+  "School": "Castleton University",
+  "Football Info": "https:\/\/castletonsports.com\/sports\/football",
+  "Coach info": "https:\/\/castletonsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Washington, District Of Columbia",
+  "loc": "38.9071923,-77.0368707",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/www.catholic.edu\/index.html",
+  "School": "Catholic University of America",
+  "Football Info": "https:\/\/www.catholicathletics.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/www.catholicathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Shreveport, Louisiana",
+  "loc": "32.5251516,-93.7501789",
+  "Conference": "Southern Collegiate Athletic Conference",
+  "Website": "https:\/\/www.centenary.edu\/",
+  "School": "Centenary College of Louisiana",
+  "Football Info": "https:\/\/gocentenary.com\/sports\/fball\/Camps_and_Clinics",
+  "Coach info": "https:\/\/gocentenary.com\/information\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Pella, Iowa",
+  "loc": "41.4080327,-92.91640500000001",
+  "Conference": "American Rivers Conference",
+  "Website": "https:\/\/central.edu\/",
+  "School": "Central College",
+  "Football Info": "https:\/\/athletics.central.edu\/sports\/2016\/9\/28\/camps.aspx",
+  "Coach info": "https:\/\/athletics.central.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Danville, Kentucky",
+  "loc": "37.6456329,-84.77217019999999",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.centre.edu\/",
+  "School": "Centre College",
+  "Football Info": "https:\/\/centrecolonels.com\/sports\/2018\/7\/24\/information-camps-index",
+  "Coach info": "https:\/\/centrecolonels.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Orange, California",
+  "loc": "33.7879139,-117.8531007",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.chapman.edu\/",
+  "School": "Chapman University",
+  "Football Info": "https:\/\/www.panthergridironfootballcamp.com\/",
+  "Coach info": "https:\/\/www.chapmanathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Newport News, Virginia",
+  "loc": "37.0870821,-76.4730122",
+  "Conference": "Capital Athletic Conference",
+  "Website": "https:\/\/cnu.edu\/",
+  "School": "Christopher Newport University",
+  "Football Info": "https:\/\/www.google.com\/search?q=Christopher+Newport+University+++++++++++++++++++football+recruit+camp&rlz=1C1GCEA_enUS915US915&sxsrf=APwXEddGFVsi84ukdeL9GYVL7SMh-SKg1A%3A1680917990597&ei=5sUwZIOEJIS3ptQPnOmdiAs&ved=0ahUKEwiDj-e9k5n-AhWEm4kEHZx0B7EQ4dUDCBA&uact=5&oq=Christopher+Newport+University+++++++++++++++++++football+recruit+camp&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgzAFoAHABeACAAUWIAUWSAQExmAEAoAECoAEBwAEB&sclient=gws-wiz-serp",
+  "Coach info": "https:\/\/www.cnusports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Claremont, California",
+  "loc": "34.0966764,-117.7197785",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.cmc.edu\/",
+  "School": "Claremont-Mudd-Scripps Colleges",
+  "Football Info": "https:\/\/www.cmsathletics.org\/sports\/fball\/camps\/index",
+  "Coach info": "https:\/\/www.cmsathletics.org\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Cedar Rapids, Iowa",
+  "loc": "41.9778795,-91.6656232",
+  "Conference": "American Rivers Conference",
+  "Website": "https:\/\/www.coe.edu\/",
+  "School": "Coe College",
+  "Football Info": "https:\/\/football.coecamps.com\/",
+  "Coach info": "https:\/\/kohawkathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Waterville, Maine",
+  "loc": "44.5520105,-69.6317121",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/afa.colby.edu\/",
+  "School": "Colby College",
+  "Football Info": "https:\/\/www.colbyfootballcamps.com\/",
+  "Coach info": "https:\/\/colbyathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bronx, New York",
+  "loc": "40.8447819,-73.8648268",
+  "Conference": "Skyline Conference",
+  "Website": "https:\/\/mountsaintvincent.edu\/",
+  "School": "College of Mount Saint Vincent",
+  "Football Info": "https:\/\/athletics.stvincent.edu\/news\/2022\/4\/20\/football-bearcat-football-summer-camps-announced.aspx",
+  "Coach info": "https:\/\/athletics.stvincent.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Wooster, Ohio",
+  "loc": "40.8050565,-81.935143",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/mountsaintvincent.edu\/",
+  "School": "College of Wooster",
+  "Football Info": "https:\/\/www.woosterathletics.com\/camps\/wsoc\/index",
+  "Coach info": "https:\/\/www.woosterathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Moorhead, Minnesota",
+  "loc": "46.8737648,-96.76780389999999",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/wooster.edu\/",
+  "School": "Concordia College – Minnesota",
+  "Football Info": "https:\/\/cspbears.com\/sports\/2012\/6\/28\/FB_0628125104.aspx",
+  "Coach info": "https:\/\/gocobbers.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "River Forest, Illinois",
+  "loc": "41.8939617,-87.81984779999999",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/www.concordiacollege.edu\/",
+  "School": "Concordia University – Chicago",
+  "Football Info": "https:\/\/www.cucougars.com\/sports\/2011\/3\/3\/GEN_0303115625.aspx",
+  "Coach info": "https:\/\/www.cucougars.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Mequon, Wisconsin",
+  "loc": "43.2159232,-88.0314174",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/www.cuw.edu\/",
+  "School": "Concordia University Wisconsin",
+  "Football Info": "https:\/\/www.cuwfalcons.com\/sports\/fball\/fbrecruitquestionnaire",
+  "Coach info": "https:\/\/www.cuwfalcons.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Mount Vernon, Iowa",
+  "loc": "41.9219522,-91.4168371",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.cornellcollege.edu\/",
+  "School": "Cornell College",
+  "Football Info": "https:\/\/www.archercoachingcamp.com\/the-camp-at-cornell-university.html",
+  "Coach info": "https:\/\/www.cuwfalcons.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Bonifacius, Minnesota",
+  "loc": "44.90551809999999,-93.74746359999999",
+  "Conference": "Upper Midwest Athletic Conference",
+  "Website": "https:\/\/www.crown.edu\/",
+  "School": "Crown College",
+  "Football Info": "https:\/\/athletics.crown.edu\/sports\/2012\/3\/6\/Camps%20Registration.aspx",
+  "Coach info": "https:\/\/athletics.crown.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Milton, Massachusetts",
+  "loc": "42.2495321,-71.0661653",
+  "Conference": "Commonwealth Coast Conference",
+  "Website": "https:\/\/www.curry.edu\/",
+  "School": "Curry College",
+  "Football Info": "https:\/\/www.curryathletics.com\/sports\/fball\/recruit_me",
+  "Coach info": "https:\/\/www.curryathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Franklin, Massachusetts",
+  "loc": "42.0834313,-71.396725",
+  "Conference": "Great Northeast Athletic Conference",
+  "Website": "https:\/\/www.dean.edu\/",
+  "School": "Dean College",
+  "Football Info": "https:\/\/deanbulldogs.com\/sports\/football",
+  "Coach info": "https:\/\/deanbulldogs.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Defiance, Ohio",
+  "loc": "41.2844933,-84.3557802",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "http:\/\/www.defiance.edu\/",
+  "School": "Defiance College",
+  "Football Info": "https:\/\/www.defianceathletics.com\/camps\/index",
+  "Coach info": "https:\/\/www.defianceathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Doylestown, Pennsylvania",
+  "loc": "40.3101063,-75.1298939",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/delval.edu\/",
+  "School": "Delaware Valley University",
+  "Football Info": "https:\/\/athletics.delval.edu\/news\/2022\/4\/29\/general-delval-athletics-and-future-stars-announce-summer-camp-dates.aspx",
+  "Coach info": "https:\/\/athletics.delval.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Granville, Ohio",
+  "loc": "40.06811920000001,-82.51960369999999",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/denison.edu\/",
+  "School": "Denison University",
+  "Football Info": "https:\/\/www.denisonfootballcamps.com\/",
+  "Coach info": "https:\/\/denisonbigred.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Greencastle, Indiana",
+  "loc": "39.6444898,-86.8647316",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.depauw.edu\/",
+  "School": "DePauw University",
+  "Football Info": "https:\/\/www.tigerfootballcamps.com\/",
+  "Coach info": "https:\/\/depauwtigers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Carlisle, Pennsylvania",
+  "loc": "40.2010241,-77.20027449999999",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.dickinson.edu\/",
+  "School": "Dickinson College",
+  "Football Info": "https:\/\/dickinsonathletics.com\/sports\/2022\/7\/25\/camps-and-clinics.aspx",
+  "Coach info": "https:\/\/dickinsonathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Marshall, Texas",
+  "loc": "32.5448714,-94.36741839999999",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.etbu.edu\/",
+  "School": "East Texas Baptist University",
+  "Football Info": "https:\/\/football.etbusportscamps.com\/",
+  "Coach info": "https:\/\/goetbutigers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Davids, Pennsylvania",
+  "loc": "40.0409428,-75.37852339999999",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.eastern.edu\/",
+  "School": "Eastern University",
+  "Football Info": "https:\/\/goeasterneagles.com\/news\/2023\/2\/15\/football-to-run-developmental-camp.aspx",
+  "Coach info": "https:\/\/goeasterneagles.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Elmhurst, Illinois",
+  "loc": "41.8994744,-87.9403418",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.elmhurst.edu\/",
+  "School": "Elmhurst University",
+  "Football Info": "https:\/\/info.abcsportscamps.com\/elmhurstfootball",
+  "Coach info": "https:\/\/elmhurstbluejays.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Emory, Virginia",
+  "loc": "36.77381099999999,-81.834939",
+  "Conference": "South Atlantic Conference",
+  "Website": "https:\/\/www.ehc.edu\/",
+  "School": "Emory & Henry College",
+  "Football Info": "https:\/\/www.gowasps.com\/old-camps\/index",
+  "Coach info": "https:\/\/www.gowasps.com\/information\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Beverly, Massachusetts",
+  "loc": "42.5584283,-70.880049",
+  "Conference": "Commonwealth Coast Football",
+  "Website": "https:\/\/www.endicott.edu\/",
+  "School": "Endicott College",
+  "Football Info": "https:\/\/www.ecgulls.com\/sports\/fball\/camps",
+  "Coach info": "https:\/\/www.ecgulls.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Eureka, Illinois",
+  "loc": "40.7214251,-89.2728627",
+  "Conference": "Upper Midwest Athletic Conference",
+  "Website": "https:\/\/www.eureka.edu\/",
+  "School": "Eureka College",
+  "Football Info": "https:\/\/www.eurekareddevils.com\/general\/Eureka_College_Camps",
+  "Coach info": "https:\/\/www.eurekareddevils.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Madison, New Jersey",
+  "loc": "40.7598227,-74.417097",
+  "Conference": "Northeast Conference",
+  "Website": "https:\/\/www.fdu.edu\/",
+  "School": "Fairleigh Dickinson University – College at Florham",
+  "Football Info": "https:\/\/fdudevils.com\/documents\/2023\/3\/9\/2023_Camp_Brochure.pdf",
+  "Coach info": "https:\/\/fdudevils.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Ferrum, Virginia",
+  "loc": "36.9229159,-80.01337120000001",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.ferrum.edu\/",
+  "School": "Ferrum College",
+  "Football Info": "https:\/\/ferrumpanthers.com\/sports\/football",
+  "Coach info": "https:\/\/ferrumpanthers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hancock, Michigan",
+  "loc": "47.1268714,-88.5809563",
+  "Conference": "Wisconsin Intercollegiate Athletic",
+  "Website": "https:\/\/www.finlandia.edu\/",
+  "School": "Finlandia University",
+  "Football Info": "https:\/\/fulions.com\/sports\/2022\/5\/16\/sports-camps",
+  "Coach info": "https:\/\/fulions.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Fitchburg, Massachusetts",
+  "loc": "42.5834228,-71.8022955",
+  "Conference": "Massachusetts State Collegiate Athletic Conference",
+  "Website": "https:\/\/www.fitchburgstate.edu\/",
+  "School": "Fitchburg State University",
+  "Football Info": "https:\/\/www.fitchburgfalcons.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/www.fitchburgfalcons.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "St. Louis, Missouri",
+  "loc": "38.6270025,-90.19940419999999",
+  "Conference": "St. Louis Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.fontbonne.edu\/",
+  "School": "Fontbonne University",
+  "Football Info": "https:\/\/www.fontbonnegriffins.com\/athletics\/summercamps",
+  "Coach info": "https:\/\/www.fontbonnegriffins.com\/athletics\/directory\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Framingham, Massachusetts",
+  "loc": "42.279286,-71.4161565",
+  "Conference": "Massachusetts State Collegiate Athletic Conference",
+  "Website": "https:\/\/www.framingham.edu\/",
+  "School": "Framingham State University",
+  "Football Info": "https:\/\/www.fsurams.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/www.fsurams.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lancaster, Pennsylvania",
+  "loc": "40.0378755,-76.3055144",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.fandm.edu\/",
+  "School": "Franklin & Marshall College",
+  "Football Info": "https:\/\/www.godiplomats.com\/sports\/m-footbl\/index",
+  "Coach info": "https:\/\/www.godiplomats.com\/sports\/m-footbl\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Franklin, Indiana",
+  "loc": "39.4806055,-86.0549863",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/franklincollege.edu\/",
+  "School": "Franklin College",
+  "Football Info": "https:\/\/www.grizfootballcamps.com\/",
+  "Coach info": "https:\/\/franklingrizzlies.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Washington, District Of Columbia",
+  "loc": "38.9071923,-77.0368707",
+  "Conference": "United East",
+  "Website": "https:\/\/gallaudet.edu\/",
+  "School": "Gallaudet University",
+  "Football Info": "https:\/\/gallaudetbison.com\/sports\/football",
+  "Coach info": "https:\/\/gallaudet.prestosports.com\/meetus\/staffdirectory\/gustaff"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Beaver Falls, Pennsylvania",
+  "loc": "40.7520097,-80.31922949999999",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.geneva.edu\/",
+  "School": "Geneva College",
+  "Football Info": "https:\/\/athletics.geneva.edu\/news\/2021\/5\/5\/geneva-athletic-camps-open-for-summer-2021.aspx",
+  "Coach info": "https:\/\/athletics.geneva.edu\/staff-directory\/geno-demarco\/12"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Newberg, Oregon",
+  "loc": "45.3003268,-122.9761318",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.georgefox.edu\/",
+  "School": "George Fox University",
+  "Football Info": "https:\/\/football.bruincamps.com\/",
+  "Coach info": "https:\/\/athletics.georgefox.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Gettysburg, Pennsylvania",
+  "loc": "39.8309293,-77.2310955",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.gettysburg.edu\/",
+  "School": "Gettysburg College",
+  "Football Info": "https:\/\/gettysburgsports.com\/sports\/2018\/7\/16\/gettysburg-college-football-prospect-camps.aspx",
+  "Coach info": "https:\/\/gettysburgsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Greensboro, North Carolina",
+  "loc": "36.0726354,-79.7919754",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/www.greensboro.edu\/",
+  "School": "Greensboro College",
+  "Football Info": "https:\/\/greensborocollegesports.com\/sb_output.aspx?form=19",
+  "Coach info": "https:\/\/greensborocollegesports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Greenville, Illinois",
+  "loc": "38.8922687,-89.41313559999999",
+  "Conference": "St. Louis Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.greenville.edu\/",
+  "School": "Greenville University",
+  "Football Info": "https:\/\/greenville.prestosports.com\/camps",
+  "Coach info": "https:\/\/athletics.greenville.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Grinnell, Iowa",
+  "loc": "41.74340919999999,-92.7232456",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.grinnell.edu\/",
+  "School": "Grinnell College",
+  "Football Info": "https:\/\/pioneers.grinnell.edu\/documents\/2013\/4\/19\/Individual_Camp_Flyer.pdf",
+  "Coach info": "https:\/\/pioneers.grinnell.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Grove City, Pennsylvania",
+  "loc": "41.15783769999999,-80.08867029999999",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.gcc.edu\/",
+  "School": "Grove City College",
+  "Football Info": "https:\/\/athletics.gcc.edu\/sports\/football",
+  "Coach info": "https:\/\/athletics.gcc.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Greensboro, North Carolina",
+  "loc": "36.0726354,-79.7919754",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.guilford.edu\/",
+  "School": "Guilford College",
+  "Football Info": "https:\/\/guilford.prestosports.com\/sports\/fball\/FBCampsIndex",
+  "Coach info": "https:\/\/guilfordquakers.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Peter, Minnesota",
+  "loc": "44.3258932,-93.955691",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/gustavus.edu\/",
+  "School": "Gustavus Adolphus College",
+  "Football Info": "https:\/\/gustavus.edu\/camps\/",
+  "Coach info": "https:\/\/gustavus.edu\/athletics\/fb\/coaches\/"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Clinton, New York",
+  "loc": "43.0484029,-75.3785034",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.hamilton.edu\/",
+  "School": "Hamilton College",
+  "Football Info": "https:\/\/athletics.hamilton.edu\/sports\/2020\/10\/14\/information-camps-and-clinics.aspx",
+  "Coach info": "https:\/\/athletics.hamilton.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Paul, Minnesota",
+  "loc": "44.9537029,-93.0899578",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.hamline.edu\/",
+  "School": "Hamline University",
+  "Football Info": "https:\/\/hamlineathletics.com\/sports\/football",
+  "Coach info": "https:\/\/hamlineathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hampden Sydney, Virginia",
+  "loc": "37.2423746,-78.4597173",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.hsc.edu\/",
+  "School": "Hampden-Sydney College",
+  "Football Info": "https:\/\/hscathletics.com\/sports\/camps",
+  "Coach info": "https:\/\/hscathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hanover, Indiana",
+  "loc": "38.7142263,-85.4735707",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/www.hanover.edu\/",
+  "School": "Hanover College",
+  "Football Info": "https:\/\/www.hanoverfootballcamps.com\/",
+  "Coach info": "https:\/\/athletics.hanover.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Abilene, Texas",
+  "loc": "32.4487364,-99.73314390000002",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.hsutx.edu\/",
+  "School": "Hardin-Simmons University",
+  "Football Info": "https:\/\/www.hsufootballcamps.com\/",
+  "Coach info": "https:\/\/www.hsuathletics.com\/sports\/m-footbl\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Oneonta, New York",
+  "loc": "42.4528571,-75.0637746",
+  "Conference": "Empire 8 Athletic Conference",
+  "Website": "https:\/\/www.hartwick.edu\/",
+  "School": "Hartwick College",
+  "Football Info": "https:\/\/www.hartwickhawks.com\/sports\/football",
+  "Coach info": "https:\/\/www.hartwickhawks.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Tiffin, Ohio",
+  "loc": "41.1144992,-83.1779746",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.heidelberg.edu\/",
+  "School": "Heidelberg University",
+  "Football Info": "https:\/\/www.bergathletics.com\/news\/2021\/5\/3\/camps-clinics-camps.aspx",
+  "Coach info": "https:\/\/www.bergathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Conway, Arkansas",
+  "loc": "35.0917506,-92.4366522",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.hendrix.edu\/",
+  "School": "Hendrix College",
+  "Football Info": "https:\/\/hendrixwarriors.com\/sports\/2012\/6\/27\/Camps.aspx",
+  "Coach info": "https:\/\/hendrixwarriors.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hamburg, New York",
+  "loc": "42.7158927,-78.8294768",
+  "Conference": "Allegheny Mountain Collegiate Conference",
+  "Website": "https:\/\/www.hilbert.edu\/",
+  "School": "Hilbert College",
+  "Football Info": "https:\/\/discover.hilbert.edu\/summer-camps\/#lp-pom-block-678",
+  "Coach info": "https:\/\/hilberthawks.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hiram, Ohio",
+  "loc": "41.3125552,-81.1437098",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.hiram.edu\/",
+  "School": "Hiram College",
+  "Football Info": "https:\/\/hiramterriers.com\/news\/2022\/4\/12\/hiram-football-to-hold-prospect-camp-on-july-24.aspx",
+  "Coach info": "https:\/\/hiramterriers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Geneva, New York",
+  "loc": "42.8679836,-76.985557",
+  "Conference": "Liberty League (Division III)",
+  "Website": "https:\/\/www.hws.edu\/",
+  "School": "Hobart & William Smith College",
+  "Football Info": "https:\/\/hwsathletics.com\/sports\/football",
+  "Coach info": "https:\/\/hwsathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Holland, Michigan",
+  "loc": "42.7875235,-86.1089301",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/hope.edu\/admissions\/",
+  "School": "Hope College",
+  "Football Info": "https:\/\/athletics.hope.edu\/news\/2022\/4\/13\/4_13_2022_94.aspx",
+  "Coach info": "https:\/\/athletics.hope.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Brownwood, Texas",
+  "loc": "31.7093197,-98.9911611",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.hputx.edu\/",
+  "School": "Howard Payne University",
+  "Football Info": "https:\/\/hpusports.com\/sports\/2008\/5\/5\/Gen_0505085511.aspx",
+  "Coach info": "https:\/\/hpusports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Montgomery, Alabama",
+  "loc": "32.3792233,-86.3077368",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/www.huntingdon.edu\/",
+  "School": "Huntingdon College",
+  "Football Info": "https:\/\/www.huntingdonhawks.com\/information\/Camps",
+  "Coach info": "https:\/\/www.huntingdonhawks.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bangor, Maine",
+  "loc": "44.8016128,-68.7712257",
+  "Conference": "North Atlantic",
+  "Website": "https:\/\/www.husson.edu\/",
+  "School": "Husson University",
+  "Football Info": "https:\/\/hussoneagles.com\/sports\/camps",
+  "Coach info": "https:\/\/husson.prestosports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Jacksonville, Illinois",
+  "loc": "39.733936,-90.2290098",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.ic.edu\/",
+  "School": "Illinois College",
+  "Football Info": "https:\/\/www.blueboyfootballcamps.com\/",
+  "Coach info": "https:\/\/illinoiscollegeathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bloomington, Illinois",
+  "loc": "40.4842027,-88.99368729999999",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.iwu.edu\/",
+  "School": "Illinois Wesleyan University",
+  "Football Info": "https:\/\/www.iwusports.com\/sports\/2020\/2\/13\/2020-testing.aspx",
+  "Coach info": "https:\/\/www.iwusports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Ithaca, New York",
+  "loc": "42.4439614,-76.5018807",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/www.ithaca.edu\/",
+  "School": "Ithaca College",
+  "Football Info": "https:\/\/athletics.ithaca.edu\/sb_output.aspx?form=66",
+  "Coach info": "https:\/\/athletics.ithaca.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "University Heights, Ohio",
+  "loc": "41.4978306,-81.53734560000001",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.jcu.edu\/",
+  "School": "John Carroll University",
+  "Football Info": "https:\/\/jcusports.com\/sports\/camps-clinics",
+  "Coach info": "https:\/\/jcusports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Baltimore, Maryland",
+  "loc": "39.2903848,-76.6121893",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.jhu.edu\/",
+  "School": "Johns Hopkins University",
+  "Football Info": "https:\/\/hopkinssports.com\/sports\/football",
+  "Coach info": "https:\/\/hopkinssports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Huntingdon, Pennsylvania",
+  "loc": "40.48479589999999,-78.0102813",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.juniata.edu\/",
+  "School": "Juniata College",
+  "Football Info": "https:\/\/www.juniata.edu\/offices\/conferences-events\/camps-conferences\/football-prospect-camp.php",
+  "Coach info": "https:\/\/www.juniatasports.net\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Kalamazoo, Michigan",
+  "loc": "42.2917069,-85.5872286",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.kzoo.edu\/",
+  "School": "Kalamazoo College",
+  "Football Info": "https:\/\/hornets.kzoo.edu\/camps\/football\/index",
+  "Coach info": "https:\/\/hornets.kzoo.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Union, New Jersey",
+  "loc": "40.6975898,-74.26316349999999",
+  "Conference": "New Jersey Athletic Conference",
+  "Website": "https:\/\/www.kean.edu\/",
+  "School": "Kean University",
+  "Football Info": "https:\/\/keanathletics.com\/sports\/2019\/6\/25\/camps-and-clinics.aspx",
+  "Coach info": "https:\/\/keanathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Gambier, Ohio",
+  "loc": "40.3759296,-82.397183",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.kenyon.edu\/",
+  "School": "Kenyon College",
+  "Football Info": "https:\/\/athletics.kenyon.edu\/sb_output.aspx?form=18",
+  "Coach info": "https:\/\/athletics.kenyon.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "La Plume, Pennsylvania",
+  "loc": "41.5567167,-75.7552706",
+  "Conference": "Colonial States Athletic Conference",
+  "Website": "https:\/\/www.keystone.edu\/",
+  "School": "Keystone College",
+  "Football Info": "https:\/\/www.gokcgiants.com\/news\/2022\/7\/14\/keystone-football-hosting-prospect-camp-on-july-23.aspx",
+  "Coach info": "https:\/\/www.gokcgiants.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Wilkes-Barre, Pennsylvania",
+  "loc": "41.2459149,-75.88130749999999",
+  "Conference": "Middle Atlantic Freedom",
+  "Website": "https:\/\/www.kings.edu\/",
+  "School": "King's College – Pennsylvania",
+  "Football Info": "https:\/\/kingscollegeathletics.com\/sports\/football",
+  "Coach info": "https:\/\/kingscollegeathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Galesburg, Illinois",
+  "loc": "40.94781580000001,-90.3712395",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.knox.edu\/",
+  "School": "Knox College",
+  "Football Info": "https:\/\/www.knox.edu\/offices\/summer-camps\/prairie-fire-football-camp",
+  "Coach info": "https:\/\/prairiefire.knox.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "LaGrange, Georgia",
+  "loc": "33.0362218,-85.0322444",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/www.lagrange.edu\/",
+  "School": "LaGrange College",
+  "Football Info": "https:\/\/www.lagrangepanthers.com\/sports\/fball\/camps",
+  "Coach info": "https:\/\/www.lagrangepanthers.com\/information\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lake Forest, Illinois",
+  "loc": "42.2586342,-87.840625",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.lakeforest.edu\/",
+  "School": "Lake Forest College",
+  "Football Info": "http:\/\/www.lakeforestfootballcamp.com\/",
+  "Coach info": "https:\/\/www.goforesters.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Plymouth, Wisconsin",
+  "loc": "43.7486054,-87.9770379",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/lakeland.edu\/",
+  "School": "Lakeland University",
+  "Football Info": "https:\/\/lakeland.edu\/football-camp",
+  "Coach info": "https:\/\/lakelandmuskies.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Appleton, Wisconsin",
+  "loc": "44.2619309,-88.41538469999999",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.lawrence.edu\/",
+  "School": "Lawrence University",
+  "Football Info": "https:\/\/www.lawrencefootballcamps.com\/",
+  "Coach info": "https:\/\/vikings.lawrence.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Annville, Pennsylvania",
+  "loc": "40.3295359,-76.51524429999999",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.lvc.edu\/",
+  "School": "Lebanon Valley College",
+  "Football Info": "https:\/\/godutchmen.com\/news\/2021\/12\/14\/football-announces-2022-summer-clinics.aspx",
+  "Coach info": "https:\/\/godutchmen.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Portland, Oregon",
+  "loc": "45.515232,-122.6783853",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.lclark.edu\/",
+  "School": "Lewis & Clark College",
+  "Football Info": "https:\/\/www.lewisandclarkfootballskillscamp.com\/",
+  "Coach info": "https:\/\/lcpioneers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "McMinnville, Oregon",
+  "loc": "45.2107513,-123.1944874",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.linfield.edu\/",
+  "School": "Linfield University",
+  "Football Info": "https:\/\/golinfieldwildcats.com\/sports\/camps-clinics\/schedule\/2022-23",
+  "Coach info": "https:\/\/golinfieldwildcats.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Dubuque, Iowa",
+  "loc": "42.506348,-90.6677347",
+  "Conference": "Iowa Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.loras.edu\/",
+  "School": "Loras College",
+  "Football Info": "https:\/\/football.duhawkcamps.com\/",
+  "Coach info": "https:\/\/duhawks.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Decorah, Iowa",
+  "loc": "43.30330559999999,-91.7857092",
+  "Conference": "American Rivers",
+  "Website": "https:\/\/www.luther.edu\/",
+  "School": "Luther College",
+  "Football Info": "https:\/\/www2.luther.edu\/sports\/camps\/football\/",
+  "Coach info": "https:\/\/luthernorse.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Williamsport, Pennsylvania",
+  "loc": "41.2411897,-77.00107860000001",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.lycoming.edu\/",
+  "School": "Lycoming College",
+  "Football Info": "https:\/\/lycomingathletics.com\/sports\/2009\/9\/16\/FOOT_Camps.aspx",
+  "Coach info": "https:\/\/lycomingathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "St. Paul, Minnesota",
+  "loc": "44.9537029,-93.0899578",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.macalester.edu\/",
+  "School": "Macalester College",
+  "Football Info": "https:\/\/athletics.macalester.edu\/news\/2021\/5\/11\/football-macalester-to-host-elite-prospect-day-on-july-23.aspx",
+  "Coach info": "https:\/\/athletics.macalester.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "North Manchester, Indiana",
+  "loc": "41.0006005,-85.768597",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/www.manchester.edu\/",
+  "School": "Manchester University",
+  "Football Info": "https:\/\/www.manchester.edu\/about-manchester\/events\/2016\/07\/23\/default-calendar\/football-camp",
+  "Coach info": "https:\/\/muspartans.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Marietta, Ohio",
+  "loc": "39.41535200000001,-81.45484359999999",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.marietta.edu\/",
+  "School": "Marietta College",
+  "Football Info": "https:\/\/pioneers.marietta.edu\/sports\/2022\/4\/19\/2022-football-camps.aspx",
+  "Coach info": "https:\/\/pioneers.marietta.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "New Ulm, Minnesota",
+  "loc": "44.3144394,-94.45930179999999",
+  "Conference": "Upper Midwest Athletic Conference",
+  "Website": "https:\/\/mlc-wels.edu\/",
+  "School": "Martin Luther College",
+  "Football Info": "https:\/\/mlcknights.com\/sports\/2023\/3\/22\/camps.aspx",
+  "Coach info": "https:\/\/mlcknights.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Maryville, Tennessee",
+  "loc": "35.7564719,-83.9704593",
+  "Conference": "Collegiate Conference of the South",
+  "Website": "https:\/\/www.maryvillecollege.edu\/",
+  "School": "Maryville College",
+  "Football Info": "https:\/\/mcscots.com\/sports\/2022\/5\/24\/camps-Camp-Page.aspx",
+  "Coach info": "https:\/\/mcscots.com\/sports\/fball\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Cambridge, Massachusetts",
+  "loc": "42.3736158,-71.10973349999999",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/web.mit.edu\/",
+  "School": "Massachusetts Institute of Technology – MIT",
+  "Football Info": "https:\/\/mitathletics.com\/sports\/2021\/4\/20\/information-Camps-Clinics.aspx#FB",
+  "Coach info": "https:\/\/mitathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Westminster, Maryland",
+  "loc": "39.5753791,-76.9958149",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.mcdaniel.edu\/",
+  "School": "McDaniel College",
+  "Football Info": "https:\/\/mcdanielathletics.com\/sports\/2022\/4\/29\/information-camps-clinics-index",
+  "Coach info": "https:\/\/mcdanielathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Abilene, Texas",
+  "loc": "32.4487364,-99.73314390000002",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/mcm.edu\/",
+  "School": "McMurry University",
+  "Football Info": "https:\/\/apply.mcm.edu\/register\/2022fbcamps",
+  "Coach info": "https:\/\/mcmurrysports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Fayetteville, North Carolina",
+  "loc": "35.0526641,-78.87835849999999",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/www.methodist.edu\/",
+  "School": "Methodist University",
+  "Football Info": "https:\/\/mumonarchs.com\/sports\/2008\/8\/24\/camp.aspx",
+  "Coach info": "https:\/\/mumonarchs.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Middlebury, Vermont",
+  "loc": "44.0153371,-73.16734",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.middlebury.edu\/college\/academics",
+  "School": "Middlebury College",
+  "Football Info": "http:\/\/www.middbaseballcamps.com\/camps.php",
+  "Coach info": "https:\/\/athletics.middlebury.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Decatur, Illinois",
+  "loc": "39.8403147,-88.9548001",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/millikin.edu\/",
+  "School": "Millikin University",
+  "Football Info": "https:\/\/athletics.millikin.edu\/sports\/football",
+  "Coach info": "https:\/\/www.google.com\/search?q=Millikin+University++++++++++++++++++coaching+staff&rlz=1C1GCEA_enUS915US915&sxsrf=APwXEdefAgRv-5tLI8kM8tHwmxKx5meTpA%3A1680924778527&ei=auAwZMvnH-udptQPw-2OmAE&ved=0ahUKEwjLxMXirJn-AhXrjokEHcO2AxMQ4dUDCBA&uact=5&oq=Millikin+University++++++++++++++++++coaching+staff&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQoAEQwwQyCAghEKABEMMEMggIIRCgARDDBEoECEEYAFAAWABg9QFoAHABeACAAVyIAVySAQExmAEAoAECoAEBwAEB&sclient=gws-wiz-serp"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Jackson, Mississippi",
+  "loc": "32.2987573,-90.1848103",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.millsaps.edu\/",
+  "School": "Millsaps College",
+  "Football Info": "https:\/\/gomajors.com\/sports\/2015\/10\/6\/FB_RecruitCampsFball.aspx",
+  "Coach info": "https:\/\/gomajors.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Dallas, Pennsylvania",
+  "loc": "41.3361911,-75.9632546",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.misericordia.edu\/",
+  "School": "Misericordia University",
+  "Football Info": "https:\/\/athletics.misericordia.edu\/news\/2023\/2\/22\/mens-lacrosse-2023-summer-sports-camps.aspx",
+  "Coach info": "https:\/\/athletics.misericordia.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Monmouth, Illinois",
+  "loc": "40.9114271,-90.64735759999999",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.monmouthcollege.edu\/",
+  "School": "Monmouth College",
+  "Football Info": "https:\/\/monmouthscots.com\/sports\/2019\/4\/22\/football-prospect-camp.aspx",
+  "Coach info": "https:\/\/monmouthscots.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Montclair, New Jersey",
+  "loc": "40.8259007,-74.2090053",
+  "Conference": "New Jersey Athletic Conference",
+  "Website": "https:\/\/www.montclair.edu\/",
+  "School": "Montclair State University",
+  "Football Info": "https:\/\/montclairathletics.com\/sports\/2012\/3\/27\/GEN_0327124739",
+  "Coach info": "https:\/\/montclairathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Bethlehem, Pennsylvania",
+  "loc": "40.6259316,-75.37045789999999",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.moravian.edu\/",
+  "School": "Moravian University",
+  "Football Info": "https:\/\/www.moraviansports.com\/sports\/fball\/Camp\/index",
+  "Coach info": "https:\/\/www.moraviansports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Cincinnati, Ohio",
+  "loc": "39.1031182,-84.5120196",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/www.msj.edu\/",
+  "School": "Mount St. Joseph University",
+  "Football Info": "https:\/\/www.msjsports.com\/sports\/fball\/summer_prospect_camp\/prospect_camp",
+  "Coach info": "https:\/\/msjlions.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Allentown, Pennsylvania",
+  "loc": "40.6022939,-75.4714098",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.muhlenberg.edu\/",
+  "School": "Muhlenberg College",
+  "Football Info": "https:\/\/www.muhlenbergfootballcamp.com\/",
+  "Coach info": "https:\/\/muhlenbergsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "New Concord, Ohio",
+  "loc": "39.9936837,-81.73401679999999",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.muskingum.edu\/",
+  "School": "Muskingum University",
+  "Football Info": "https:\/\/football.fightingmuskiescamps.com\/",
+  "Coach info": "https:\/\/www.fightingmuskies.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lincoln, Nebraska",
+  "loc": "40.813616,-96.7025955",
+  "Conference": "American Rivers",
+  "Website": "https:\/\/www.nebrwesleyan.edu\/",
+  "School": "Nebraska Wesleyan University",
+  "Football Info": "https:\/\/www.nebrwesleyan.edu\/student-life\/athletics\/camps\/football-camps",
+  "Coach info": "https:\/\/nwusports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Dudley, Massachusetts",
+  "loc": "42.0433661,-71.9276033",
+  "Conference": "Commonwealth Coast Football",
+  "Website": "https:\/\/www.nichols.edu\/",
+  "School": "Nichols College",
+  "Football Info": "https:\/\/nicholsathletics.com\/sports\/2009\/4\/27\/GEN_0427090441.aspx",
+  "Coach info": "https:\/\/nicholsathletics.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Rocky Mount, North Carolina",
+  "loc": "35.9382103,-77.7905339",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/ncwc.edu\/",
+  "School": "North Carolina Wesleyan College",
+  "Football Info": "https:\/\/www.ncwcsports.com\/summer_camps\/football\/index",
+  "Coach info": "https:\/\/www.ncwcsports.com\/inside_athletics\/directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Naperville, Illinois",
+  "loc": "41.7508391,-88.1535352",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.northcentralcollege.edu\/",
+  "School": "North Central College",
+  "Football Info": "https:\/\/www.northcentralcollege.edu\/football-clinics",
+  "Coach info": "https:\/\/northcentralcardinals.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Chicago, Illinois",
+  "loc": "41.8781136,-87.6297982",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.northpark.edu\/",
+  "School": "North Park University",
+  "Football Info": "https:\/\/www.northparkfootballcamps.com\/",
+  "Coach info": "https:\/\/athletics.northpark.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Northfield, Vermont",
+  "loc": "44.151202,-72.656747",
+  "Conference": "Great Northeast Athletic Conference",
+  "Website": "https:\/\/www.norwich.edu\/",
+  "School": "Norwich University",
+  "Football Info": "https:\/\/norwichathletics.com\/sports\/football",
+  "Coach info": "https:\/\/norwichathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Oberlin, Ohio",
+  "loc": "41.2939386,-82.21737859999999",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.oberlin.edu\/",
+  "School": "Oberlin College",
+  "Football Info": "https:\/\/www.oberlincollegefootball.com\/",
+  "Coach info": "https:\/\/goyeo.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Ada, Ohio",
+  "loc": "40.7694969,-83.8227148",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.onu.edu\/",
+  "School": "Ohio Northern University",
+  "Football Info": "https:\/\/www.onusports.com\/athletics\/camps_clinics\/index",
+  "Coach info": "https:\/\/www.onusports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Delaware, Ohio",
+  "loc": "40.2986724,-83.067965",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.owu.edu\/",
+  "School": "Uhio Wesleyan University",
+  "Football Info": "https:\/\/www.owu.edu\/about\/offices-services-directory\/sports-camps-clinics\/",
+  "Coach info": "https:\/\/battlingbishops.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Olivet, Michigan",
+  "loc": "42.4414273,-84.92415419999999",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.olivetcollege.edu\/",
+  "School": "Olivet College",
+  "Football Info": "https:\/\/www.olivetcomets.com\/camps\/index",
+  "Coach info": "https:\/\/www.olivetcomets.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Westerville, Ohio",
+  "loc": "40.1266689,-82.9318807",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.otterbein.edu\/",
+  "School": "Otterbein University",
+  "Football Info": "https:\/\/www.collegefootballprospectid.com\/westerville-oh.cfm",
+  "Coach info": "https:\/\/otterbeincardinals.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Tacoma, Washington",
+  "loc": "47.2528768,-122.4442906",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.plu.edu\/",
+  "School": "Pacific Lutheran University",
+  "Football Info": "https:\/\/golutes.com\/sports\/2020\/2\/15\/plu-football-camps.aspx",
+  "Coach info": "https:\/\/golutes.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Forest Grove, Oregon",
+  "loc": "45.5196767,-123.1121017",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.pacificu.edu\/",
+  "School": "Pacific University",
+  "Football Info": "https:\/\/goboxers.com\/sb_output.aspx?form=39",
+  "Coach info": "https:\/\/goboxers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Plymouth, New Hampshire",
+  "loc": "43.7570196,-71.6881528",
+  "Conference": "Massachusetts State Collegiate Athletic Conference",
+  "Website": "https:\/\/www.plymouth.edu\/",
+  "School": "Plymouth State University",
+  "Football Info": "https:\/\/athletics.plymouth.edu\/sports\/2020\/7\/14\/information-Youth-Camps-index",
+  "Coach info": "https:\/\/athletics.plymouth.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Claremont, California",
+  "loc": "34.0966764,-117.7197785",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.pomona.edu\/",
+  "School": "Pomona-Pitzer Colleges",
+  "Football Info": "https:\/\/www.sagehens.com\/sports\/fball\/SummerClinics",
+  "Coach info": "https:\/\/www.sagehens.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Ashland, Virginia",
+  "loc": "37.7590318,-77.47998369999999",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.rmc.edu\/",
+  "School": "Randolph-Macon College",
+  "Football Info": "https:\/\/www.rmcfootballcamps.com\/",
+  "Coach info": "https:\/\/www.rmcathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Troy, New York",
+  "loc": "42.7284117,-73.69178509999999",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/www.rpi.edu\/",
+  "School": "Rensselaer Polytechnic Institute – RPI",
+  "Football Info": "https:\/\/www.collegefootballprospects.com\/troy-ny.cfm",
+  "Coach info": "https:\/\/rpiathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Memphis, Tennessee",
+  "loc": "35.1495343,-90.0489801",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.rhodes.edu\/",
+  "School": "Rhodes College",
+  "Football Info": "https:\/\/www.rhodesfootballcamps.com\/elite-prospect-camps.cfm",
+  "Coach info": "https:\/\/rhodeslynx.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Ripon, Wisconsin",
+  "loc": "43.8422049,-88.8359447",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/ripon.edu\/",
+  "School": "Ripon College",
+  "Football Info": "https:\/\/e.givesmart.com\/events\/qeL\/",
+  "Coach info": "https:\/\/riponredhawks.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Rockford, Illinois",
+  "loc": "42.2711311,-89.0939952",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/www.rockford.edu\/",
+  "School": "Rockford University",
+  "Football Info": "https:\/\/rockfordregents.com\/sports\/2021\/4\/27\/information-Camps.aspx",
+  "Coach info": "https:\/\/rockfordregents.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Terre Haute, Indiana",
+  "loc": "39.4667034,-87.41390919999999",
+  "Conference": "Heartland Collegiate Athletic Conference",
+  "Website": "https:\/\/www.rose-hulman.edu\/",
+  "School": "Rose-Hulman Institute of Technology",
+  "Football Info": "https:\/\/athletics.rose-hulman.edu\/news\/2022\/3\/5\/general-rose-hulman-current-camps-and-clinics.aspx",
+  "Coach info": "https:\/\/athletics.rose-hulman.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Glassboro, New Jersey",
+  "loc": "39.70289229999999,-75.1118422",
+  "Conference": "New Jersey Athletic Conference",
+  "Website": "https:\/\/www.rowan.edu\/",
+  "School": "Rowan University",
+  "Football Info": "https:\/\/njfca.org\/event\/rowan-football-prospect-skills-camp\/",
+  "Coach info": "https:\/\/www.rowanathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Collegeville, Minnesota",
+  "loc": "45.59388149999999,-94.3641026",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.csbsju.edu\/admission",
+  "School": "Saint John's University – Minnesota",
+  "Football Info": "https:\/\/gojohnnies.com\/sports\/2014\/6\/27\/GENERAL_0627142924.aspx",
+  "Coach info": "https:\/\/gojohnnies.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Latrobe, Pennsylvania",
+  "loc": "40.3211808,-79.37948109999999",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.stvincent.edu\/",
+  "School": "Saint Vincent College – Pennsylvania",
+  "Football Info": "https:\/\/athletics.stvincent.edu\/news\/2022\/4\/20\/football-bearcat-football-summer-camps-announced.aspx",
+  "Coach info": "https:\/\/athletics.stvincent.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Salisbury, Maryland",
+  "loc": "38.3606736,-75.5993692",
+  "Conference": "Coast-to-Coast Athletic",
+  "Website": "https:\/\/www.salisbury.edu\/",
+  "School": "Salisbury University",
+  "Football Info": "https:\/\/suseagulls.com\/sports\/2022\/7\/12\/community-camps-index.aspx",
+  "Coach info": "https:\/\/suseagulls.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Newport, Rhode Island",
+  "loc": "41.4901024,-71.3128285",
+  "Conference": "Commonwealth Coast Football",
+  "Website": "https:\/\/www.salve.edu\/",
+  "School": "Salve Regina University",
+  "Football Info": "https:\/\/salveathletics.com\/camps\/camps-list",
+  "Coach info": "https:\/\/www.salveathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Sewanee, Tennessee",
+  "loc": "35.2031373,-85.9210899",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/new.sewanee.edu\/",
+  "School": "Sewanee – The University of the South",
+  "Football Info": "https:\/\/sewaneetigers.com\/sports\/2021\/4\/28\/information-summercamps-index.aspx",
+  "Coach info": "https:\/\/sewaneetigers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Winchester, Virginia",
+  "loc": "39.1856597,-78.1633341",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.su.edu\/",
+  "School": "Shenandoah University",
+  "Football Info": "https:\/\/www.scottyoderfootball.com\/prospect-camp.cfm",
+  "Coach info": "https:\/\/suhornets.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Indianola, Iowa",
+  "loc": "41.3580484,-93.5574376",
+  "Conference": "American Rivers",
+  "Website": "https:\/\/simpson.edu\/",
+  "School": "Simpson College",
+  "Football Info": "https:\/\/www.simpsonfootballcamps.com\/",
+  "Coach info": "https:\/\/www.simpsonathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Buena Vista, Virginia",
+  "loc": "37.7343004,-79.35392379999999",
+  "Conference": "USA South Athletic Conference",
+  "Website": "https:\/\/svu.edu\/",
+  "School": "Southern Virginia University",
+  "Football Info": "https:\/\/knightathletics.com\/sports\/football",
+  "Coach info": "https:\/\/www.simpsonathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Georgetown, Texas",
+  "loc": "30.6332618,-97.6779842",
+  "Conference": "Southern Collegiate Athletic Conference",
+  "Website": "https:\/\/www.southwestern.edu\/",
+  "School": "Southwestern University",
+  "Football Info": "https:\/\/www.simpsonathletics.com\/sports\/fball\/coaches\/index",
+  "Coach info": "https:\/\/www.simpsonathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Springfield, Massachusetts",
+  "loc": "42.1014831,-72.589811",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/springfield.edu\/",
+  "School": "Springfield College",
+  "Football Info": "https:\/\/springfieldcollegepride.com\/sports\/fball\/index",
+  "Coach info": "https:\/\/springfieldcollegepride.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Rochester, New York",
+  "loc": "43.15657789999999,-77.6088465",
+  "Conference": "Empire 8 Athletic Conference",
+  "Website": "https:\/\/www.sjf.edu\/",
+  "School": "St. John Fisher College",
+  "Football Info": "https:\/\/sjfathletics.com\/news\/2019\/4\/12\/football-announces-dates-for-three-camps-including-prestigious-prep-camp.aspx",
+  "Coach info": "https:\/\/sjfathletics.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Canton, New York",
+  "loc": "44.5956163,-75.1690942",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/www.stlawu.edu\/",
+  "School": "St. Lawrence University",
+  "Football Info": "https:\/\/saintsathletics.com\/sports\/2013\/7\/22\/sports_schools?tab=summersportsschools",
+  "Coach info": "https:\/\/saintsathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "De Pere, Wisconsin",
+  "loc": "44.4488805,-88.0603806",
+  "Conference": "Northern Athletics Collegiate Conference",
+  "Website": "https:\/\/www.snc.edu\/",
+  "School": "St. Norbert College",
+  "Football Info": "https:\/\/www.sncfootballcamps.com\/",
+  "Coach info": "https:\/\/athletics.snc.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Northfield, Minnesota",
+  "loc": "44.4582983,-93.161604",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/wp.stolaf.edu\/",
+  "School": "St. Olaf College",
+  "Football Info": "https:\/\/athletics.stolaf.edu\/sports\/football",
+  "Coach info": "https:\/\/athletics.stolaf.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Stevenson, Maryland",
+  "loc": "39.4105843,-76.71328919999999",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.stevenson.edu\/",
+  "School": "Stevenson University",
+  "Football Info": "https:\/\/410footballcamps.com\/landing\/index",
+  "Coach info": "https:\/\/gomustangsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Alpine, Texas",
+  "loc": "30.3584919,-103.6610115",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.sulross.edu\/",
+  "School": "Sul Ross State University",
+  "Football Info": "https:\/\/srlobos.com\/sports\/2022\/5\/23\/football-camps.aspx",
+  "Coach info": "https:\/\/srlobos.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Buffalo, New York",
+  "loc": "42.88644679999999,-78.8783689",
+  "Conference": "State University of New York Athletic Conference",
+  "Website": "https:\/\/suny.buffalostate.edu\/",
+  "School": "SUNY Buffalo State College",
+  "Football Info": "https:\/\/www.juniordayfootball.com\/buffalo-ny.cfm",
+  "Coach info": "https:\/\/buffalostateathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Brockport, New York",
+  "loc": "43.2136713,-77.9391797",
+  "Conference": "State University of New York Athletic Conference",
+  "Website": "https:\/\/www2.brockport.edu\/",
+  "School": "SUNY College at Brockport",
+  "Football Info": "https:\/\/gobrockport.com\/sports\/football",
+  "Coach info": "https:\/\/gobrockport.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Cortland, New York",
+  "loc": "42.6011813,-76.1804843",
+  "Conference": "State University of New York Athletic Conference",
+  "Website": "https:\/\/www2.cortland.edu\/home\/",
+  "School": "SUNY Cortland",
+  "Football Info": "https:\/\/www.cortlandreddragons.com\/sports\/2020\/2\/6\/2023-suny-cortland-summer-sports-camps.aspx",
+  "Coach info": "https:\/\/www.cortlandreddragons.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Throggs Neck, New York",
+  "loc": "40.818399,-73.8213213",
+  "Conference": "Skyline Conference",
+  "Website": "https:\/\/www.sunymaritime.edu\/",
+  "School": "SUNY Maritime College",
+  "Football Info": "https:\/\/maritimeathletics.com\/news\/2022\/5\/24\/maritime-football-prospect-camp-set-for-june-16.aspx",
+  "Coach info": "https:\/\/maritimeathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Morrisville, New York",
+  "loc": "42.8986791,-75.6401825",
+  "Conference": "Empire 8 Athletic Conference",
+  "Website": "https:\/\/www.morrisville.edu\/",
+  "School": "SUNY Morrisville",
+  "Football Info": "https:\/\/morrisvillemustangs.com\/sports\/2019\/7\/17\/information-camps-clinics-index",
+  "Coach info": "https:\/\/morrisvillemustangs.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Selinsgrove, Pennsylvania",
+  "loc": "40.7989735,-76.8621935",
+  "Conference": "Landmark",
+  "Website": "https:\/\/www.susqu.edu\/",
+  "School": "Susquehanna University",
+  "Football Info": "https:\/\/suriverhawks.com\/sports\/football",
+  "Coach info": "https:\/\/suriverhawks.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Seguin, Texas",
+  "loc": "29.56892479999999,-97.96458319999999",
+  "Conference": "Southern Collegiate Athletic Conference",
+  "Website": "https:\/\/www.tlu.edu\/",
+  "School": "Texas Lutheran University",
+  "Football Info": "https:\/\/tlubulldogs.com\/information\/Sports_Camps_Information",
+  "Coach info": "https:\/\/tlubulldogs.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Ewing, New Jersey",
+  "loc": "40.2599864,-74.79091249999999",
+  "Conference": "New Jersey Athletic Conference",
+  "Website": "https:\/\/tcnj.edu\/",
+  "School": "The College of New Jersey",
+  "Football Info": "https:\/\/tcnjathletics.com\/sports\/football",
+  "Coach info": "https:\/\/tcnjathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Duluth, Minnesota",
+  "loc": "46.78667189999999,-92.1004852",
+  "Conference": "Minnesota Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.css.edu\/",
+  "School": "The College of St. Scholastica",
+  "Football Info": "https:\/\/csssaints.com\/sports\/2019\/3\/18\/saints-football-camps.aspx",
+  "Coach info": "https:\/\/csssaints.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Greenville, Pennsylvania",
+  "loc": "41.404499,-80.39117850000001",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.thiel.edu\/",
+  "School": "Thiel College",
+  "Football Info": "https:\/\/thielathletics.com\/sports\/football",
+  "Coach info": "https:\/\/thielathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Angola, Indiana",
+  "loc": "41.6347726,-84.9994088",
+  "Conference": "Michigan Intercollegiate Athletic Association",
+  "Website": "https:\/\/www.trine.edu\/",
+  "School": "Trine University",
+  "Football Info": "https:\/\/www.trinethunder.com\/information\/camps\/index",
+  "Coach info": "https:\/\/www.trinethunder.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Hartford, Connecticut",
+  "loc": "41.7658043,-72.6733723",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.trincoll.edu\/",
+  "School": "Trinity College – Connecticut",
+  "Football Info": "https:\/\/bantamsfootball.com\/questionaire",
+  "Coach info": "https:\/\/bantamsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "San Antonio, Texas",
+  "loc": "29.4251905,-98.4945922",
+  "Conference": "Southern Athletic Association",
+  "Website": "https:\/\/www.trinity.edu\/",
+  "School": "Trinity University – Texas",
+  "Football Info": "https:\/\/trinitytigers.com\/sports\/football",
+  "Coach info": "https:\/\/trinitytigers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Medford, Massachusetts",
+  "loc": "42.4184296,-71.1061639",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.tufts.edu\/",
+  "School": "Tufts University",
+  "Football Info": "https:\/\/newenglandelitefootballclinic.com\/clinic\/",
+  "Coach info": "https:\/\/gotuftsjumbos.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Schenectady, New York",
+  "loc": "42.8142432,-73.9395687",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/www.union.edu\/",
+  "School": "Union College – New York",
+  "Football Info": "https:\/\/unionathletics.com\/news\/2022\/2\/2\/2022-union-football-camps.aspx",
+  "Coach info": "https:\/\/unionathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "New London, Connecticut",
+  "loc": "41.3556539,-72.0995209",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/uscga.edu\/",
+  "School": "United States Coast Guard Academy",
+  "Football Info": "https:\/\/www.uscgasports.com\/information\/camps",
+  "Coach info": "https:\/\/www.uscgasports.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Kings Point, New York",
+  "loc": "40.8198231,-73.7351316",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/www.usmma.edu\/",
+  "School": "United States Merchant Marine Academy",
+  "Football Info": "https:\/\/www.usmmasports.com\/sports\/football",
+  "Coach info": "https:\/\/www.usmmasports.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Chicago, Illinois",
+  "loc": "41.8781136,-87.6297982",
+  "Conference": "Midwest Conference",
+  "Website": "https:\/\/www.uchicago.edu\/",
+  "School": "University of Chicago",
+  "Football Info": "https:\/\/www.uchicagofootballcamps.com\/",
+  "Coach info": "https:\/\/athletics.uchicago.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Dubuque, Iowa",
+  "loc": "42.506348,-90.6677347",
+  "Conference": "American Rivers",
+  "Website": "https:\/\/www.dbq.edu\/\/",
+  "School": "University of Dubuque",
+  "Football Info": "https:\/\/udspartans.com\/sports\/football",
+  "Coach info": "https:\/\/udspartans.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "La Verne, California",
+  "loc": "34.1008426,-117.7678355",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/laverne.edu\/",
+  "School": "University of La Verne",
+  "Football Info": "https:\/\/www.leopardfootballcamps.com\/",
+  "Coach info": "https:\/\/www.leopardathletics.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Belton, Texas",
+  "loc": "31.0560132,-97.46445299999999",
+  "Conference": "American Southwest Conference",
+  "Website": "https:\/\/www.umhb.edu\/",
+  "School": "University of Mary Hardin-Baylor",
+  "Football Info": "https:\/\/cruathletics.com\/sports\/camps\/schedule\/2023",
+  "Coach info": "https:\/\/cruathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "North Dartmouth, Massachusetts",
+  "loc": "41.640396,-70.9694555",
+  "Conference": "Little East Conference",
+  "Website": "https:\/\/www.umassd.edu\/",
+  "School": "University of Massachusetts – Dartmouth",
+  "Football Info": "https:\/\/corsairathletics.com\/sports\/football\/coaches",
+  "Coach info": "https:\/\/corsairathletics.com\/sports\/football"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Morris, Minnesota",
+  "loc": "45.5919444,-95.9188889",
+  "Conference": "Upper Midwest Athletic Conference",
+  "Website": "https:\/\/morris.umn.edu\/",
+  "School": "University of Minnesota – Morris",
+  "Football Info": "https:\/\/morriscougars.com\/sports\/2020\/1\/6\/camps-clinics.aspx",
+  "Coach info": "https:\/\/morriscougars.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Alliance, Ohio",
+  "loc": "40.9153362,-81.10593089999999",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.mountunion.edu\/",
+  "School": "University of Mount Union",
+  "Football Info": "https:\/\/www.mountunion.edu\/camps-and-conferences",
+  "Coach info": "https:\/\/athletics.mountunion.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Biddeford, Maine",
+  "loc": "43.4925843,-70.45338439999999",
+  "Conference": "Commonwealth Coast Conference",
+  "Website": "https:\/\/www.une.edu\/",
+  "School": "University of New England",
+  "Football Info": "https:\/\/athletics.une.edu\/sports\/2016\/2\/11\/gen_camps_clinics.aspx",
+  "Coach info": "https:\/\/athletics.une.edu\/staff-directory\/mike-lichten\/215"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Paul, Minnesota",
+  "loc": "44.9537029,-93.0899578",
+  "Conference": "Upper Midwest Athletic Conference",
+  "Website": "https:\/\/unwsp.edu\/",
+  "School": "University of Northwestern – St. Paul",
+  "Football Info": "https:\/\/unweagles.com\/sports\/2011\/11\/15\/gen_1115113111.aspx",
+  "Coach info": "https:\/\/unweagles.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Tacoma, Washington",
+  "loc": "47.2528768,-122.4442906",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.pugetsound.edu\/",
+  "School": "University of Puget Sound",
+  "Football Info": "https:\/\/loggerathletics.com\/sports\/2022\/3\/15\/football-camps.aspx",
+  "Coach info": "https:\/\/loggerathletics.com\/staff-directory"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Redlands, California",
+  "loc": "34.0563884,-117.2058765",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.redlands.edu\/",
+  "School": "University of Redlands",
+  "Football Info": "https:\/\/www.iefootballcamps.com\/",
+  "Coach info": "https:\/\/www.goredlands.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Rochester, New York",
+  "loc": "43.15657789999999,-77.6088465",
+  "Conference": "Liberty League",
+  "Website": "https:\/\/www.rochester.edu\/",
+  "School": "University of Rochester",
+  "Football Info": "https:\/\/www.rochester.edu\/athletics\/camps-clinics\/football.html",
+  "Coach info": "https:\/\/uofrathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Eau Claire, Wisconsin",
+  "loc": "44.811349,-91.4984941",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwec.edu\/",
+  "School": "University of Wisconsin – Eau Claire",
+  "Football Info": "https:\/\/blugolds.com\/camps\/FB",
+  "Coach info": "https:\/\/blugolds.com\/information\/directory\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "La Crosse, Wisconsin",
+  "loc": "43.8137751,-91.25190169999999",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwlax.edu\/",
+  "School": "University of Wisconsin – La Crosse",
+  "Football Info": "https:\/\/football.uwlcamps.com\/prospect-camp.cfm",
+  "Coach info": "https:\/\/uwlathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Oshkosh, Wisconsin",
+  "loc": "44.0247062,-88.5426136",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/uwosh.edu\/",
+  "School": "University of Wisconsin – Oshkosh",
+  "Football Info": "https:\/\/football.uwoshkoshsportscamps.com\/"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Platteville, Wisconsin",
+  "loc": "42.73416,-90.4784621",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwplatt.edu\/",
+  "School": "University of Wisconsin – Platteville",
+  "Football Info": "https:\/\/letsgopioneers.com\/sports\/fball\/Camps",
+  "Coach info": "https:\/\/letsgopioneers.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "River Falls, Wisconsin",
+  "loc": "44.8613563,-92.6238082",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwrf.edu\/",
+  "School": "University of Wisconsin – River Falls",
+  "Football Info": "https:\/\/uwrfsports.com\/sports\/2016\/1\/28\/2016%20Football%20Summer%20Camps.aspx?id=904",
+  "Coach info": "https:\/\/uwrfsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Stevens Point, Wisconsin",
+  "loc": "44.52357920000001,-89.574563",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwsp.edu\/",
+  "School": "University of Wisconsin – Stevens Point",
+  "Football Info": "https:\/\/athletics.uwsp.edu\/sports\/2013\/4\/2\/FB_0402132853.aspx",
+  "Coach info": "https:\/\/athletics.uwsp.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Menomonie, Wisconsin",
+  "loc": "44.8755183,-91.9193422",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uwstout.edu\/",
+  "School": "University of Wisconsin – Stout",
+  "Football Info": "https:\/\/football.uwstoutsportscamps.com\/",
+  "Coach info": "https:\/\/stoutbluedevils.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Whitewater, Wisconsin",
+  "loc": "42.83362049999999,-88.7323272",
+  "Conference": "Wisconsin Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.uww.edu\/",
+  "School": "University of Wisconsin – Whitewater",
+  "Football Info": "https:\/\/www.uww.edu\/ce\/camps\/athletic\/football\/prospectshowcaseclinic",
+  "Coach info": "https:\/\/uwwsports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Collegeville, Pennsylvania",
+  "loc": "40.1856597,-75.451571",
+  "Conference": "Centennial Conference",
+  "Website": "https:\/\/www.ursinus.edu\/",
+  "School": "Ursinus College",
+  "Football Info": "https:\/\/www.ursinuscamps.com\/football-camp_june-19th_-22nd.cfm",
+  "Coach info": "https:\/\/ursinusathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Utica, New York",
+  "loc": "43.100903,-75.232664",
+  "Conference": "Empire 8 Athletic Conference",
+  "Website": "https:\/\/www.utica.edu\/",
+  "School": "Utica University",
+  "Football Info": "https:\/\/www.tntfootballcamps.com\/prospect-camp.cfm",
+  "Coach info": "https:\/\/uticapioneers.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Crawfordsville, Indiana",
+  "loc": "40.0411536,-86.87445160000001",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.wabash.edu\/",
+  "School": "Wabash College",
+  "Football Info": "https:\/\/www.wabashfootballcamps.com\/",
+  "Coach info": "https:\/\/sports.wabash.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Waverly, Iowa",
+  "loc": "42.7272032,-92.4668511",
+  "Conference": "American Rivers",
+  "Website": "https:\/\/www.wartburg.edu\/",
+  "School": "Wartburg College",
+  "Football Info": "https:\/\/www.wartburgfootballcamps.com\/",
+  "Coach info": "https:\/\/go-knights.net\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Washington, Pennsylvania",
+  "loc": "40.17396,-80.2461714",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.washjeff.edu\/",
+  "School": "Washington & Jefferson College",
+  "Football Info": "https:\/\/gopresidents.com\/sports\/2014\/4\/2\/FB_0402141640.aspx",
+  "Coach info": "https:\/\/gopresidents.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Lexington, Virginia",
+  "loc": "37.78402080000001,-79.4428157",
+  "Conference": "Old Dominion Athletic Conference",
+  "Website": "https:\/\/www.wlu.edu\/",
+  "School": "Washington & Lee University",
+  "Football Info": "https:\/\/generalssports.com\/sports\/2019\/9\/10\/information-camps-index.aspx",
+  "Coach info": "https:\/\/generalssports.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Saint Louis, Missouri",
+  "loc": "38.6270025,-90.19940419999999",
+  "Conference": "University Athletic Association",
+  "Website": "https:\/\/wustl.edu\/",
+  "School": "Washington University in St. Louis",
+  "Football Info": "https:\/\/washubears.com\/sports\/2022\/6\/6\/summer-camps-football-Prospect-Football-Camp.aspx",
+  "Coach info": "https:\/\/washubears.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Waynesburg, Pennsylvania",
+  "loc": "39.8964641,-80.1792299",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.waynesburg.edu\/",
+  "School": "Waynesburg University",
+  "Football Info": "https:\/\/waynesburgsports.com\/news\/2022\/3\/29\/football-offering-elite-prospect-camps.aspx",
+  "Coach info": "https:\/\/waynesburgsports.com\/sports\/2017\/5\/25\/football-coaching-staff.aspx"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Middletown, Connecticut",
+  "loc": "41.5623209,-72.6506488",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.wesleyan.edu\/",
+  "School": "Wesleyan University",
+  "Football Info": "https:\/\/athletics.wesleyan.edu\/sports\/football",
+  "Coach info": "https:\/\/athletics.wesleyan.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Danbury, Connecticut",
+  "loc": "41.394817,-73.4540111",
+  "Conference": "Little East Conference",
+  "Website": "https:\/\/www.wcsu.edu\/",
+  "School": "Western Connecticut State University",
+  "Football Info": "https:\/\/www.westconnfootball.org\/1daycamp",
+  "Coach info": "https:\/\/westconnathletics.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Springfield, Massachusetts",
+  "loc": "42.1014831,-72.589811",
+  "Conference": "Commonwealth Coast Football",
+  "Website": "https:\/\/www1.wne.edu\/",
+  "School": "Western New England University",
+  "Football Info": "https:\/\/www.wnegoldenbears.com\/sports\/fball\/2021-22\/WNE_Football_Junior_Camps",
+  "Coach info": "https:\/\/www.wnegoldenbears.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Westfield, Massachusetts",
+  "loc": "42.1250929,-72.749538",
+  "Conference": "Massachusetts State Collegiate Athletic",
+  "Website": "https:\/\/www.westfield.ma.edu\/",
+  "School": "Westfield State University",
+  "Football Info": "https:\/\/www.westfieldstateowls.com\/information\/camps\/fball",
+  "Coach info": "https:\/\/westfieldstateowls.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Fulton, Missouri",
+  "loc": "38.84670819999999,-91.94795859999999",
+  "Conference": "St. Louis Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.westminster.edu\/",
+  "School": "Westminster College – Missouri",
+  "Football Info": "https:\/\/www.bluejayfootballcamps.com\/padded-recruiting-camp.cfm",
+  "Coach info": "https:\/\/athletics.westminster.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "New Wilmington, Pennsylvania",
+  "loc": "41.1222812,-80.33284280000001",
+  "Conference": "Presidents' Athletic Conference",
+  "Website": "https:\/\/www.westminster.edu\/",
+  "School": "Westminster College – Pennsylvania",
+  "Football Info": "https:\/\/athletics.westminster.edu\/sports\/2015\/12\/7\/GEN_1207151702.aspx",
+  "Coach info": "https:\/\/athletics.westminster.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Wheaton, Illinois",
+  "loc": "41.8661403,-88.1070127",
+  "Conference": "College Conference of Illinois and Wisconsin",
+  "Website": "https:\/\/www.wheaton.edu\/",
+  "School": "Wheaton College – Illinois",
+  "Football Info": "https:\/\/athletics.wheaton.edu\/sports\/2009\/1\/22\/_0122091305.aspx",
+  "Coach info": "https:\/\/athletics.wheaton.edu\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Whittier, California",
+  "loc": "33.9791793,-118.032844",
+  "Conference": "Southern California Intercollegiate Athletic Conference",
+  "Website": "https:\/\/www.whittier.edu\/",
+  "School": "Whittier College",
+  "Football Info": "https:\/\/www.wcpoets.com\/information\/camps\/index",
+  "Coach info": "https:\/\/www.wcpoets.com\/information\/Staff_Directory\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Spokane, Washington",
+  "loc": "47.6587802,-117.4260466",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/www.whitworth.edu\/cms\/",
+  "School": "Whitworth University",
+  "Football Info": "https:\/\/whitworthpirates.com\/sports\/2021\/6\/4\/camps-football.aspx",
+  "Coach info": "https:\/\/whitworthpirates.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Chester, Pennsylvania",
+  "loc": "39.849557,-75.3557457",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.widener.edu\/",
+  "School": "Widener University",
+  "Football Info": "https:\/\/widenerpride.com\/sports\/2008\/8\/4\/GEN_0804082236.aspx",
+  "Coach info": "https:\/\/widenerpride.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Wilkes-Barre, Pennsylvania",
+  "loc": "41.2459149,-75.88130749999999",
+  "Conference": "Middle Atlantic Conferences",
+  "Website": "https:\/\/www.wilkes.edu\/",
+  "School": "Wilkes University",
+  "Football Info": "https:\/\/gowilkesu.com\/news\/2022\/4\/20\/wilkes-football-announces-4th-annual-elite-prospect-camps.aspx",
+  "Coach info": "https:\/\/gowilkesu.com\/sports\/football\/coaches"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Salem, Oregon",
+  "loc": "44.9428975,-123.0350963",
+  "Conference": "Northwest Conference",
+  "Website": "https:\/\/willamette.edu\/",
+  "School": "Willamette University",
+  "Football Info": "https:\/\/www.wubearcats.com\/camps\/index",
+  "Coach info": "https:\/\/www.wubearcats.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Wayne, New Jersey",
+  "loc": "40.92537249999999,-74.2765441",
+  "Conference": "New Jersey Athletic Conference",
+  "Website": "https:\/\/www.wpunj.edu\/",
+  "School": "William Paterson University of New Jersey",
+  "Football Info": "https:\/\/www.wpfootballcamps.com\/",
+  "Coach info": "https:\/\/www.wpupioneers.com\/sports\/2007\/10\/29\/FB_1029075025.aspx"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Williamstown, Massachusetts",
+  "loc": "42.7120196,-73.20368979999999",
+  "Conference": "New England Small College Athletic Conference",
+  "Website": "https:\/\/www.williams.edu\/",
+  "School": "Williams College",
+  "Football Info": "https:\/\/www.purpleandgoldfootballcamps.com\/",
+  "Coach info": "https:\/\/www.google.com\/search?q=Williams+College+++++++++++++++++++coaching+staff&rlz=1C1GCEA_enUS915US915&sxsrf=APwXEdft4OuIPwDSCI798DV-Xpw58_tY4A%3A1680933564669&ei=vAIxZOe2KJGbptQPh-uCgAE&ved=0ahUKEwjnhI3AzZn-AhWRjYkEHYe1ABAQ4dUDCBA&uact=5&oq=Williams+College+++++++++++++++++++coaching+staff&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQBxAeMgYIABAHEB4yCAgAEIoFEIYDMggIABCKBRCGA0oECEEYAFAAWABg9AFoAHABeACAAVKIAVKSAQExmAEAoAECoAEBwAEB&sclient=gws-wiz-serp"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Wilmington, Ohio",
+  "loc": "39.4453393,-83.8285375",
+  "Conference": "Ohio Athletic Conference",
+  "Website": "https:\/\/www.wilmington.edu\/",
+  "School": "Wilmington College",
+  "Football Info": "https:\/\/wilmington.prestosports.com\/camps\/summercamps",
+  "Coach info": "https:\/\/www.wilmingtonquakers.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Springfield, Ohio",
+  "loc": "39.9242266,-83.8088171",
+  "Conference": "North Coast Athletic Conference",
+  "Website": "https:\/\/www.wittenberg.edu\/",
+  "School": "Wittenberg University",
+  "Football Info": "https:\/\/wittenbergtigers.com\/camps\/camps-registration?id=3sbwsf2tyv780xqx",
+  "Coach info": "https:\/\/www.wittenbergtigers.com\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Private",
+  "City and State": "Worcester, Massachusetts",
+  "loc": "42.2625932,-71.8022934",
+  "Conference": "New England Women's & Men's Athletic Conference",
+  "Website": "https:\/\/www.wpi.edu\/",
+  "School": "Worcester Polytechnic Institute",
+  "Football Info": "https:\/\/athletics.wpi.edu\/CampsClinics\/index",
+  "Coach info": "https:\/\/athletics.wpi.edu\/sports\/fball\/coaches\/index"
+ },
+ {
+  "Type": "Public",
+  "City and State": "Worcester, Massachusetts",
+  "loc": "42.2625932,-71.8022934",
+  "Conference": "Massachusetts State Collegiate Athletic",
+  "Website": "https:\/\/www.worcester.edu\/",
+  "School": "Worcester State University",
+  "Football Info": "https:\/\/wellnesscenterportal.worcester.edu\/Program\/GetProgramDetails?courseId=1f79f500-4e28-4fe3-8ad1-ba63b08ac3c4&semesterId=96fb8770-2505-4098-8d58-2c31e2337a81",
+  "Coach info": "https:\/\/www.wsulancers.com\/sports\/fball\/coaches\/index"
+ }
+]
