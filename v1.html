@@ -243,7 +243,7 @@
         
         function searchSchools(event) {
   const input = event.target.value.trim().toLowerCase();
-  const url = 'https://athletesafter.github.io/json/Search_Collection';
+  const url = 'https://athletesafter.github.io/json/Search_Collection.json';
   fetch(url)
     .then(response => response.json())
     .then(data => {
@@ -507,6 +507,10 @@
             }
             document.getElementById('button-center').onclick = () => {
                 centerMap(map);
+                
+            }
+            document.getElementById('search').onclick = () => {
+                searchSchools(event);
             }
             centerMap(map);
 
@@ -525,7 +529,7 @@
     <input id="button-NAIA" type="button" value="NAIA" />
     <input id="button-Juco" type="button" value="Ju-Co" />
     <input id="button-center" type="button" value="Center Map on My Location" />
-    <input type="text" id="searchBox" oninput="searchSchools(event)" />
+    <input type="search" id="searchBox" oninput="searchSchools(event)" />
   <div id="suggestions"></div>
     
     <div id="map"></div>
