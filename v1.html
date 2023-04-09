@@ -243,7 +243,7 @@
         
         function searchSchools(event) {
   const input = event.target.value.trim().toLowerCase();
-  const url = 'Search_Collections.json';
+  const url = 'Search_Collection';
   fetch(url)
     .then(response => response.json())
     .then(data => {
