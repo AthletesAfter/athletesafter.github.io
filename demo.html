@@ -214,7 +214,7 @@
                         };
                         let details =
                             `<h2>${school['Name of School']}</h2><br/>
-                            <img src="${getIconUrl(school['Coach Info'], 128)}" width="128" height="128"/> <br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                             <strong> Conference: </strong>${school['Conference']}<br/>
                             <strong> Devison: </strong>${school['Devision']}<br/>
                             <strong> Status: </strong>${school['Public/Private']}<br/>
@@ -225,7 +225,7 @@
                          makeMarker(map, {
                             name: school['Name of School'],
                             latlng: latlng,
-                            url: school['Logo'],
+                            url: school['Website'],
                             details: details
                         })
                     } catch(error) {
