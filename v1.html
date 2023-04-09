@@ -509,8 +509,7 @@
                 centerMap(map);
                 
             }
-            document.getElementById('search').onclick = () => {
-                searchSchools(event);
+            document.getElementById('searchBox').addEventListener('input', searchSchools);
             }
             centerMap(map);
 
