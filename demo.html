@@ -151,7 +151,10 @@
                                 `<h2>${school['School']}</h2><br/>
                                 <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
                                 <strong>Conference:</strong>${school['Conference']}<br/>
-                                <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Website </a> </strong> <br />
+                                <strong> Status: </strong>${school['Type']}<br/>
+                                <strong> <a href="${school['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+                                <strong> <a href="${school['Football Info']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                                <strong> <a href="${school['Coach info']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Contact Information </a> </strong> <br />
                                 <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["School"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
                             makeMarker(map, {
                                 name: school['School'],
@@ -165,6 +168,7 @@
                     })
                 })
         };
+  
         function showNAIA(map) {  
             clear();
             fetch("https://athletesafter.github.io/json/NCSA_NAIA_Footaball.json")
