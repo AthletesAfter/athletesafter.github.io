@@ -240,41 +240,7 @@
                     })
                 })
         };
-        <script>
-  let jsonData = null; // variable to hold the loaded JSON data
 
-  // load the JSON data using fetch()
-  fetch('Search_Collection.json')
-    .then(response => response.json())
-    .then(data => jsonData = data);
-
-  function searchSchools(event) {
-    const searchBox = event.target;
-    const searchQuery = searchBox.value.toLowerCase();
-    const suggestionsDiv = document.getElementById('suggestions');
-
-    // clear any previous suggestions
-    suggestionsDiv.innerHTML = '';
-
-    if (searchQuery.length > 0) {
-      // search for matches in the JSON data
-      const matches = Object.values(jsonData)
-        .filter(school => school['Name of School'].toLowerCase().includes(searchQuery))
-        .slice(0, 4);
-
-      // display up to 4 suggestions
-      matches.forEach(school => {
-        const suggestion = document.createElement('div');
-        suggestion.innerText = school['Name of School'];
-        suggestion.addEventListener('click', () => makeMarker(school));
-        suggestionsDiv.appendChild(suggestion);
-      });
-    }
-  }
-
-  function makeMarker(school) {
-    // add code here to create a marker on the map using the school's location data
-  }
   
         
        
