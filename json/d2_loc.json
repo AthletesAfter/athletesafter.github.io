@@ -5,6 +5,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.adams.edu/",
     "Camp Link": "https://www.adamsstatefootballcamps.com/",
+    "Coach Info": "https://asugrizzlies.com/sports/football/coaches",
     "Adress": "Alamosa, Colorado",
     "loc": "37.4694491,-105.8700214"
   },
@@ -14,6 +15,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.asurams.edu/",
     "Camp Link": "https://football.albanystatesportscamps.com/",
+    "Coach Info": "https://asugoldenrams.com/sports/football/coaches",
     "Adress": "Albany, Georgia",
     "loc": "31.5785074,-84.15574099999999"
   },
@@ -23,6 +25,7 @@
     "Conference": "Great Midwest Athletic Conference",
     "Website": "https://ab.edu/",
     "Camp Link": "https://www.battlerfootballcamps.com/index.cfm",
+    "Coach Info": "https://gobattlers.com/sports/football/coaches",
     "Adress": "Philippi, West Virginia",
     "loc": "39.1523198,-80.0403578"
   },
@@ -32,6 +35,7 @@
     "Conference": "Appalachian Athletic Conference",
     "Website": "https://allenuniversity.edu/",
     "Camp Link": "https://auyellowjackets.com/sports/football",
+    "Coach Info": "https://auyellowjackets.com/sports/football/coaches",
     "Adress": "Columbia, South Carolina",
     "loc": "34.0007104,-81.0348144"
   },
@@ -40,7 +44,8 @@
     "Name": "American International College",
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.aic.edu/",
-    "Camp Link": "https://aicfootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.aicyellowjackets.com/sports/fball/index",
+    "Coach Info": "https://www.aicyellowjackets.com/sports/fball/coaches/index",
     "Adress": "Springfield, Massachusetts",
     "loc": "42.1014831,-72.589811"
   },
@@ -49,7 +54,8 @@
     "Name": "Anderson University – South Carolina",
     "Conference": "South Atlantic Conference",
     "Website": "https://andersonuniversity.edu/",
-    "Camp Link": "https://andersonfootballcamps.totalcamps.com/shop/product/167995",
+    "Camp Link": "https://andersonuniversity.edu/giving/trojan-athletic-fund/trojans-football",
+    "Coach Info": "https://www.autrojans.com/sports/fball/coaches/index",
     "Adress": "Anderson, South Carolina",
     "loc": "34.5034394,-82.6501332"
   },
@@ -59,6 +65,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://www.angelo.edu/",
     "Camp Link": "https://www.ramfootballcamps.com/",
+    "Coach Info": "https://angelosports.com/sports/football/coaches",
     "Adress": "San Angelo, Texas",
     "loc": "31.4637723,-100.4370375"
   },
@@ -68,6 +75,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.atu.edu/",
     "Camp Link": "https://www.wonderboyfootballcamps.com/",
+    "Coach Info": "https://arkansastechsports.com/sports/football/coaches",
     "Adress": "Russellville, Arkansas",
     "loc": "35.278116,-93.13370069999999"
   },
@@ -77,6 +85,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.ashland.edu/",
     "Camp Link": "https://goashlandeagles.com/sports/2020/5/20/camps-2014-15-Football-FOOTBALLCAMPS.aspx",
+    "Coach Info": "https://goashlandeagles.com/staff-directory",
     "Adress": "Ashland, Ohio",
     "loc": "40.8686675,-82.3182178"
   },
@@ -86,6 +95,7 @@
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.assumption.edu/",
     "Camp Link": "https://assumptionfootballcamps.totalcamps.com/About%20Us",
+    "Coach Info": "https://assumptiongreyhounds.com/sports/football/coaches",
     "Adress": "Worcester, Massachusetts",
     "loc": "42.2625932,-71.8022934"
   },
@@ -95,6 +105,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.augie.edu/",
     "Camp Link": "https://augustanafootballcamp.com/",
+    "Coach Info": "https://goaugie.com/sports/football/coaches",
     "Adress": "Sioux Falls, South Dakota",
     "loc": "43.5460223,-96.731265"
   },
@@ -104,6 +115,7 @@
     "Conference": "Conference Carolinas",
     "Website": "https://www.barton.edu/",
     "Camp Link": "https://bartonbulldogs.com/sports/football",
+    "Coach Info": "https://bartonbulldogs.com/sports/football/coaches",
     "Adress": "Wilson, North Carolina",
     "loc": "35.7212689,-77.9155395"
   },
@@ -113,6 +125,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.bemidjistate.edu/",
     "Camp Link": "https://bsubeavers.com/sports/2022/5/19/_132974727102352271.aspx#Football",
+    "Coach Info": "https://bsubeavers.com/sports/football/coaches",
     "Adress": "Bemidji, Minnesota",
     "loc": "47.471573,-94.8826861"
   },
@@ -122,6 +135,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.benedict.edu/",
     "Camp Link": "https://www.benedictcollegefootballcamps.com/",
+    "Coach Info": "https://benedicttigers.com/sports/football/coaches",
     "Adress": "Columbia, South Carolina",
     "loc": "34.0007104,-81.0348144"
   },
@@ -131,6 +145,7 @@
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.bentley.edu/",
     "Camp Link": "https://www.bentleyfalcons.com/sports/fball/2017-18/releases/20180321n0j96h",
+    "Coach Info": "https://www.bentleyfalcons.com/sports/fball/coaches/index",
     "Adress": "Waltham, Massachusetts",
     "loc": "42.3764852,-71.2356113"
   },
@@ -139,7 +154,8 @@
     "Name": "Black Hills State University",
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.bhsu.edu/",
-    "Camp Link": "https://camps.jumpforward.com/bhsufb",
+    "Camp Link": "https://www.bhsu.edu/about-bhsu/community/summer-camps/",
+    "Coach Info": "https://bhsuathletics.com/sports/football/coaches",
     "Adress": "Spearfish, South Dakota",
     "loc": "44.4908172,-103.8593698"
   },
@@ -149,6 +165,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.bloomu.edu/",
     "Camp Link": "https://www.buhuskiescamps.com/",
+    "Coach Info": "https://buhuskies.com/sports/football/coaches",
     "Adress": "Bloomsburg, Pennsylvania",
     "loc": "41.003698,-76.4549457"
   },
@@ -158,6 +175,7 @@
     "Conference": "Independent Southeast Region",
     "Website": "https://bluefieldstate.edu/",
     "Camp Link": "https://www.tonycoaxumfootballcamp.com/",
+    "Coach Info": "https://gobstate.com/sports/football/coaches",
     "Adress": "Bluefield, West Virginia",
     "loc": "37.2698395,-81.2223195"
   },
@@ -167,6 +185,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.bowiestate.edu/",
     "Camp Link": "https://community.bowiestate.edu/s/1266/bp18/interior.aspx?sid=1266&gid=1&pgid=810&cid=1665&ecid=1665",
+    "Coach Info": "https://bsubulldogs.com/sports/football/coaches",
     "Adress": "Bowie, Maryland",
     "loc": "39.0067768,-76.77913649999999"
   },
@@ -176,6 +195,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.calu.edu/",
     "Camp Link": "https://calvulcans.com/sports/2022/1/25/camps-clinics-summer-2022.aspx",
+    "Coach Info": "https://calvulcans.com/sports/football/coaches",
     "Adress": "California, Pennsylvania",
     "loc": "40.0656291,-79.8917139"
   },
@@ -185,6 +205,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.cn.edu/",
     "Camp Link": "https://www.cneagles.com/sports/m-footbl/2021-22/releases/20220530l2bbjf",
+    "Coach Info": "https://www.cneagles.com/sports/m-footbl/coaches/index",
     "Adress": "Jefferson City, Tennessee",
     "loc": "36.122311,-83.492396"
   },
@@ -194,6 +215,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.catawba.edu/",
     "Camp Link": "https://catawba.edu/community/summer-camps/",
+    "Coach Info": "https://www.catawbaathletics.com/sports/fball/coaches/index",
     "Adress": "Salisbury, North Carolina",
     "loc": "35.6709727,-80.4742261"
   },
@@ -203,6 +225,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.centralstate.edu/",
     "Camp Link": "https://www.centralstate.edu/camp/",
+    "Coach Info": "https://maraudersports.com/sports/football/coaches",
     "Adress": "Wilberforce, Ohio",
     "loc": "39.716171,-83.8777063"
   },
@@ -212,6 +235,7 @@
     "Conference": "Great Northwest Athletic Conference",
     "Website": "http://www.cwu.edu/",
     "Camp Link": "https://wildcatsports.com/sports/2022/4/26/cwu-football-camps",
+    "Coach Info": "https://wildcatsports.com/sports/football/coaches",
     "Adress": "Ellensburg, Washington",
     "loc": "46.9965144,-120.5478474"
   },
@@ -221,6 +245,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.centralstate.edu/",
     "Camp Link": "https://www.cscfootballcamps.com/team-camp.cfm",
+    "Coach Info": "https://chadroneagles.com/sports/football/coaches",
     "Adress": "Chadron, Nebraska",
     "loc": "42.8293845,-103.000642"
   },
@@ -229,7 +254,8 @@
     "Name": "Chowan University",
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.chowan.edu/",
-    "Camp Link": "https://info.abcsportscamps.com/chowanfb",
+    "Camp Link": "https://gocuhawks.com/sports/football",
+    "Coach Info": "https://gocuhawks.com/sports/football/coaches",
     "Adress": "Murfreesboro, North Carolina",
     "loc": "36.4423754,-77.0985752"
   },
@@ -239,6 +265,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.clarion.edu/",
     "Camp Link": "https://clariongoldeneagles.com/sports/camps",
+    "Coach Info": "https://clariongoldeneagles.com/sports/football/coaches",
     "Adress": "Clarion, Pennsylvania",
     "loc": "41.2147851,-79.3853218"
   },
@@ -248,6 +275,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.cau.edu/",
     "Camp Link": "https://clarkatlantasports.com/news/2018/6/1/general-cau-football-to-host-camp-with-coaches-from-ohio-state-on-june-13.aspx",
+    "Coach Info": "https://clarkatlantasports.com/sports/football/coaches",
     "Adress": "Atlanta, Georgia",
     "loc": "33.748752,-84.38768449999999"
   },
@@ -257,6 +285,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.coloradomesa.edu/",
     "Camp Link": "https://cmumavericks.com/sports/2008/11/14/GEN_1114081724.aspx",
+    "Coach Info": "https://cmumavericks.com/sports/football/coaches",
     "Adress": "Grand Junction, Colorado",
     "loc": "39.0638705,-108.5506486"
   },
@@ -266,6 +295,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.mines.edu/",
     "Camp Link": "https://minesathletics.com/sports/2018/1/22/camps.aspx",
+    "Coach Info": "https://minesathletics.com/sports/football/coaches",
     "Adress": "Golden, Colorado",
     "loc": "39.755543,-105.2210997"
   },
@@ -275,6 +305,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.csupueblo.edu/",
     "Camp Link": "https://www.packfootballcamps.com/",
+    "Coach Info": "https://gothunderwolves.com/sports/football/coaches",
     "Adress": "Pueblo, Colorado",
     "loc": "38.2544472,-104.6091409"
   },
@@ -284,6 +315,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.concord.edu/",
     "Camp Link": "https://cumountainlions.com/news/2021/6/7/football-camps-set-for-july-17-25.aspx",
+    "Coach Info": "https://cumountainlions.com/sports/football/coaches",
     "Adress": "Athens, West Virginia",
     "loc": "37.4223414,-81.0161994"
   },
@@ -293,6 +325,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.csp.edu/",
     "Camp Link": "https://cspbears.com/sports/2012/6/28/FB_0628125104.aspx",
+    "Coach Info": "https://cspbears.com/sports/football/coaches",
     "Adress": "Saint Paul, Minnesota",
     "loc": "44.9537029,-93.0899578"
   },
@@ -302,6 +335,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.davenport.edu/",
     "Camp Link": "https://dupanthers.com/sports/2016/2/4/footballcamp.aspx?id=236",
+    "Coach Info": "https://dupanthers.com/sports/football/coaches",
     "Adress": "Grand Rapids, Michigan",
     "loc": "42.9633599,-85.6680863"
   },
@@ -311,6 +345,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.deltastate.edu/",
     "Camp Link": "http://www.deltastatefootballcamps.com/About%20Us",
+    "Coach Info": "https://gostatesmen.com/sports/football/coaches",
     "Adress": "Cleveland, Mississippi",
     "loc": "33.7440023,-90.7248187"
   },
@@ -320,6 +355,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.ecok.edu/",
     "Camp Link": "https://www.ecufootballcamp.com/",
+    "Coach Info": "https://ecutigers.com/sports/football/coaches",
     "Adress": "Ada, Oklahoma",
     "loc": "34.774531,-96.6783449"
   },
@@ -329,6 +365,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.esu.edu/",
     "Camp Link": "https://football.esuwarriorcamps.com/",
+    "Coach Info": "https://esuwarriors.com/sports/football/coaches",
     "Adress": "East Stroudsburg, Pennsylvania",
     "loc": "41.0030522,-75.1817547"
   },
@@ -338,6 +375,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://www.enmu.edu/",
     "Camp Link": "https://easternnewmexicofootballcamps.totalcamps.com/About%20Us",
+    "Coach Info": "https://goeasternathletics.com/sports/football/coaches",
     "Adress": "Portales, New Mexico",
     "loc": "34.1861922,-103.3343978"
   },
@@ -347,6 +385,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.edinboro.edu/",
     "Camp Link": "https://gofightingscots.com/sports/2021/5/12/sports-camps.aspx",
+    "Coach Info": "https://gofightingscots.com/staff-directory",
     "Adress": "Edinboro, Pennsylvania",
     "loc": "41.87422249999999,-80.1317236"
   },
@@ -355,7 +394,8 @@
     "Name": "Edward Waters University",
     "Conference": "Mid-South Conference",
     "Website": "https://www.ew.edu/",
-    "Camp Link": "https://register.ryzer.com/camp.cfm?id=213847",
+    "Camp Link": "https://ewutigerpride.com/sports/football",
+    "Coach Info": "https://ewutigerpride.com/sports/football/coaches/2022",
     "Adress": "Jacksonville, Florida",
     "loc": "30.3321838,-81.65565099999999"
   },
@@ -365,6 +405,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "http://www.ecsu.edu/",
     "Camp Link": "https://ecsuvikings.com/sports/football",
+    "Coach Info": "https://ecsuvikings.com/sports/football/coaches",
     "Adress": "Elizabeth City, North Carolina",
     "loc": "36.2946008,-76.2510461"
   },
@@ -374,6 +415,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.emporia.edu/",
     "Camp Link": "https://www.esuhornetfootballcamps.com/emporia-state-showcase-camps.cfm",
+    "Coach Info": "https://esuhornets.com/sports/football/coaches",
     "Adress": "Emporia, Kansas",
     "loc": "38.403903,-96.18166260000001"
   },
@@ -383,6 +425,7 @@
     "Conference": "Conference Carolinas",
     "Website": "https://www.erskine.edu/",
     "Camp Link": "https://erskinesports.com/sports/2021/5/6/football-future-fleet-day",
+    "Coach Info": "https://erskinesports.com/sports/football/coaches",
     "Adress": "Due West, South Carolina",
     "loc": "34.3334469,-82.387902"
   },
@@ -391,7 +434,8 @@
     "Name": "Fairmont State University",
     "Conference": "Mountain East Conference",
     "Website": "https://www.erskine.edu/",
-    "Camp Link": "https://erskinesports.com/sb_output.aspx?form=3",
+    "Camp Link": "https://www.fairmontstcamps.com/",
+    "Coach Info": "https://fightingfalcons.com/sports/football/coaches",
     "Adress": "Fairmont, West Virginia",
     "loc": "39.4850848,-80.1425781"
   },
@@ -401,6 +445,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.uncfsu.edu/",
     "Camp Link": "https://fsubroncos.com/sports/2018/5/25/camps-index-html.aspx",
+    "Coach Info": "https://fsubroncos.com/sports/football/coaches",
     "Adress": "Fayetteville, North Carolina",
     "loc": "35.0526641,-78.87835849999999"
   },
@@ -410,6 +455,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.ferris.edu/",
     "Camp Link": "https://www.ferrisstatebulldogs.com/camps/footballcamps",
+    "Coach Info": "https://www.ferrisstatebulldogs.com/sports/fball/coaches/index",
     "Adress": "Big Rapids, Michigan",
     "loc": "43.6980782,-85.4836557"
   },
@@ -419,6 +465,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.fhsu.edu/",
     "Camp Link": "https://fhsuathletics.com/sports/2010/7/8/FB_0708104858.aspx",
+    "Coach Info": "https://fhsuathletics.com/sports/football/coaches",
     "Adress": "Hays, Kansas",
     "loc": "38.8791783,-99.3267702"
   },
@@ -428,6 +475,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.fortlewis.edu/",
     "Camp Link": "https://goskyhawks.com/sports/2021/6/16/msoc-camps-page.aspx",
+    "Coach Info": "https://goskyhawks.com/sports/football/coaches",
     "Adress": "Durango, Colorado",
     "loc": "37.27528,-107.8800667"
   },
@@ -437,6 +485,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.fvsu.edu/",
     "Camp Link": "https://www.fvsu.edu/wildcat-football-camp-registration/",
+    "Coach Info": "https://fvsusports.com/sports/football/coaches",
     "Adress": "Fort Valley, Georgia",
     "loc": "32.5537585,-83.8874084"
   },
@@ -446,6 +495,7 @@
     "Conference": "Other",
     "Website": "https://www.franklinpierce.edu/",
     "Camp Link": "https://www.fpuravens.com/sports/fball/index",
+    "Coach Info": "https://www.fpuravens.com/sports/fball/coaches/index",
     "Adress": "Rindge, New Hampshire",
     "loc": "42.7511964,-72.0098021"
   },
@@ -455,6 +505,7 @@
     "Conference": "New Jersey Athletic Conference",
     "Website": "https://www.frostburg.edu/",
     "Camp Link": "https://frostburgsports.com/sports/2022/7/1/frostburg-camps.aspx",
+    "Coach Info": "https://frostburgsports.com/sports/football/coaches",
     "Adress": "Frostburg, Maryland",
     "loc": "39.6581424,-78.92835699999999"
   },
@@ -464,6 +515,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.gannon.edu/",
     "Camp Link": "https://gannonfootballcamps.totalcamps.com/About%20Us",
+    "Coach Info": "https://gannonsports.com/sports/football/coaches",
     "Adress": "Erie, Pennsylvania",
     "loc": "42.12922409999999,-80.085059"
   },
@@ -473,6 +525,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.glenville.edu/",
     "Camp Link": "https://www.glenville.edu/",
+    "Coach Info": "https://gstatepioneers.com/sports/football/coaches",
     "Adress": "Glenville, West Virginia",
     "loc": "38.9342573,-80.8376033"
   },
@@ -482,6 +535,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.gvsu.edu/",
     "Camp Link": "https://www.grandvalleystatefootballcamps.com/",
+    "Coach Info": "https://gvsulakers.com/sports/football/coaches",
     "Adress": "Allendale, Michigan",
     "loc": "42.97218609999999,-85.95402179999999"
   },
@@ -491,6 +545,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.harding.edu/",
     "Camp Link": "https://www.hardingfootballcamps.com/",
+    "Coach Info": "https://hardingsports.com/sports/football/coaches",
     "Adress": "Searcy, Arkansas",
     "loc": "35.2437536,-91.7364422"
   },
@@ -499,7 +554,8 @@
     "Name": "Henderson State University",
     "Conference": "Great American Conference",
     "Website": "https://www.hsu.edu/",
-    "Camp Link": "https://camps.jumpforward.com/reddiefootball",
+    "Camp Link": "https://hsusports.com/sports/2012/4/5/GEN_0405124557.aspx",
+    "Coach Info": "https://hsusports.com/sports/football/coaches",
     "Adress": "Arkadelphia, Arkansas",
     "loc": "34.120994,-93.053544"
   },
@@ -508,7 +564,8 @@
     "Name": "Hillsdale College",
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.hillsdale.edu/",
-    "Camp Link": "https://hillsdalecollegefootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.hillsdalechargers.com/athletics/camps",
+    "Coach Info": "https://www.hillsdalechargers.com/sports/fball/coaches/index",
     "Adress": "Hillsdale, Michigan",
     "loc": "41.9200472,-84.6305101"
   },
@@ -518,6 +575,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.iup.edu/",
     "Camp Link": "https://ep01.iup.edu/C20877_ustores/web/store_cat.jsp?STOREID=9&CATID=134",
+    "Coach Info": "https://iupathletics.com/sports/football/coaches",
     "Adress": "Indiana, Pennsylvania",
     "loc": "40.6214551,-79.15253489999999"
   },
@@ -527,6 +585,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.jcsu.edu/",
     "Camp Link": "https://goldenbullsports.com/news/2018/6/7/jcsu-football-to-host-three-summer-camps.aspx",
+    "Coach Info": "https://goldenbullsports.com/sports/football/coaches",
     "Adress": "Charlotte, North Carolina",
     "loc": "35.2270869,-80.8431267"
   },
@@ -536,6 +595,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.kysu.edu/",
     "Camp Link": "https://ksuthorobreds.com/sports/camps-and-clinics",
+    "Coach Info": "https://ksuthorobreds.com/sports/football/coaches",
     "Adress": "Frankfort, Kentucky",
     "loc": "38.2009055,-84.87328350000001"
   },
@@ -545,6 +605,7 @@
     "Conference": "Great Midwest Athletic Conference",
     "Website": "https://kwc.edu/",
     "Camp Link": "https://kwc.edu/fbprospectcamp/",
+    "Coach Info": "https://kwcpanthers.com/sports/football/coaches",
     "Adress": "Owensboro, Kentucky",
     "loc": "37.7719074,-87.1111676"
   },
@@ -554,6 +615,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.kutztown.edu/",
     "Camp Link": "https://kutztownusportscamps.com/",
+    "Coach Info": "https://kubears.com/sports/football/coaches",
     "Adress": "Kutztown, Pennsylvania",
     "loc": "40.5173165,-75.7774177"
   },
@@ -563,6 +625,7 @@
     "Conference": "Great Midwest Athletic Conference",
     "Website": "https://www.lec.edu/",
     "Camp Link": "https://lakeeriestorm.com/sports/2022/12/12/lake-erie-college-summer-camps.aspx",
+    "Coach Info": "https://lakeeriestorm.com/sports/football/coaches",
     "Adress": "Painesville, Ohio",
     "loc": "41.7244885,-81.245657"
   },
@@ -572,6 +635,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.lanecollege.edu/",
     "Camp Link": "https://golcdragons.com/sports/football",
+    "Coach Info": "https://golcdragons.com/staff-directory",
     "Adress": "Jackson, Tennessee",
     "loc": "35.6145169,-88.81394689999999"
   },
@@ -581,6 +645,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.lr.edu/",
     "Camp Link": "https://www.mikejacobsfootballcamps.com/",
+    "Coach Info": "https://lrbears.com/sports/football/coaches",
     "Adress": "Hickory, North Carolina",
     "loc": "35.7344538,-81.3444573"
   },
@@ -590,6 +655,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.limestone.edu/",
     "Camp Link": "http://www.limestonefbcamps.com/About%20Us",
+    "Coach Info": "https://golimestonesaints.com/sports/football/coaches",
     "Adress": "Gaffney, South Carolina",
     "loc": "35.0717945,-81.64981949999999"
   },
@@ -599,6 +665,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.lincolnu.edu/",
     "Camp Link": "https://lubluetigers.com/news/2022/10/26/softball-to-host-prospect-camp-on-nov-5-nov-13.aspx",
+    "Coach Info": "https://lubluetigers.com/sports/football/coaches",
     "Adress": "Jefferson City, Missouri",
     "loc": "38.57670170000001,-92.1735164"
   },
@@ -607,7 +674,8 @@
     "Name": "Lincoln University Pennsylvania",
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.lincoln.edu/",
-    "Camp Link": "https://www.collegefootballprospectid.com/lincoln-university-pa.cfm",
+    "Camp Link": "https://lulions.com/sports/football",
+    "Coach Info": "https://lulions.com/sports/football/coaches",
     "Adress": "Lincoln University, Pennsylvania",
     "loc": "39.8086987,-75.9270918"
   },
@@ -617,6 +685,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "http://livingstone.edu/",
     "Camp Link": "https://www.bluebearcamps.com/",
+    "Coach Info": "https://bluebearathletics.com/sports/football/coaches",
     "Adress": "Salisbury, North Carolina",
     "loc": "35.6709727,-80.4742261"
   },
@@ -625,7 +694,8 @@
     "Name": "Lock Haven University",
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.lockhaven.edu/",
-    "Camp Link": "https://lhufootball.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.golhu.com/news/2023/2/9/football-announces-spring-summer-camp-dates.aspx",
+    "Coach Info": "https://www.golhu.com/sports/football/coaches",
     "Adress": "Lock Haven, Pennsylvania",
     "loc": "41.1370133,-77.4469263"
   },
@@ -634,7 +704,8 @@
     "Name": "Mars Hill University",
     "Conference": "South Atlantic Conference",
     "Website": "https://www.mhu.edu/",
-    "Camp Link": "https://marshillfootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.marshilllions.com/sports/fball/headlines-featured",
+    "Coach Info": "https://www.marshilllions.com/athletics/directory/index",
     "Adress": "Mars Hill, North Carolina",
     "loc": "35.82649809999999,-82.5492999"
   },
@@ -644,6 +715,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.mckendree.edu/",
     "Camp Link": "https://football.mckendreecamps.com/",
+    "Coach Info": "https://mckbearcats.com/sports/football/coaches",
     "Adress": "Lebanon, Illinois",
     "loc": "38.6039375,-89.80731949999999"
   },
@@ -653,6 +725,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.mercyhurst.edu/",
     "Camp Link": "https://go.mercyhurst.edu/register/?id=9480f45a-06ac-4229-95d7-22d27bc789e7",
+    "Coach Info": "https://hurstathletics.com/sports/football/coaches",
     "Adress": "Erie, Pennsylvania",
     "loc": "42.12922409999999,-80.085059"
   },
@@ -662,6 +735,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.mtu.edu/",
     "Camp Link": "https://www.michigantechhuskies.com/sports/fball/2021-22/releases/20220411kj8z9y",
+    "Coach Info": "https://www.michigantechhuskies.com/sports/fball/coaches/index",
     "Adress": "Houghton, Michigan",
     "loc": "47.12113309999999,-88.5694182"
   },
@@ -671,6 +745,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://msutexas.edu/",
     "Camp Link": "https://msumustangs.com/sports/2022/3/10/2022-midwestern-state-summer-camps.aspx",
+    "Coach Info": "https://msumustangs.com/sports/football/coaches",
     "Adress": "Wichita Falls, Texas",
     "loc": "33.9137085,-98.4933873"
   },
@@ -680,6 +755,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.miles.edu/",
     "Camp Link": "https://milesgoldenbears.com/sports/football",
+    "Coach Info": "https://milesgoldenbears.com/sports/football/coaches",
     "Adress": "Fairfield, Alabama",
     "loc": "33.4859402,-86.91193659999999"
   },
@@ -688,7 +764,8 @@
     "Name": "Millersville University of Pennsylvania",
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.millersville.edu/",
-    "Camp Link": "https://millersvillefootball.totalcamps.com/About%20Us",
+    "Camp Link": "https://millersvilleathletics.com/sports/2008/7/16/footballcamps.aspx?id=20",
+    "Coach Info": "https://millersvilleathletics.com/sports/football/coaches",
     "Adress": "Millersville, Pennsylvania",
     "loc": "39.9978764,-76.3541274"
   },
@@ -698,6 +775,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.mnsu.edu/",
     "Camp Link": "https://msumavericks.com/sports/2016/1/20/FB_0120160239.aspx",
+    "Coach Info": "https://msumavericks.com/sports/football/coaches",
     "Adress": "Mankato, Minnesota",
     "loc": "44.1635775,-93.99939959999999"
   },
@@ -707,6 +785,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.mnstate.edu/",
     "Camp Link": "https://www.msumdragons.com/sports/2013/3/25/FB_0325130628.aspx",
+    "Coach Info": "https://www.msumdragons.com/sports/football/coaches",
     "Adress": "Moorhead, Minnesota",
     "loc": "46.8737648,-96.76780389999999"
   },
@@ -715,7 +794,8 @@
     "Name": "Minot State University",
     "Conference": "Northern Sun Intercollegiate Conference (NCAA Division II)",
     "Website": "https://www.minotstateu.edu/",
-    "Camp Link": "https://camps.jumpforward.com/minotstatefootballcamps",
+    "Camp Link": "https://minotstate-ndus.nbsstore.net/football-camps",
+    "Coach Info": "https://msubeavers.com/sports/football/coaches",
     "Adress": "Minot, North Dakota",
     "loc": "48.2329668,-101.2922906"
   },
@@ -725,6 +805,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.mc.edu/",
     "Camp Link": "https://www.mc.edu/offices/ce/summer-camps",
+    "Coach Info": "https://www.gochoctaws.com/sports/football/coaches",
     "Adress": "Clinton, Mississippi",
     "loc": "32.3415342,-90.3217585"
   },
@@ -733,7 +814,8 @@
     "Name": "Missouri Southern State University",
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.mssu.edu/",
-    "Camp Link": "https://mssufootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://mssulions.com/sports/football",
+    "Coach Info": "https://mssulions.com/sports/football/coaches",
     "Adress": "Joplin, Missouri",
     "loc": "37.08422710000001,-94.51328099999999"
   },
@@ -743,6 +825,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.mst.edu/",
     "Camp Link": "https://www.minerfootballcamps.com/",
+    "Coach Info": "https://minerathletics.com/sports/football/coaches",
     "Adress": "Rolla, Missouri",
     "loc": "37.948544,-91.7715303"
   },
@@ -752,6 +835,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.missouriwestern.edu/",
     "Camp Link": "https://www.griffonfootballcamps.com/",
+    "Coach Info": "https://gogriffons.com/sports/football/coaches",
     "Adress": "St. Joseph, Missouri",
     "loc": "39.7674578,-94.84668099999999"
   },
@@ -761,6 +845,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://morehouse.edu/",
     "Camp Link": "https://morehouseathletics.com/news/2022/5/30/2022-rich-freeman-football-summer-camps.aspx",
+    "Coach Info": "https://morehouseathletics.com/sports/football/coaches",
     "Adress": "Atlanta, Georgia",
     "loc": "33.748752,-84.38768449999999"
   },
@@ -770,6 +855,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.nmhu.edu/",
     "Camp Link": "https://nmhuathletics.com/sports/football",
+    "Coach Info": "https://nmhuathletics.com/sports/football/coaches",
     "Adress": "Las Vegas, New Mexico",
     "loc": "35.5942137,-105.2227978"
   },
@@ -779,6 +865,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.newberry.edu/",
     "Camp Link": "https://www.newberryfootballcamps.com/",
+    "Coach Info": "https://newberrywolves.com/sports/football/coaches",
     "Adress": "Newberry, South Carolina",
     "loc": "34.2745833,-81.6187178"
   },
@@ -787,7 +874,8 @@
     "Name": "North Greenville University",
     "Conference": "Gulf South Conference",
     "Website": "https://ngu.edu/",
-    "Camp Link": "https://ngufootballcamps.godaddysites.com/",
+    "Camp Link": "https://greenville.prestosports.com/camps",
+    "Coach Info": "https://www.nguathletics.com/sports/football/coaches",
     "Adress": "Tigerville, South Carolina",
     "loc": "35.06997680000001,-82.36904109999999"
   },
@@ -797,6 +885,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.nsuok.edu/",
     "Camp Link": "https://goriverhawksgo.com/news/2021/5/10/nsu-football-announces-summer-camp-dates.aspx",
+    "Coach Info": "https://goriverhawksgo.com/sports/football/coaches",
     "Adress": "Tahlequah, Oklahoma",
     "loc": "35.91537,-94.969956"
   },
@@ -806,6 +895,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://nmu.edu/",
     "Camp Link": "https://nmuwildcats.com/sports/2021/8/16/camps.aspx",
+    "Coach Info": "https://nmuwildcats.com/sports/football/coaches",
     "Adress": "Marquette, Michigan",
     "loc": "46.5436199,-87.3953713"
   },
@@ -815,6 +905,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://northern.edu/",
     "Camp Link": "https://www.northernstatefootballcamps.com/",
+    "Coach Info": "https://nsuwolves.com/sports/football/coaches",
     "Adress": "Aberdeen, South Dakota",
     "loc": "45.4646985,-98.4864829"
   },
@@ -824,6 +915,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.nwmissouri.edu/",
     "Camp Link": "https://www.bearcatfootballcamps.com/individual-camp.cfm",
+    "Coach Info": "https://bearcatsports.com/sports/football/coaches",
     "Adress": "Maryville, Missouri",
     "loc": "40.3461017,-94.8724706"
   },
@@ -833,6 +925,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.nwosu.edu/",
     "Camp Link": "https://riderangersride.com/sports/2018/3/28/camps.aspx",
+    "Coach Info": "https://riderangersride.com/sports/football/coaches/2015",
     "Adress": "Alva, Oklahoma",
     "loc": "36.8050308,-98.6664737"
   },
@@ -842,6 +935,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.northwood.edu/",
     "Camp Link": "https://camps.jumpforward.com/northwoodfootball",
+    "Coach Info": "https://www.gonorthwood.com/sports/fball/coaches/index",
     "Adress": "Midland, Michigan",
     "loc": "43.6155825,-84.2472116"
   },
@@ -850,7 +944,8 @@
     "Name": "Notre Dame College",
     "Conference": "Mountain East Conference",
     "Website": "https://www.notredamecollege.edu/",
-    "Camp Link": "https://und.com/sports/footballcamps/",
+    "Camp Link": "https://www.notredamecollege.edu/",
+    "Coach Info": "https://notredamefalcons.com/sports/football/coaches",
     "Adress": "Cleveland, Ohio",
     "loc": "41.49932,-81.6943605"
   },
@@ -860,6 +955,7 @@
     "Conference": "Great Midwest Athletic Conference",
     "Website": "https://www.ohiodominican.edu/",
     "Camp Link": "https://camps.jumpforward.com/ohiodominicanfootballcamps",
+    "Coach Info": "https://www.ohiodominicanpanthers.com/sports/fball/coaches/index",
     "Adress": "Columbus, Ohio",
     "loc": "39.9611755,-82.99879419999999"
   },
@@ -869,6 +965,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.okbu.edu/",
     "Camp Link": "https://camps.jumpforward.com/obufootballcamps",
+    "Coach Info": "https://obubison.com/sports/football/coaches",
     "Adress": "Shawnee, Oklahoma",
     "loc": "35.3272928,-96.9253004"
   },
@@ -878,6 +975,7 @@
     "Conference": "Great American Conference",
     "Website": "https://obu.edu/",
     "Camp Link": "https://www.ouachitatigerfootballcamps.com/",
+    "Coach Info": "https://obutigers.com/sports/football/coaches",
     "Adress": "Arkadelphia, Arkansas",
     "loc": "34.120994,-93.053544"
   },
@@ -887,6 +985,7 @@
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.pace.edu/",
     "Camp Link": "https://www.andyrondeaufootballcamps.com/",
+    "Coach Info": "https://paceuathletics.com/sports/football/coaches",
     "Adress": "New York, New York",
     "loc": "40.7127753,-74.0059728"
   },
@@ -896,6 +995,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.pittstate.edu/",
     "Camp Link": "https://pittstategorillas.com/news/2022/4/6/2022-brian-wright-football-camps-schedule-released.aspx",
+    "Coach Info": "https://pittstategorillas.com/sports/football/coaches",
     "Adress": "Pittsburg, Kansas",
     "loc": "37.410884,-94.70496"
   },
@@ -905,6 +1005,7 @@
     "Conference": "Central Atlantic Collegiate Conference (Division II)",
     "Website": "https://post.edu/",
     "Camp Link": "https://posteagles.com/sports/2019/9/1/eagles-prospect-clinic.aspx",
+    "Coach Info": "https://posteagles.com/sports/football/coaches",
     "Adress": "Waterbury, Connecticut",
     "loc": "41.5581525,-73.0514965"
   },
@@ -914,6 +1015,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.quincy.edu/",
     "Camp Link": "https://www.quincyfootballcamps.com/",
+    "Coach Info": "https://quhawks.com/sports/football/coaches",
     "Adress": "Quincy, Illinois",
     "loc": "39.9356016,-91.4098726"
   },
@@ -922,7 +1024,8 @@
     "Name": "Saginaw Valley State University",
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.svsu.edu/",
-    "Camp Link": "https://svsufootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.svsuathleticscamps.com/",
+    "Coach Info": "https://www.svsucardinals.com/sports/fball/coaches/index",
     "Adress": "University Center, Michigan",
     "loc": "43.5375937,-83.984501"
   },
@@ -932,6 +1035,7 @@
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.anselm.edu/",
     "Camp Link": "https://www.firstandgoalsportscamps.com/content/camps/2023-saint-anselm-college-youth-football-camp",
+    "Coach Info": "https://saintanselmhawks.com/sports/football/coaches",
     "Adress": "Manchester, New Hampshire",
     "loc": "42.9956397,-71.4547891"
   },
@@ -941,6 +1045,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.st-aug.edu/",
     "Camp Link": "https://saintaugfalcons.com/sports/2022/3/23/football-prospect-camp.aspx?path=football",
+    "Coach Info": "https://saintaugfalcons.com/sports/football/coaches",
     "Adress": "Raleigh, North Carolina",
     "loc": "35.7795897,-78.6381787"
   },
@@ -949,7 +1054,8 @@
     "Name": "Savannah State University",
     "Conference": "Mid-Eastern Athletic Conference",
     "Website": "https://www.savannahstate.edu/",
-    "Camp Link": "https://info.abcsportscamps.com/ssufootball",
+    "Camp Link": "https://ssuathletics.com/sports/football",
+    "Coach Info": "https://ssuathletics.com/sports/football/coaches",
     "Adress": "Savannah, Georgia",
     "loc": "32.0808989,-81.091203"
   },
@@ -959,6 +1065,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.setonhill.edu/",
     "Camp Link": "https://athletics.setonhill.edu/sports/2017/5/9/football-camps.aspx",
+    "Coach Info": "https://athletics.setonhill.edu/sports/football/coaches",
     "Adress": "Greensburg, Pennsylvania",
     "loc": "40.3014581,-79.5389289"
   },
@@ -968,6 +1075,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.shawu.edu/",
     "Camp Link": "https://www.shawcamps.com/",
+    "Coach Info": "https://shawbears.com/staff-directory",
     "Adress": "Raleigh, North Carolina",
     "loc": "35.7795897,-78.6381787"
   },
@@ -977,6 +1085,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.shepherd.edu/",
     "Camp Link": "https://www.shepherdathleticcamps.com/",
+    "Coach Info": "https://shepherdrams.com/sports/football/coaches",
     "Adress": "Shepherdstown, West Virginia",
     "loc": "39.4300996,-77.8041609"
   },
@@ -986,6 +1095,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.ship.edu/",
     "Camp Link": "https://shipraiders.com/sports/2022/3/24/fbprospect22.aspx",
+    "Coach Info": "https://shipraiders.com/sports/football/coaches",
     "Adress": "Shippensburg, Pennsylvania",
     "loc": "40.0506453,-77.5202647"
   },
@@ -995,6 +1105,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.shorter.edu/",
     "Camp Link": "https://goshorterhawks.com/sb_output.aspx?form=14",
+    "Coach Info": "https://goshorterhawks.com/sports/football/coaches",
     "Adress": "Rome, Georgia",
     "loc": "34.257038,-85.1646726"
   },
@@ -1004,6 +1115,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.sru.edu/",
     "Camp Link": "https://rockathletics.com/news/2023/2/21/football-rock-football-to-host-two-summer-prospect-camps.aspx",
+    "Coach Info": "https://rockathletics.com/sports/football/coaches",
     "Adress": "Slippery Rock, Pennsylvania",
     "loc": "41.0639506,-80.0564468"
   },
@@ -1013,6 +1125,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://www.sdsmt.edu/",
     "Camp Link": "https://www.hardrockerfootballcamps.com/",
+    "Coach Info": "https://gorockers.com/sports/football/coaches",
     "Adress": "Rapid City, South Dakota",
     "loc": "44.0805434,-103.2310149"
   },
@@ -1022,6 +1135,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.se.edu/",
     "Camp Link": "https://www.savagestormfootballcamps.com/",
+    "Coach Info": "https://gosoutheastern.com/sports/football/coaches",
     "Adress": "Durant, Oklahoma",
     "loc": "33.9924186,-96.39712329999999"
   },
@@ -1031,6 +1145,7 @@
     "Conference": "Great American Conference",
     "Website": "https://web.saumag.edu/",
     "Camp Link": "https://www.muleriderfootballcamps.com/",
+    "Coach Info": "https://muleriderathletics.com/sports/football/coaches",
     "Adress": "Magnolia, Arkansas",
     "loc": "33.2670757,-93.2393835"
   },
@@ -1039,7 +1154,8 @@
     "Name": "Southern Connecticut State University",
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.southernct.edu/",
-    "Camp Link": "https://camps.jumpforward.com/CCSU",
+    "Camp Link": "https://scsuowls.com/sports/2007/12/28/GEN_1228073253.aspx?tab=camps",
+    "Coach Info": "https://scsuowls.com/staff-directory",
     "Adress": "New Haven, Connecticut",
     "loc": "41.308274,-72.9278835"
   },
@@ -1049,6 +1165,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.snu.edu/",
     "Camp Link": "https://www.snufootballcamps.com/",
+    "Coach Info": "https://snuathletics.com/sports/football/coaches",
     "Adress": "Bethany, Oklahoma",
     "loc": "35.5186678,-97.63226390000001"
   },
@@ -1058,6 +1175,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.sbuniv.edu/",
     "Camp Link": "https://coachclardyfootball.totalcamps.com/About%20Us",
+    "Coach Info": "https://www.sbubearcats.com/sports/football/coaches",
     "Adress": "Bolivar, Missouri",
     "loc": "37.6144838,-93.4104749"
   },
@@ -1067,6 +1185,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.smsu.edu/",
     "Camp Link": "https://www.smsufootballcamps.com/",
+    "Coach Info": "https://smsumustangs.com/sports/football/coaches",
     "Adress": "Marshall, Minnesota",
     "loc": "44.448423,-95.79119159999999"
   },
@@ -1076,6 +1195,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.swosu.edu/",
     "Camp Link": "https://swosuathletics.com/sports/2022/3/29/2022-summer-camps.aspx",
+    "Coach Info": "https://swosuathletics.com/sports/football/coaches",
     "Adress": "Weatherford, Oklahoma",
     "loc": "35.5261633,-98.7075744"
   },
@@ -1085,6 +1205,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://www.tamuc.edu/",
     "Camp Link": "https://lionathletics.com/sports/2017/5/16/camps.aspx",
+    "Coach Info": "https://lionathletics.com/sports/football/coaches",
     "Adress": "Commerce, Texas",
     "loc": "33.2470567,-95.8999656"
   },
@@ -1093,7 +1214,8 @@
     "Name": "Texas A&M University – Kingsville",
     "Conference": "Lone Star Conference",
     "Website": "https://www.tamuk.edu/",
-    "Camp Link": "https://javelinafootballcamps.totalcamps.com/About%20Us",
+    "Camp Link": "https://www.javelinaathleticcamps.com/",
+    "Coach Info": "https://javelinaathletics.com/sports/football/coaches",
     "Adress": "Kingsville, Texas",
     "loc": "27.5158689,-97.85610899999999"
   },
@@ -1103,6 +1225,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.uvawise.edu/",
     "Camp Link": "https://uvawisecavs.com/sports/football",
+    "Coach Info": "https://uvawisecavs.com/sports/football/coaches",
     "Adress": "Wise, Virginia",
     "loc": "36.9759345,-82.5757108"
   },
@@ -1112,6 +1235,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.tiffin.edu/",
     "Camp Link": "https://www.tiffin.edu/admissions/camps/",
+    "Coach Info": "https://www.gotiffindragons.com/sports/fball/coaches/index",
     "Adress": "Tiffin, Ohio",
     "loc": "41.1144992,-83.1779746"
   },
@@ -1121,6 +1245,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.truman.edu/",
     "Camp Link": "https://trumanbulldogs.com/news/2021/5/12/SummerCamps14.aspx",
+    "Coach Info": "https://trumanbulldogs.com/sports/football/coaches",
     "Adress": "Kirksville, Missouri",
     "loc": "40.19475389999999,-92.5832496"
   },
@@ -1130,6 +1255,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://site.tusculum.edu/",
     "Camp Link": "https://www.tusculumpioneers.com/information/camps/index_-2019_Camps-",
+    "Coach Info": "https://www.tusculumpioneers.com/sports/fball/coaches/index",
     "Adress": "Greeneville, Tennessee",
     "loc": "36.1631574,-82.83098609999999"
   },
@@ -1139,6 +1265,7 @@
     "Conference": "Southern Intercollegiate Athletic Conference",
     "Website": "https://www.tuskegee.edu/",
     "Camp Link": "https://www.tuskegeesportscamps.com/",
+    "Coach Info": "https://goldentigersports.com/sports/football/coaches",
     "Adress": "Tuskegee, Alabama",
     "loc": "32.430237,-85.7077266"
   },
@@ -1148,6 +1275,7 @@
     "Conference": "Great American Conference",
     "Website": "https://www.uamont.edu/",
     "Camp Link": "https://www.hudjacksonfootballcamps.com/",
+    "Coach Info": "https://www.uamsports.com/sports/football/coaches",
     "Adress": "Monticello, Arkansas",
     "loc": "33.6296702,-91.8021856"
   },
@@ -1157,6 +1285,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.ucmo.edu/",
     "Camp Link": "https://www.mulesfootballcamps.com/individual-camp.cfm",
+    "Coach Info": "https://ucmathletics.com/sports/football/coaches",
     "Adress": "Warrensburg, Missouri",
     "loc": "38.7627893,-93.73604979999999"
   },
@@ -1166,6 +1295,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.uco.edu/",
     "Camp Link": "https://www.uco.edu/offices/events/summer-camps",
+    "Coach Info": "https://bronchosports.com/sports/football/coaches",
     "Adress": "Edmond, Oklahoma",
     "loc": "35.6528323,-97.47809540000002"
   },
@@ -1175,6 +1305,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.ucwv.edu/",
     "Camp Link": "https://ucgoldeneaglescamps.com/",
+    "Coach Info": "https://ucgoldeneagles.com/sports/football/coaches",
     "Adress": "Charleston, West Virginia",
     "loc": "38.3498195,-81.6326234"
   },
@@ -1184,6 +1315,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.findlay.edu/",
     "Camp Link": "https://athletics.findlay.edu/camps/camps-clinics",
+    "Coach Info": "https://athletics.findlay.edu/sports/fball/coaches/index",
     "Adress": "Findlay, Ohio",
     "loc": "41.04422,-83.6499321"
   },
@@ -1192,7 +1324,8 @@
     "Name": "University of Indianapolis",
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.uindy.edu/",
-    "Camp Link": "https://camps.jumpforward.com/UIndyFootballCamps2022",
+    "Camp Link": "https://www.chriskeeversfootball.com/",
+    "Coach Info": "https://athletics.uindy.edu/sports/football/coaches",
     "Adress": "Indianapolis, Indiana",
     "loc": "39.768403,-86.158068"
   },
@@ -1202,6 +1335,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.umary.edu/",
     "Camp Link": "https://www.maraudersfootballcamps.com/",
+    "Coach Info": "https://goumary.com/sports/football/coaches",
     "Adress": "Bismarck, North Dakota",
     "loc": "46.8054947,-100.7876931"
   },
@@ -1211,6 +1345,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.d.umn.edu/",
     "Camp Link": "https://umdbulldogsportcamps.com/",
+    "Coach Info": "https://umdbulldogs.com/sports/football/coaches",
     "Adress": "Duluth, Minnesota",
     "loc": "46.78667189999999,-92.1004852"
   },
@@ -1220,6 +1355,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.unk.edu/",
     "Camp Link": "https://football.lopercamps.com/",
+    "Coach Info": "https://lopers.com/sports/football/coaches",
     "Adress": "Kearney, Nebraska",
     "loc": "40.69933030000001,-99.0816784"
   },
@@ -1229,6 +1365,7 @@
     "Conference": "Northeast-10 Conference",
     "Website": "https://www.newhaven.edu/",
     "Camp Link": "https://newhavenchargers.com/sports/2010/2/16/FB_Camps.aspx",
+    "Coach Info": "https://newhavenchargers.com/sports/football/coaches",
     "Adress": "West Haven, Connecticut",
     "loc": "41.2705484,-72.9469711"
   },
@@ -1238,6 +1375,7 @@
     "Conference": "Division II Independents",
     "Website": "https://www.uncp.edu/",
     "Camp Link": "https://srfootballcamps.com/",
+    "Coach Info": "https://uncpbraves.com/sports/football/coaches",
     "Adress": "Pembroke, North Carolina",
     "loc": "34.6801626,-79.1950373"
   },
@@ -1247,6 +1385,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.usiouxfalls.edu/",
     "Camp Link": "https://usfcougars.com/sports/2011/8/15/205243143.aspx",
+    "Coach Info": "https://usfcougars.com/sports/football/coaches",
     "Adress": "Sioux Falls, South Dakota",
     "loc": "43.5460223,-96.731265"
   },
@@ -1256,6 +1395,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://www.utpb.edu/",
     "Camp Link": "https://www.utpb.edu/life-at-utpb/student-life/summer-camps",
+    "Coach Info": "https://utpbfalcons.com/sports/football/coaches",
     "Adress": "Odessa, Texas",
     "loc": "31.8456816,-102.3676431"
   },
@@ -1265,6 +1405,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.uwa.edu/",
     "Camp Link": "https://www.uwafootballcamps.com/",
+    "Coach Info": "https://uwaathletics.com/sports/football/coaches",
     "Adress": "Livingston, Alabama",
     "loc": "32.5843025,-88.1872475"
   },
@@ -1274,6 +1415,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://uwf.edu/",
     "Camp Link": "https://www.goargosfootballcamps.com/",
+    "Coach Info": "https://goargos.com/sports/football/coaches",
     "Adress": "Pensacola, Florida",
     "loc": "30.42130899999999,-87.2169149"
   },
@@ -1283,6 +1425,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.westga.edu/",
     "Camp Link": "https://uwgathletics.com/sports/2022/3/8/2022-summer-camps.aspx",
+    "Coach Info": "https://uwgathletics.com/sports/football/coaches",
     "Adress": "Carrollton, Georgia",
     "loc": "33.5801103,-85.0766113"
   },
@@ -1292,6 +1435,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.westga.edu/",
     "Camp Link": "https://uwgathletics.com/sports/2022/3/8/2022-summer-camps.aspx",
+    "Coach Info": "https://uiupeacocks.com/sports/football/coaches",
     "Adress": "Fayette, Iowa",
     "loc": "42.84192549999999,-91.8021071"
   },
@@ -1301,6 +1445,7 @@
     "Conference": "Gulf South Conference",
     "Website": "https://www.valdosta.edu/",
     "Camp Link": "https://www.vstatefootballcamps.com/",
+    "Coach Info": "https://vstateblazers.com/sports/football/coaches",
     "Adress": "Valdosta, Georgia",
     "loc": "30.8327022,-83.2784851"
   },
@@ -1310,6 +1455,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.vsu.edu/",
     "Camp Link": "https://govsutrojans.com/sports/summer-camps",
+    "Coach Info": "https://govsutrojans.com/sports/football/coaches",
     "Adress": "Petersburg, Virginia",
     "loc": "37.2279279,-77.40192669999999"
   },
@@ -1319,6 +1465,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.vuu.edu/",
     "Camp Link": "https://vuumegacamp.com/",
+    "Coach Info": "https://vuusports.com/sports/football/coaches",
     "Adress": "Richmond, Virginia",
     "loc": "37.5407246,-77.4360481"
   },
@@ -1328,6 +1475,7 @@
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://www.walsh.edu/",
     "Camp Link": "https://athletics.walsh.edu/sports/football",
+    "Coach Info": "https://athletics.walsh.edu/sports/football/coaches",
     "Adress": "North Canton, Ohio",
     "loc": "40.875891,-81.4023356"
   },
@@ -1337,6 +1485,7 @@
     "Conference": "Mid-America Intercollegiate Athletics Association",
     "Website": "https://www.washburn.edu/",
     "Camp Link": "https://wusports.com/sports/2023/2/16/football-camps.aspx",
+    "Coach Info": "https://wusports.com/sports/football/coaches",
     "Adress": "Topeka, Kansas",
     "loc": "39.0473451,-95.67515759999999"
   },
@@ -1346,6 +1495,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.wsc.edu/",
     "Camp Link": "https://www.wscfootballcamps.com/",
+    "Coach Info": "https://wsuathletics.com/sports/football/coaches",
     "Adress": "Wayne, Nebraska",
     "loc": "42.2305588,-97.0178236"
   },
@@ -1354,7 +1504,8 @@
     "Name": "Wayne State University",
     "Conference": "Great Lakes Intercollegiate Athletic Conference",
     "Website": "https://wayne.edu/",
-    "Camp Link": "https://www.wscfootballcamps.com/",
+    "Camp Link": "https://wsuathletics.com/sports/2009/9/28/camps.aspx",
+    "Coach Info": "https://wsuathletics.com/sports/football/coaches",
     "Adress": "Detroit, Michigan",
     "loc": "42.331427,-83.0457538"
   },
@@ -1364,6 +1515,7 @@
     "Conference": "Pennsylvania State Athletic Conference",
     "Website": "https://www.wcupa.edu/",
     "Camp Link": "https://www.wcupa.edu/summerCamps/",
+    "Coach Info": "https://wcupagoldenrams.com/sports/football/coaches",
     "Adress": "West Chester, Pennsylvania",
     "loc": "39.9606643,-75.6054882"
   },
@@ -1373,6 +1525,7 @@
     "Conference": "West Virginia Intercollegiate Athletic Conference",
     "Website": "https://westliberty.edu/",
     "Camp Link": "https://hilltoppersports.com/sb_output.aspx?form=34",
+    "Coach Info": "https://hilltoppersports.com/sports/football/coaches",
     "Adress": "West Liberty, West Virginia",
     "loc": "40.169794,-80.5936851"
   },
@@ -1382,6 +1535,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://www.wtamu.edu/",
     "Camp Link": "https://gobuffsgo.com/sports/2022/2/22/2022-summer-camps.aspx",
+    "Coach Info": "https://gobuffsgo.com/sports/football/coaches",
     "Adress": "Canyon, Texas",
     "loc": "34.9803342,-101.9188024"
   },
@@ -1391,6 +1545,7 @@
     "Conference": "West Virginia Intercollegiate Athletic Conference",
     "Website": "https://www.wvstateu.edu/",
     "Camp Link": "https://wvsuyellowjackets.com/sports/2020/6/23/coach-john-penningtons-football-camp.aspx",
+    "Coach Info": "https://wvsuyellowjackets.com/sports/football/coaches",
     "Adress": "Institute, West Virginia",
     "loc": "38.38377,-81.7657977"
   },
@@ -1400,6 +1555,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://www.wvwc.edu/",
     "Camp Link": "https://www.wvwc.edu/conferences-events-and-camps/",
+    "Coach Info": "https://wesleyanbobcats.com/sports/football/coaches",
     "Adress": "Buckhannon, West Virginia",
     "loc": "38.9939872,-80.2320276"
   },
@@ -1409,6 +1565,7 @@
     "Conference": "Rocky Mountain Athletic Conference",
     "Website": "https://western.edu/",
     "Camp Link": "https://gomountaineers.com/sports/2016/2/11/FBCAMP_0211160954.aspx",
+    "Coach Info": "https://gomountaineers.com/sports/football/coaches",
     "Adress": "Gunnison, Colorado",
     "loc": "38.5458246,-106.9253207"
   },
@@ -1418,6 +1575,7 @@
     "Conference": "Lone Star Conference",
     "Website": "https://wnmu.edu/",
     "Camp Link": "https://www.vigilfootballcamp.com/",
+    "Coach Info": "https://wnmumustangs.com/sports/football/coaches",
     "Adress": "Silver City, New Mexico",
     "loc": "32.770075,-108.280326"
   },
@@ -1427,6 +1585,7 @@
     "Conference": "Great Northwest Athletic Conference",
     "Website": "https://wou.edu/",
     "Camp Link": "https://wouwolves.com/sports/2019/3/18/wou-football-camps.aspx",
+    "Coach Info": "https://wouwolves.com/sports/football/coaches",
     "Adress": "Monmouth, Oregon",
     "loc": "44.8484524,-123.2339888"
   },
@@ -1436,6 +1595,7 @@
     "Conference": "Mountain East Conference",
     "Website": "https://wheeling.edu/",
     "Camp Link": "https://wheelingcamps.com/",
+    "Coach Info": "https://wucardinals.com/sports/football/coaches",
     "Adress": "Wheeling, West Virginia",
     "loc": "40.0639616,-80.7209149"
   },
@@ -1445,6 +1605,7 @@
     "Conference": "Great Lakes Valley Conference",
     "Website": "https://www.jewell.edu/",
     "Camp Link": "https://williamjewellcamps.com/",
+    "Coach Info": "https://jewellcardinals.com/sports/football/coaches",
     "Adress": "Liberty, Missouri",
     "loc": "39.2461138,-94.4191177"
   },
@@ -1454,6 +1615,7 @@
     "Conference": "South Atlantic Conference",
     "Website": "https://www.wingate.edu/",
     "Camp Link": "https://wingatebulldogs.com/sports/2013/3/28/FB_0328130248.aspx?id=404",
+    "Coach Info": "https://wingatebulldogs.com/sports/football/coaches",
     "Adress": "Wingate, North Carolina",
     "loc": "34.9843176,-80.4492319"
   },
@@ -1463,6 +1625,7 @@
     "Conference": "Northern Sun Intercollegiate Conference",
     "Website": "https://www.winona.edu/",
     "Camp Link": "https://www.warriorfootballcamps.com/",
+    "Coach Info": "https://winonastatewarriors.com/sports/football/coaches",
     "Adress": "Winona, Minnesota",
     "loc": "44.0553908,-91.6663523"
   },
@@ -1472,6 +1635,7 @@
     "Conference": "Central Intercollegiate Athletic Association",
     "Website": "https://www.wssu.edu/",
     "Camp Link": "https://wssurams.com/news/2022/7/6/football-announces-secomd-prospect-camp.aspx",
+    "Coach Info": "https://wssurams.com/sports/football/coaches",
     "Adress": "Winston-Salem, North Carolina",
     "loc": "36.09985959999999,-80.244216"
   }
