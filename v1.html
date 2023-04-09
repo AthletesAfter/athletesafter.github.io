@@ -242,55 +242,55 @@
         };
         
         function searchSchools(event) {
-    let input = event.target.value;
-    const url = 'Search_Collections.json';
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            const suggestions = document.getElementById("suggestions");
-            suggestions.innerHTML = '';
-            const matches = data.filter(school => {
-                const regex = new RegExp(`^${input}`, 'gi');
-                return school["Name of School"].match(regex);
-            });
-            if (input.length === 0) {
-                matches.length = 0;
-                suggestions.innerHTML = '';
-            }
-            if (matches.length > 0) {
-                matches.forEach(match => {
-                    const schoolName = match["Name of School"];
-                    const suggestionDiv = document.createElement('div');
-                    suggestionDiv.innerHTML = `<strong>${schoolName}</strong>`;
-                    suggestionDiv.addEventListener('click', () => {
-                        const latlngStr = match["loc"].split(",", 2);
-                        const latlng = {
-                            lat: parseFloat(latlngStr[0]),
-                            lng: parseFloat(latlngStr[1]),
-                        };
-                        const details =
-                            `<h2>${match['Name of School']}</h2><br/>
-                            <img src="${getIconUrl(match['Website'], 128)}" width="128" height="128"/> <br/>
-                            <strong> Conference: </strong>${match['Conference']}<br/>
-                            <strong> Division: </strong>${match['Division']}<br/>
-                            <strong> Status: </strong>${match['Private/Public']}<br/>
-                            <strong> <a href="${match['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
-                            <strong> <a href="${match['Camp link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
-                            <strong> <a href="${match['Coach Info']}" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
-                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(match["Address"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
-                        clear();
-                        makeMarker(map, {
-                            name: schoolName,
-                            latlng: latlng,
-                            url: match['Website'],
-                            details: details
-                        });
-                    });
-                    suggestions.appendChild(suggestionDiv);
-                });
-            }
-        })
-        .catch(err => console.log(err));
+  const input = event.target.value.trim().toLowerCase();
+  const url = 'Search_Collections.json';
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      const suggestions = document.getElementById("suggestions");
+      suggestions.innerHTML = '';
+      const matches = data.filter(school => {
+        const regex = new RegExp(`^${input}`, 'gi');
+        return school["Name of School"].match(regex);
+      });
+      if (input.length === 0 || matches.length === 0) {
+        suggestions.innerHTML = '';
+        return;
+      }
+      const maxSuggestions = 4;
+      const numSuggestions = Math.min(matches.length, maxSuggestions);
+      for (let i = 0; i < numSuggestions; i++) {
+        const schoolName = matches[i]["Name of School"];
+        const suggestionDiv = document.createElement('div');
+        suggestionDiv.innerHTML = schoolName.replace(new RegExp(input, "gi"), (match) => `<strong>${match}</strong>`);
+        suggestionDiv.addEventListener('click', () => {
+          const latlngStr = matches[i]["loc"].split(",", 2);
+          const latlng = {
+            lat: parseFloat(latlngStr[0]),
+            lng: parseFloat(latlngStr[1]),
+          };
+          const details = `<h2>${matches[i]['Name of School']}</h2><br/>
+                            <img src="${getIconUrl(matches[i]['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${matches[i]['Conference']}<br/>
+                            <strong> Division: </strong>${matches[i]['Division']}<br/>
+                            <strong> Status: </strong>${matches[i]['Private/Public']}<br/>
+                            <strong> <a href="${matches[i]['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+                            <strong> <a href="${matches[i]['Camp link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                            <strong> <a href="${matches[i]['Coach Info']}" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(matches[i]["Address"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+          clear();
+          makeMarker(map, {
+            name: schoolName,
+            latlng: latlng,
+            url: matches[i]['Website'],
+            details: details
+          });
+          suggestions.innerHTML = '';
+        });
+        suggestions.appendChild(suggestionDiv);
+      }
+    })
+    .catch(err => console.log(err));
 }
 
   
