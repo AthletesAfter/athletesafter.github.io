@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Athletes After database version 1</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script type="text/javascript">
+        // Initialize and add the map
+        let markers = [];
+
+        function clear() {
+            markers.forEach((marker) => {
+                marker.setMap(null);
+            });
+            markers = [];
+        }
+
+        function getIconUrl(baseurl, size) {
+            return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${baseurl}&size=${size}`;
+        }
+
+        function centerMap(map) {
+            console.log("Getting location!");
+            navigator.geolocation.getCurrentPosition(
+                (position) => {
+                    const pos = {
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude,
+                    };
+                    console.log(pos);
+                    map.setCenter(pos);
+                    map.setZoom(8);
+                }, console.log
+            );
+        }
+
+        function makeMarker(map, school) {
+            let m = new google.maps.Marker({
+                position: school['latlng'],
+                map: map,
+                icon: getIconUrl(school['url'], 32)
+            });
+            let infoWindow = new google.maps.InfoWindow({
+                content: `<strong>${school['name']}</strong>`,
+            })
+            let detailWindow = new google.maps.InfoWindow({
+                content: school['details']
+            })
+            m.addListener("mouseover", () => {
+                infoWindow.open({
+                    anchor: m,
+                    map
+                })
+            });
+            m.addListener("click", () => {
+                infoWindow.close();
+                detailWindow.open({
+                    anchor: m,
+                    map
+                })
+            })
+            m.addListener("mouseout", () => {
+                infoWindow.close();
+            })
+           
+            markers.push(m);
+        }
+
+        function showD1(map) { 
+            clear();
+            fetch("https://athletesafter.github.io/json/d1_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        try {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let details =
+                            `<h2>${school['Name of School']}</h2><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${school['']}<br/>
+                            <strong> Devison: </strong>${school['']}<br/>
+                            <strong> Status: </strong>${school['Private/Public']}<br/>
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                        makeMarker(map, {
+                            name: school['Name of School'],
+                            latlng: latlng,
+                            url: school['Website'],
+                            details: details
+                        })
+                    } catch(error) {
+                        console.log("Error in making marker", error);
+                    }
+                    })
+                })
+        };
+
+        function showD2(map) {
+            clear();
+            fetch("https://athletesafter.github.io/json/d2_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        try {
+                            
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let details =
+                            `<h2>${school['Name']}</h2><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${school['']}<br/>
+                            <strong> Status: </strong>${school['']}<br/>
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                        makeMarker(map, {
+                            name: school['Name'],
+                            latlng: latlng,
+                            url: school['Website'],
+                            details: details
+                        })
+                    } catch(error) {
+                        console.log("Error in making marker:", error)
+                    }
+                    })
+                })
+        };
+
+        function showD3(map) {
+            clear();
+            fetch("https://athletesafter.github.io/json/d3_loc.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        console.log("Printing school!");
+                        try {
+                            const latlngStr = school["loc"].split(",", 2);
+                            const latlng = {
+                                lat: parseFloat(latlngStr[0]),
+                                lng: parseFloat(latlngStr[1]),
+                            };
+                            let details = 
+                                `<h2>${school['School']}</h2><br/>
+                                <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                                <strong>Conference:</strong>${school['']}<br/>
+                                <strong> Status: </strong>${school['']}<br/>
+                                <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+                                <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                                <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Contact Information </a> </strong> <br />
+                                <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["School"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                            makeMarker(map, {
+                                name: school['School'],
+                                latlng: latlng,
+                                url: school['Website'],
+                                details: details
+                            })
+                        } catch (error) {
+                            console.log("Error in Mapping:", error);
+                        }
+                    })
+                })
+        };
+  
+        function showNAIA(map) {  
+            clear();
+            fetch("https://athletesafter.github.io/json/NCSA_NAIA_Footaball.json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        try {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let details =
+                            `<h2>${school['Name']}</h2><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${school['']}<br/>
+                            <strong> Devison: </strong>${school['']}<br/>
+                            <strong> Status: </strong>${school['']}<br/>
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Website </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Address"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                         makeMarker(map, {
+                            name: school['Name'],
+                            latlng: latlng,
+                            url: school['Website'],
+                            details: details
+                        })
+                    } catch(error) {
+                        console.log("Error in making marker", error);
+                    }
+                    })
+                })
+        };
+        
+        function showJuco(map) {  
+            clear();
+            fetch("https://athletesafter.github.io/json/NCSA_Juco_Footaball (1).json")
+                .then((response) => response.json())
+                .then(data => {
+                    data.forEach((school) => {
+                        try {
+                        const latlngStr = school["loc"].split(",", 2);
+                        const latlng = {
+                            lat: parseFloat(latlngStr[0]),
+                            lng: parseFloat(latlngStr[1]),
+                        };
+                        let details =
+                            `<h2>${school['Name of School']}</h2><br/>
+                            <img src="${getIconUrl(school['Website'], 128)}" width="128" height="128"/> <br/>
+                            <strong> Conference: </strong>${school['']}<br/>
+                            <strong> Devison: </strong>${school['']}<br/>
+                            <strong> Status: </strong>${school['']}<br/>
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Website </a> </strong> <br />
+                            <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+                             <strong> <a href="${school['']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Coach Info </a> </strong> <br />
+                            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(school["Adress"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+                         makeMarker(map, {
+                            name: school['Name of School'],
+                            latlng: latlng,
+                            url: school['Website'],
+                            details: details
+                        })
+                    } catch(error) {
+                        console.log("Error in making marker", error);
+                    }
+                    })
+                })
+        };
+        
+        function searchSchools(event) {
+  const input = event.target.value.trim().toLowerCase();
+  const url = "https://athletesafter.github.io/json/Search_Collection.json";
+
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      const suggestions = document.getElementById("suggestions");
+      suggestions.innerHTML = '';
+      const matches = data.filter(school => {
+        const regex = new RegExp(`^${input}`, 'gi');
+        return school["Name of School"].match(regex);
+      });
+      if (input.length === 0 || matches.length === 0) {
+        suggestions.innerHTML = '';
+        return;
+      }
+      const maxSuggestions = 4;
+      const numSuggestions = Math.min(matches.length, maxSuggestions);
+      for (let i = 0; i < numSuggestions; i++) {
+        const schoolName = matches[i]["Name of School"];
+        const suggestionDiv = document.createElement('div');
+        suggestionDiv.innerHTML = schoolName.replace(new RegExp(input, "gi"), (match) => `<strong>${match}</strong>`);
+        suggestionDiv.addEventListener('click', () => {
+          const latlngStr = matches[i]["loc"].split(",", 2);
+          const latlng = {
+            lat: parseFloat(latlngStr[0]),
+            lng: parseFloat(latlngStr[1]),
+          };
+          const details = `<h2>${matches[i]['Name of School']}</h2><br/>
+            <img src="${getIconUrl(matches[i]['Website'], 128)}" width="128" height="128"/> <br/>
+            <strong> Conference: </strong>${matches[i]['Conference']}<br/>
+            <strong> Division: </strong>${matches[i]['Division']}<br/>
+            <strong> Status: </strong>${matches[i]['Private/Public']}<br/>
+            <strong> <a href="${matches[i]['Website']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Academic Information </a> </strong> <br />
+            <strong> <a href="${matches[i]['Camp link']}" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"> Football Information </a> </strong> <br />
+            <strong> <a href="${matches[i]['Coach Info']}" target="_blank" rel="noopener noreferrer"> Coach Information </a> </strong> <br />
+            <strong> <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(matches[i]["Address"])}" target="_blank" rel="noopener noreferrer""> Directions </a> </strong>`;
+          clearMarkers();
+          makeMarker(map, {
+            name: schoolName,
+            latlng: latlng,
+            url: matches[i]['Website'],
+            details: details
+          });
+          suggestions.innerHTML = '';
+        });
+        suggestions.appendChild(suggestionDiv);
+      }
+    })
+    .catch(err => console.log(err));
+}
+  
+        
+       
+        function initMap() {
+            // The location of Uluru
+            const center_us = {
+                lat: 37.0902,
+                lng: -95.7129
+            };
+            
+                
+            // The map, centered at Uluru
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 4,
+                center: center_us,
+                styles: [{
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.icon",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.stroke",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#bdbdbd"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "labels.text",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.business",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#ffffff"
+                        }]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "labels.icon",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.arterial",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.arterial",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#dadada"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "transit",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.line",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.station",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#c9c9c9"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    }
+                ]
+            });
+            document.getElementById('button-d1').onclick = () => {
+                showD1(map);
+            }
+            document.getElementById('button-d2').onclick = () => {
+                showD2(map);
+            }
+            document.getElementById('button-d3').onclick = () => {
+                showD3(map);
+            }
+            document.getElementById('button-NAIA').onclick = () => {
+                showNAIA(map);
+            }
+            document.getElementById('button-Juco').onclick = () => {
+                showJuco(map);
+            }
+            document.getElementById('button-center').onclick = () => {
+                centerMap(map);
+            }
+            document.getElementById('searchBox').addEventListener('input', function(event) {
+                searchSchools(event);
+            });
+            centerMap(map);
+
+        }
+
+        window.initMap = initMap;
+    </script>
+    <!-- jsFiddle will insert css and js -->
+</head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<body>
+    <h3>Athletes After DataBase</h3>
+    <input id="button-d1" type="button" value="DI" />
+    <input id="button-d2" type="button" value="DII" />
+    <input id="button-d3" type="button" value="DIII" />
+    <input id="button-NAIA" type="button" value="NAIA" />
+    <input id="button-Juco" type="button" value="Ju-Co" />
+    <input id="button-center" type="button" value="Center Map on My Location" />
+    <input type="search" id="searchBox" oninput="searchSchools(event)" />
+  <div id="suggestions"></div>
+    
+    <div id="map"></div>
+
+
+    <!--  -->
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCt630Wc44alS5gCZw0SwbSnd4xSmWaF34&callback=initMap&v=weekly"
+        defer></script>
+</body>
+
+<style>
+    h3 {
+        font-family: Montserrat;
+        font-size: 40px;
+    }
+    h2 {
+        font-family: Montserrat;
+        font-size: 20px;
+    }
+
+    /* Set the size of the div element that contains the map */
+    #map {
+        height: 90vh;
+        /* The height is 400 pixels */
+        width: 100%;
+        /* The width is the width of the web page */
+    }
+
+    input[type=button] {
+        all: unset;
+        background-color: #444;
+        color: #EEE;
+        padding: 3px 10px;
+        border-radius: 3px;
+        font-family: sans-serif;
+        border: 1px solid black;
+    }
+
+    input[type=button]:hover {
+        background-color: #222;
+    }
+</style>
+
+</html>
