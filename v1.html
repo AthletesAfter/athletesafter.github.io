@@ -507,9 +507,9 @@
             }
             document.getElementById('button-center').onclick = () => {
                 centerMap(map);
-                
             }
-            document.getElementById('searchBox').addEventListener('input', searchSchools);
+            document.getElementById('searchBox').addEventListener('input', searchSchools){
+                searchSchools(event);
             }
             centerMap(map);
 
